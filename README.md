@@ -6,17 +6,17 @@
 
 韻目的順序是：
 
-i u e ie ue a ia ua ɔ
+i|u|e|ie|ue|a|ia|ua|ɔ
 
-iɔ o ɯ ə ɐ uɐ iu ui əu
+iɔ|o|ɯ|ə|ɐ|uɐ|iu|ui|əu
 
-ieu ai uai au iau an ian uan aŋ
+ieu|ai|uai|au|iau|an|ian|uan|aŋ
 
-iaŋ uaŋ əŋ in un iŋ ɔŋ iɔŋ ĩ
+iaŋ|uaŋ|əŋ|in|un|iŋ|ɔŋ|iɔŋ|ĩ
 
-ũ ũĩ ã ĩã ũã ɔ̃ ə̃ ãĩ ə̃ũ
+ũ|ũĩ|ã|ĩã|ũã|ɔ̃|ə̃|ãĩ|ə̃ũ
 
-ĩũ ĩãũ m̩ ŋ̍
+ĩũ|ĩãũ|m̩|ŋ̍
 
 聲母的順序是：
 
