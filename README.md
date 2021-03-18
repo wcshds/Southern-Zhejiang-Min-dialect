@@ -5,29 +5,112 @@
 （一）本表以韻母爲序，韻母相同的字按聲母的順序排列，聲母、韻母相同的字按聲調順序排列。
 
 韻目的順序是：
-表头|表头|表头
----|:--:|---:
-内容|内容|内容
-内容|内容|内容
-
-表头|表头|表头|表头|表头|表头|表头|表头|表头
--|-|-|-|-|-|-|-|-
-i|u|e|ie|ue|a|ia|ua|ɔ
-iɔ|o|ɯ|ə|ɐ|uɐ|iu|ui|əu
-ieu|ai|uai|au|iau|an|ian|uan|aŋ
-iaŋ|uaŋ|əŋ|in|un|iŋ|ɔŋ|iɔŋ|ĩ
-ũ|ũĩ|ã|ĩã|ũã|ɔ̃|ə̃|ãĩ|ə̃ũ
-ĩũ|ĩãũ|m̩|ŋ̍
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td>i</td>
+            <td>u</td>
+            <td>e</td>
+            <td>ie</td>
+            <td>ue</td>
+            <td>a</td>
+            <td>ia</td>
+            <td>ua</td>
+            <td>ɔ</td>
+        </tr>
+        <tr>
+            <td>iɔ</td>
+            <td>o</td>
+            <td>ɯ</td>
+            <td>ə</td>
+            <td>ɐ</td>
+            <td>uɐ</td>
+            <td>iu</td>
+            <td>ui</td>
+            <td>əu</td>
+        </tr>
+        <tr>
+            <td>ieu</td>
+            <td>ai</td>
+            <td>uai</td>
+            <td>au</td>
+            <td>iau</td>
+            <td>an</td>
+            <td>ian</td>
+            <td>uan</td>
+            <td>aŋ</td>
+        </tr>
+        <tr>
+            <td>iaŋ</td>
+            <td>uaŋ</td>
+            <td>əŋ</td>
+            <td>in</td>
+            <td>un</td>
+            <td>iŋ</td>
+            <td>ɔŋ</td>
+            <td>iɔŋ</td>
+            <td>ĩ</td>
+        </tr>
+        <tr>
+            <td>ũ</td>
+            <td>ũĩ</td>
+            <td>ã</td>
+            <td>ĩã</td>
+            <td>ũã</td>
+            <td>ɔ̃</td>
+            <td>ə̃</td>
+            <td>ãĩ</td>
+            <td>ə̃ũ</td>
+        </tr>
+        <tr>
+            <td>ĩũ</td>
+            <td>ĩãũ</td>
+            <td>m̩</td>
+            <td>ŋ̍</td>
+        </tr>
+    </tbody>
+</table>
 
 聲母的順序是：
-
-p pʰ b t tʰ l t͡s t͡sʰ s
-
-z k kʰ ɡ h Ø
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td>p</td>
+            <td>pʰ</td>
+            <td>b</td>
+            <td>t</td>
+            <td>tʰ</td>
+            <td>l</td>
+            <td>t͡s</td>
+            <td>t͡sʰ</td>
+            <td>s</td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+            <td>z</td>
+            <td>k</td>
+            <td>kʰ</td>
+            <td>ɡ</td>
+            <td>h</td>
+            <td>Ø</td>
+        </tr>
+    </tbody>
+</table>
 
 聲調的順序是：
-
-陰平 ˦ 44  陽平 ˨˦ 24  陰上 ˥˧ 53  陽上 ˧˩31  去聲 ˩ 11
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td>陰平 ˦ 44</td>
+            <td>陽平 ˨˦ 24</td>
+            <td>陰上 ˥˧ 53</td>
+            <td>陽上 ˧˩31</td>
+            <td>去聲 ˩ 11</td>
+        </tr>
+    </tbody>
+</table>
 
 （二）一字有兩讀的，在字的右下角注“又讀”。
 
