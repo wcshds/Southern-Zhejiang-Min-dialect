@@ -12,15 +12,10 @@
 
 -|-|-|-|-|-|-|-|-
 i|u|e|ie|ue|a|ia|ua|ɔ
-
 iɔ|o|ɯ|ə|ɐ|uɐ|iu|ui|əu
-
 ieu|ai|uai|au|iau|an|ian|uan|aŋ
-
 iaŋ|uaŋ|əŋ|in|un|iŋ|ɔŋ|iɔŋ|ĩ
-
 ũ|ũĩ|ã|ĩã|ũã|ɔ̃|ə̃|ãĩ|ə̃ũ
-
 ĩũ|ĩãũ|m̩|ŋ̍
 
 聲母的順序是：
