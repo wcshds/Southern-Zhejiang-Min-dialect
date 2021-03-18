@@ -86,9 +86,6 @@
             <td>s</td>
         </tr>
         <tr>
-            <td></td>
-        </tr>
-        <tr>
             <td>z</td>
             <td>k</td>
             <td>kʰ</td>
