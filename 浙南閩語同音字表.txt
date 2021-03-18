@@ -1,4509 +1,4509 @@
-汉字	注释	声、韵	调	是否白读
-卑		pi	44	
-碑		pi	44	
-婢		pi	44	
-□	一种吸牛血的蝇虫	pi	44	
-啤		pi	24	
-脾		pi	24	
-比		pi	53	
-妣		pi	53	
-彼		pi	53	
-俾		pi	53	
-秘		pi	53	
-匕		pi	53	
-鳖		pi	53	白读
-□	枪毙	pi	53	
-备		pi	11	
-闭		pi	11	
-痹		pi	11	
-疪		pi	11	
-篦	～麻	pi	11	
-避		pi	11	
-批		pʰi	44	
-砒		pʰi	44	
-丕		pʰi	44	
-坯		pʰi	44	
-披		pʰi	44	
-□	以刀捎物	pʰi	44	
-皮		pʰi	24	
-疲		pʰi	24	
-脾	又读	pʰi	24	
-鄙		pʰi	53	
-痞		pʰi	53	
-譬		pʰi	53	
-□	结～：伤口钙化	pʰi	53	
-被	棉～	pʰi	31	
-被	～动	pʰi	11	
-鼻		pʰi	11	白读
-咪	笑～～	bi	44	
-□	呼小鸭声	bi	44	
-微		bi	24	
-篾	做～	bi	24	白读
-米		bi	53	
-美		bi	53	
-未		bi	11	
-味		bi	11	
-□	将头没入水中	bi	11	
-知		ti	44	
-蜘		ti	44	
-池		ti	24	
-驰		ti	24	
-迟		ti	24	
-弛		ti	24	
-墀		ti	24	
-碟		ti	24	白读
-底		ti	53	
-抵		ti	53	
-滴	～水	ti	53	白读
-弟	小～	ti	31	白读
-治		ti	31	
-置		ti	31	
-智		ti	31	
-致		ti	31	
-稚		ti	31	
-蒂		ti	11	
-戴	～帽	ti	11	白读
-梯	～队	tʰi	44	
-啼		tʰi	24	
-雉		tʰi	24	
-耻		tʰi	53	
-剃		tʰi	53	
-铁	拍～：打铁	tʰi	53	白读
-替		tʰi	11	
-涕		tʰi	11	
-递		tʰi	11	
-离		li	24	
-篱		li	24	
-漓		li	24	
-璃		li	24	
-厘		li	24	
-狸		li	24	
-笠	～斗	li	24	白读
-裂	～裂开	li	24	白读
-犁		li	24	
-梨		li	24	
-里		li	53	
-俚		li	53	
-浬		li	53	
-娌		li	53	
-理		li	53	
-鲤		li	53	
-李		li	53	
-利		li	11	
-痢		li	11	
-莉		li	11	
-俐		li	11	
-吏		li	11	
-之		t͡si	44	
-芝		t͡si	44	
-脂	～肪	t͡si	44	
-舌	喙～	t͡si	24	白读
-□	折断	t͡si	24	
-止		t͡si	53	
-址		t͡si	53	
-旬		t͡si	53	
-指		t͡si	53	白读
-子		t͡si	53	白读
-籽		t͡si	53	
-姐		t͡si	53	
-接	～侬客：迎接客人	t͡si	53	白读
-舐		t͡si	31	白读
-志		t͡si	11	
-痣		t͡si	11	
-至		t͡si	11	
-鳍		t͡sʰi	44	
-□	食品下热锅声	t͡sʰi	44	
-持		t͡sʰi	24	
-翅		t͡sʰi	24	
-□	低头	t͡sʰi	53	
-□	闪～：闪电	t͡sʰi	53	
-齿		t͡sʰi	53	
-市		t͡sʰi	31	
-刺		t͡sʰi	11	
-饲	～猪：喂猪，养猪	t͡sʰi	11	
-尸		si	44	
-诗		si	44	
-丝		si	44	
-鸶		si	44	
-私	家～：家产	si	44	白读
-撕	～布	si	44	白读
-蛳	螺～	si	44	白读
-施	～舍	si	44	
-时		si	24	
-鲥		si	24	
-匙		si	24	
-蚀	～本	si	24	白读
-辞		si	24	
-死		si	53	白读
-始		si	53	白读
-是		si	31	
-氏		si	31	
-恃		si	31	
-痔		si	31	
-峙		si	31	
-寺		si	11	
-侍		si	11	
-示		si	11	
-驷		si	11	
-肆		si	11	
-四		si	11	
-豉	豆～	si	11	
-□	按	zi	24	
-儿	～子	zi	24	
-而	～且	zi	24	
-字		zi	11	
-二		zi	11	
-贰		zi	11	
-腻	细～：省，节约	zi	11	
-饵	鱼～	zi	11	
-几		ki	44	
-饥		ki	44	
-机		ki	44	
-肌		ki	44	
-矶		ki	44	
-叽		ki	44	
-支		ki	44	
-枝		ki	44	
-肢		ki	44	
-吱		ki	44	
-基		ki	44	
-箕		ki	44	
-姬		ki	44	
-既		ki	44	
-奇		ki	24	
-骑		ki	24	
-其		ki	24	
-期		ki	24	
-棋		ki	24	
-旗		ki	24	
-琪		ki	24	
-祈		ki	24	
-祁		ki	24	
-歧		ki	24	
-鳍		ki	24	
-几	～个	ki	53	
-己		ki	53	
-杞		ki	53	
-纪		ki	53	
-技		ki	31	
-伎		ki	31	
-妓		ki	31	
-记		ki	11	
-忌		ki	11	
-欺		kʰi	44	
-蜞	岳～：蚂蟥	kʰi	24	
-岂		kʰi	53	
-起		kʰi	53	
-齿	牙～	kʰi	53	白读
-柿		kʰi	31	
-企		kʰi	31	
-气		kʰi	11	
-汽		kʰi	11	
-弃		kʰi	11	
-器		kʰi	11	
-宜		ɡi	24	
-谊		ɡi	24	
-仪		ɡi	24	
-疑		ɡi	24	
-议		ɡi	53	
-蚁		ɡi	53	
-拟		ɡi	53	
-□	指	ɡi	53	
-义		ɡi	11	
-希		hi	44	
-稀		hi	44	
-牺		hi	44	
-熙		hi	44	
-熹		hi	44	
-禧		hi	44	
-嬉		hi	44	
-喜		hi	53	
-耳	～空：耳朵	hi	31	白读
-戏		hi	11	
-衣		i	44	
-依		i	44	
-伊		i	44	
-医		i	44	
-夷		i	24	
-姨		i	24	
-胰		i	24	
-怡		i	24	
-贻		i	24	
-饴		i	24	
-唯		i	24	
-维		i	24	
-惟		i	24	
-潍		i	24	
-彝		i	24	
-颐		i	24	
-移		i	24	
-已		i	53	
-以		i	53	
-椅		i	53	
-倚		i	53	
-矣		i	31	
-□	阿～：祖父	i	31	
-亿		i	11	
-乜		i	11	
-肄	～业	i	11	
-意		i	11	
-臆	～造	i	11	
-易	容～	i	11	
-异	～己	i	11	
-□	亲小儿	pu	44	
-□	把食物直接放在火堆中烧熟	pu	24	
-瓠	葫芦	pu	24	
-妇	新～：新娘；媳妇	pu	31	白读
-孵		pu	11	
-浮		pʰu	24	白读
-芙	～蓉	pʰu	24	
-葡	～萄	pʰu	24	
-□	生～：食物放久后生长毛	pʰu	53	
-普	天～～光：天蒙蒙亮	pʰu	53	白读
-无		bu	24	
-芜		bu	24	
-武		bu	53	
-鹉		bu	53	
-侮		bu	53	白读
-母		bu	53	
-怃		bu	53	
-抚		bu	53	
-妩		bu	53	
-□	从口腔里吐出来	bu	31	
-务		bu	11	
-雾		bu	11	
-鹜		bu	11	
-巫		bu	11	
-诬		bu	11	
-蛛	蜘～	tu	44	
-厨		tu	24	
-橱		tu	24	
-抵	顶住	tu	53	白读
-□	～～：正好	tu	53	
-□	找钱	tu	53	
-□	沾水	tu	31	
-注	落～：下赌注	tu	11	白读
-堵		tu	11	
-拖	～地板	tʰu	44	
-□	搠	tʰu	53	
-朱		t͡su	44	
-珠		t͡su	44	
-株		t͡su	44	
-侏		t͡su	44	
-诛		t͡su	44	
-主		t͡su	53	
-柱		t͡su	31	
-住		t͡su	31	
-炷		t͡su	31	
-驻		t͡su	31	
-聚		t͡su	31	
-注		t͡su	11	
-蛀	～虫	t͡su	11	
-铸		t͡su	11	
-趋		t͡sʰu	44	
-雏		t͡sʰu	44	
-取		t͡sʰu	53	
-娶		t͡sʰu	53	
-趣		t͡sʰu	11	
-厝	房子	t͡sʰu	11	
-输		su	44	
-须		su	44	
-需		su	44	
-舒		su	44	
-殊		su	24	
-玺		su	53	
-徙		su	53	
-嗽	吮吸	su	53	白读
-暑		su	11	
-曙		su	11	
-树		su	11	
-竖		su	11	
-𥚢	又读	su	11	
-儒		zu	24	
-孺		zu	24	
-蠕		zu	24	
-俞		zu	24	
-瑜		zu	24	
-榆		zu	24	
-愉		zu	24	
-逾		zu	24	
-愈		zu	53	
-乳		zu	53	
-裕		zu	11	
-喻		zu	11	
-拘		ku	44	
-驹		ku	44	
-□	蹲	ku	44	
-□	金～：虫名	ku	44	
-□	hau44～：驼背	ku	44	
-居	在	ku	44	白读
-久		ku	53	白读
-舅		ku	31	白读
-具		ku	11	
-惧		ku	11	
-旧		ku	11	白读
-句		ku	11	
-瞿		ku	11	
-区		kʰu	44	
-岖		kʰu	44	
-躯		kʰu	44	
-驱		kʰu	44	
-丘		kʰu	44	白读
-臼		kʰu	31	
-愚		ɡu	24	
-诬		ɡu	24	
-牛		ɡu	24	白读
-寓		ɡu	11	
-愚		ɡu	11	
-遇		ɡu	11	
-夫		hu	44	
-肤		hu	44	
-麸		hu	44	
-孚		hu	44	
-俘		hu	44	
-蜉		hu	44	
-灰	火～：灰烬	hu	44	白读
-敷		hu	44	
-扶		hu	24	
-芙		hu	24	
-符		hu	24	
-斧	～正	hu	53	
-府		hu	53	
-俯		hu	53	
-腑		hu	53	
-甫		hu	53	
-父		hu	31	
-妇		hu	31	
-付		hu	11	
-咐		hu	11	
-附		hu	11	
-驸		hu	11	
-赴		hu	11	
-讣		hu	11	
-傅		hu	11	
-富		hu	11	
-副		hu	11	
-赋		hu	11	
-辅		hu	11	
-腐		hu	11	
-负		hu	11	
-污		u	44	
-宇		u	44	
-雨		u	53	
-禹		u	53	
-羽		u	53	
-有		u	31	
-□	以香烫物	u	11	
-□	往嘴里扒饭	pe	44	
-爬		pe	24	白读
-杷		pe	24	白读
-耙		pe	24	白读
-扒		pe	24	白读
-白		pe	24	白读
-把	火～	pe	53	白读
-伯		pe	53	白读
-柏		pe	53	白读
-剥		pe	53	白读
-爸	客～：岳父	pe	31	白读
-币		pe	11	
-毙		pe	11	
-弊		pe	11	
-蔽		pe	11	
-□	量词，东西盛满一围裙	pʰe	11	
-咩	羊叫声	be	44	
-迷		be	24	
-脉		be	24	白读
-麦		be	24	白读
-马		be	53	
-码		be	53	
-茶		te	24	
-□	压，回赠	te	53	
-弟		te	31	
-第		te	31	
-帝		te	11	
-地		te	11	
-撑	～雨伞	tʰe	44	白读
-□	半躺	tʰe	44	
-提		tʰe	24	
-堤		tʰe	24	
-宅		tʰe	24	
-体		tʰe	53	
-□	海～	tʰe	31	
-黎		le	24	
-丽	高～	le	24	
-礼		le	53	
-丽	美～	le	11	
-渣		t͡se	44	白读
-齐		t͡se	24	
-脐	～带	t͡se	24	
-仄	平～	t͡se	53	
-叔	三～，四～	t͡se	53	白读
-祭		t͡se	11	
-际		t͡se	11	
-济		t͡se	11	
-制		t͡se	11	
-寨		t͡se	11	白读
-妻		t͡sʰe	44	
-凄		t͡sʰe	44	
-栖		t͡sʰe	44	
-叉		t͡sʰe	44	白读
-杈		t͡sʰe	44	白读
-镲	钹，声音沙哑	t͡sʰe	24	
-册		t͡sʰe	53	
-西		se	44	
-纱		se	44	白读
-痧	着～：中暑	se	44	白读
-旋	唾～：围嘴	se	24	白读
-□	木质条状框，上可放物	se	53	
-世		se	11	
-泄		se	11	
-势		se	11	
-细		se	11	
-逝		se	11	
-多		ke	44	白读
-家		ke	44	白读
-街		ke	44	
-鸡		ke	44	
-圭		ke	44	
-枷		ke	24	
-格		ke	53	白读
-假		ke	53	白读
-计		ke	11	
-继		ke	11	
-嫁		ke	11	白读
-价		ke	11	白读
-架		ke	11	白读
-溪		kʰe	44	白读
-启		kʰe	53	
-客		kʰe	53	白读
-契		kʰe	11	
-牙		ɡe	24	白读
-芽		ɡe	24	白读
-衙		ɡe	24	白读
-个		ɡe	24	白读
-艺		ɡe	31	
-毅		ɡe	31	
-□	～ku44:哮喘	he	44	
-虾		he	24	白读
-霞		he	24	白读
-暇	放～：放学	he	31	白读
-夏		he	11	白读
-系		he	11	
-哑	～九：哑巴	e	44	白读
-□	惊奇声	e	24	
-下		e	31	白读
-会		e	31	白读
-厦	～门	e	11	
-白		pie	24	
-帛		pie	24	
-别	辞～	pie	24	
-弼		pie	24	
-必		pie	53	
-毕		pie	53	
-笔		pie	53	
-伯		pie	53	
-百		pie	53	
-迫		pie	53	
-柏		pie	53	
-逼		pie	53	
-鳖		pie	53	
-匹		pʰie	53	
-撇	～开	pʰie	53	
-碧		pʰie	53	
-魄		pʰie	53	
-瞥		pʰie	53	
-僻		pʰie	53	
-劈		pʰie	53	
-霹	～雳	pʰie	53	
-密		bie	24	
-蜜		bie	24	
-灭		bie	24	
-蔑		bie	24	
-墨		bie	24	
-默		bie	24	
-藐		bie	24	
-脉		bie	24	
-麦		bie	24	
-蝶		tie	24	
-谍		tie	24	
-牒		tie	24	
-叠		tie	24	
-直		tie	24	
-值		tie	24	
-植		tie	24	
-殖		tie	24	
-侄		tie	24	
-笛		tie	24	
-秩		tie	24	
-狄	姓	tie	24	
-泽		tie	24	
-择		tie	24	
-特		tie	24	
-蛰		tie	24	
-的		tie	53	
-得		tie	53	
-竹		tie	53	
-德		tie	53	
-摘		tie	53	
-嫡	～系	tie	53	
-滴		tie	53	
-帖		tʰie	53	
-贴		tʰie	53	
-铁		tʰie	53	
-惕		tʰie	53	
-剔		tʰie	53	
-彻		tʰie	53	
-沏		tʰie	53	
-撤		tʰie	53	
-□	～桃：玩耍，游玩	tʰie	53	白读
-列		lie	24	
-烈		lie	24	
-裂		lie	24	
-力		lie	24	
-历		lie	24	
-立		lie	24	
-笠		lie	24	
-粒		lie	24	
-猎		lie	24	
-绿		lie	24	白读
-聂		lie	53	
-摄		lie	53	
-慑		lie	53	
-粟	战～	lie	53	
-涅		lie	53	
-捏	～造	lie	53	
-掠	～夺	lie	53	
-集		t͡sie	24	
-疾		t͡sie	24	
-寂		t͡sie	24	
-籍	户～	t͡sie	24	
-捷		t͡sie	24	
-截		t͡sie	24	
-一	～尾鱼	t͡sie	24	白读
-执		t͡sie	53	
-折		t͡sie	53	
-浙		t͡sie	53	
-接		t͡sie	53	
-质		t͡sie	53	
-织		t͡sie	53	
-职		t͡sie	53	
-积		t͡sie	53	
-责		t͡sie	53	
-绩		t͡sie	53	
-脊	～椎	t͡sie	53	
-烛		t͡sie	53	白读
-则		t͡sie	53	
-迹		t͡sie	53	
-即		t͡sie	53	
-鲫		t͡sie	53	
-节		t͡sie	53	
-哲		t͡sie	53	
-缉		t͡sʰie	53	
-辑		t͡sʰie	53	
-楫		t͡sʰie	53	
-测		t͡sʰie	53	
-侧		t͡sʰie	53	
-妾		t͡sʰie	53	
-窃		t͡sʰie	53	
-切		t͡sʰie	53	
-七		t͡sʰie	53	
-戚		t͡sʰie	53	
-赤		t͡sʰie	53	
-擦	～桌布	t͡sʰie	53	白读
-策		t͡sʰie	53	
-粟	稻子	t͡sʰie	53	白读
-十		sie	24	
-习		sie	24	
-拾		sie	24	
-涉		sie	24	
-石		sie	24	
-舌		sie	24	
-席	主～	sie	24	
-食	伙～	sie	24	
-袭		sie	24	
-蚀	日～	sie	24	
-熟		sie	24	白读
-实		sie	24	
-湿		sie	53	
-涩		sie	53	
-失		sie	53	
-息	做～：干活	sie	53	
-媳		sie	53	
-熄		sie	53	
-昔		sie	53	
-惜		sie	53	
-设		sie	53	
-室		sie	53	
-色		sie	53	
-识		sie	53	
-式		sie	53	
-饰		sie	53	
-适		sie	53	
-释		sie	53	
-析		sie	53	
-锡		sie	53	
-悉		sie	53	
-入		zie	24	
-日		zie	24	
-热		zie	24	白读
-□	追赶	zie	53	
-及		kie	24	
-杰		kie	24	
-极		kie	24	
-剧		kie	24	
-桀		kie	24	
-吉		kie	53	
-洁		kie	53	
-橘		kie	53	
-急		kie	53	
-给	供～	kie	53	
-劫		kie	53	
-夹		kie	53	
-峡		kie	53	
-揭		kie	53	
-击		kie	53	
-激		kie	53	
-革		kie	53	
-格	及～	kie	53	
-克		kʰie	53	
-刻		kʰie	53	
-笈	皮～：皮箱	kʰie	53	
-乞		kʰie	53	
-吸		kʰie	53	
-挈	～起：提起	kʰie	53	
-业		ɡie	24	
-孽		ɡie	24	
-玉		ɡie	24	白读
-虐		ɡie	24	
-疟		ɡie	24	
-叶		hie	24	
-胁		hie	24	
-协		hie	24	
-侠	武～	hie	24	
-狭		hie	24	
-挟		hie	24	
-或		hie	24	
-惑		hie	24	
-域		hie	24	
-获		hie	24	
-穴		hie	24	
-肉		hie	24	白读
-□	焖	hie	53	
-血		hie	53	
-黑		hie	53	
-吓		hie	53	
-翼		ie	24	
-液		ie	24	
-腋		ie	24	
-役		ie	24	
-疫		ie	24	
-逸		ie	24	
-悦		ie	24	
-易	交～	ie	24	
-一	～二三	ie	53	
-乙		ie	53	
-忆		ie	53	
-益		ie	53	
-溢		ie	53	
-楫		ie	53	
-邑		ie	53	
-挹		ie	53	
-抑		ie	53	
-谒		ie	53	
-阅		ie	53	
-臆	又读，～造	ie	53	
-杯		pue	44	
-碑		pue	44	白读
-培		pue	24	
-赔		pue	24	
-陪		pue	24	
-拔		pue	24	白读
-八		pue	53	白读
-倍		pue	31	
-贝		pue	11	
-背	～叛	pue	11	
-狈	狼～	pue	11	
-佩	～服	pue	11	
-辈		pue	11	
-批		pʰue	44	
-配		pʰue	11	
-稗		pʰue	11	
-买		bue	53	白读
-𫧃	“不会”的合音	bue	31	
-卖		bue	11	白读
-蹄		tue	24	
-题		tue	24	
-底		tue	53	白读
-□	盛东西	tue	53	
-□	宁麻	tue	31	
-地		tue	11	白读
-□	拿	tʰue	24	白读
-垫		tʰue	53	白读
-退		tʰue	11	
-替		tʰue	11	白读
-犁		lue	24	白读
-□	多事	lue	53	
-内		lue	31	
-螺	锯～：锉刀	lue	11	白读
-泪		lue	11	
-齐		t͡sue	24	
-□	切	t͡sue	24	
-节	五月～：端午节	t͡sue	53	白读
-罪		t͡sue	31	
-□	真～：真多	t͡sue	31	
-做		t͡sue	11	
-最		t͡sue	11	
-初	～一十五	t͡sʰue	44	白读
-衰		sue	44	
-疏		sue	44	白读
-梳	～头	sue	44	白读
-洗		sue	53	
-税		sue	11	
-岁		sue	11	
-细	～枝：细的枝条	sue	11	白读
-锐		zue	11	
-鸡		kue	44	白读
-街		kue	44	白读
-瓜		kue	44	白读
-夹		kue	24	白读
-改		kue	53	白读
-会	～计	kue	11	
-绘		kue	11	
-疥		kue	11	
-溪		kʰue	44	
-盔		kʰue	44	
-恢		kʰue	44	
-奎		kʰue	44	
-魁		kʰue	44	
-嗑	～瓜子	kʰue	53	
-契		kʰue	11	
-□	啃	kʰue	11	
-挟		ɡue	53	
-外		ɡue	11	
-艺		ɡue	11	白读
-花		hue	44	白读
-回		hue	24	
-茴		hue	24	
-悔		hue	53	
-蟹		hue	31	
-汇		hue	11	
-会	开～	hue	11	
-挨	～面：磨面	ue	44	白读
-鞋		ue	24	白读
-划	计～	ue	24	
-狭	窄	ue	24	白读
-矮		ue	53	白读
-会	～显～：很能干	ue	31	
-卫	保～	ue	31	
-话		ue	11	白读
-画		ue	11	
-巴		pa	44	
-芭		pa	44	
-笆		pa	44	
-疤		pa	44	
-靶		pa	44	
-爸		pa	24	
-耙		pa	24	
-杷		pa	24	
-琶		pa	24	
-扒		pa	24	
-爬		pa	24	
-卜	萝～	pa	24	
-把	～握	pa	53	
-饱		pa	53	白读
-百		pa	53	
-罢		pa	31	
-吧		pa	31	
-霸		pa	11	
-坝		pa	11	
-豹		pa	11	
-脬	猪尿～：猪膀胱	pʰa	44	
-□	量词，一～火，一～粽	pʰa	44	
-拍		pʰa	53	
-泡		pʰa	31	白读
-怕		pʰa	11	
-□	一种形似大猫的动物	ba	24	
-□	～椎：一种鱼名	ba	53	
-密	接缝严密	ba	31	白读
-干	干燥	ta	44	白读
-大	～家：婆婆	ta	44	白读
-□	～某：男性	ta	44	
-踏		ta	24	
-打		ta	53	
-搭		ta	53	
-他		tʰa	44	
-她		tʰa	44	
-它		tʰa	44	
-叠	一～书	tʰa	24	白读
-塔		tʰa	53	
-□	拨开废物堆，找出有用东西	tʰa	11	
-拉		la	44	
-喇		la	24	
-瘌		la	24	
-蜡		la	24	
-腊		la	24	
-萝	～卜	la	24	白读
-□	搅	la	31	
-查	调～	t͡sa	44	
-渣		t͡sa	44	
-闸		t͡sa	24	
-铡		t͡sa	24	
-早		t͡sa	53	白读
-□	～某：妇女	t͡sa	53	
-炸		t͡sa	11	
-诈		t͡sa	11	
-昨		t͡sa	11	
-榨		t͡sa	11	
-债		t͡sa	11	
-差	相～，～遣	t͡sʰa	44	
-叉		t͡sʰa	44	
-杈		t͡sʰa	44	
-钗		t͡sʰa	44	
-岔	三～路口	t͡sʰa	44	
-撑		t͡sʰa	44	
-查	～字典	t͡sʰa	24	
-柴		t͡sʰa	24	白读
-吵		t͡sʰa	53	白读
-炒	～米	t͡sʰa	53	白读
-插		t͡sʰa	53	
-沙		sa	44	
-砂		sa	44	
-纱		sa	44	
-裟		sa	44	
-鲨		sa	44	
-□	～鸡卵：煮鸡蛋	sa	24	
-洒		sa	53	
-耍		sa	53	
-家		ka	44	
-加		ka	44	
-袈		ka	44	
-笳		ka	44	
-枷		ka	44	
-佳		ka	44	
-嘉		ka	44	
-胶		ka	44	白读
-铰	～剪：剪刀	ka	44	
-□	～儡：傀儡	ka	44	
-□	～蚤：跳蚤	ka	44	
-茄		ka	24	
-甲		ka	53	
-胛		ka	53	
-贾		ka	53	
-假		ka	53	
-绞		ka	53	
-咬		ka	31	白读
-架		ka	11	
-驾		ka	11	
-嫁		ka	11	
-稼		ka	11	
-价		ka	11	
-教		ka	11	白读
-骹	脚	kʰa	44	
-尻	～川：屁股	kʰa	44	
-揩	～油	kʰa	44	
-巧		kʰa	53	
-卡		kʰa	53	
-敲		kʰa	11	白读
-牙		ɡa	24	
-芽		ɡa	24	
-蚜		ɡa	24	
-讶		ɡa	24	
-崖		ɡa	24	
-涯		ɡa	24	
-衙		ɡa	24	
-哈		ha	44	
-霞		ha	24	
-瑕		ha	24	
-暇		ha	24	
-吓		ha	24	
-下		ha	31	
-夏		ha	11	
-厦		ha	11	
-亚		a	44	
-阿		a	44	
-鸦		a	44	
-盒		a	24	
-匣		a	24	
-啊	惊叹声	a	24	
-鸭		a	53	
-押		a	53	
-压		a	53	白读
-呀		a	31	
-啊		a	31	
-壁	隔～	pia	53	白读
-□	枪声	pia	31	
-僻	偏～	pʰia	53	白读
-□	放炮声，枪声	pʰia	31	
-爹		tia	44	
-拆		tʰia	53	白读
-掠	～鸡：抓鸡	lia	24	白读
-食	吃	t͡sia	24	白读
-者		t͡sia	53	
-只	一～牛	t͡sia	53	
-脊	腹～：后背	t͡sia	53	白读
-蔗	甘～	t͡sia	11	
-车		t͡sʰia	44	白读
-□	相～：摔跤	t͡sʰia	44	
-奢		t͡sʰia	44	
-斜		t͡sʰia	24	白读
-赤		t͡sʰia	53	
-□	织	t͡sʰia	53	
-□	插入物中捞取	t͡sʰia	53	
-赊		sia	44	
-斜		sia	24	
-蛇		sia	24	
-邪		sia	24	
-勺	铜～	sia	24	
-写		sia	53	
-舍		sia	53	
-削		sia	53	白读
-锡		sia	53	白读
-射		sia	11	
-谢		sia	11	
-麝		sia	11	
-泻		sia	11	
-赦		sia	11	
-卸		sia	11	
-社		sia	11	
-畲		sia	11	
-遮		zia	44	
-□	痕迹	zia	53	
-□	～柴：扛木头	kia	24	
-屐	柴～：木～	kia	24	
-寄		kia	11	白读
-奇	单数	kʰia	44	白读
-伽	释～牟尼	kʰia	44	
-骑	～马	kʰia	24	白读
-隙		kʰia	53	白读
-企		kʰia	31	
-鹅		ɡia	24	白读
-额		ɡia	24	白读
-□	用细棍从洞里把东西取出来	ɡia	53	
-靴		hia	44	
-□	带长柄的捞鱼小网	hia	44	
-瓦		hia	31	白读
-□	蚂蚁	hia	31	
-□	英～：灰尘	ia	44	
-爷		ia	24	
-耶		ia	24	
-页		ia	24	
-额	头～：额头	ia	24	白读
-蛾	～婆：蝴蝶	ia	24	白读
-野		ia	53	
-冶		ia	53	
-椰		ia	53	
-□	撒	ia	31	
-夜		ia	11	
-□	腻味	ia	11	
-也		ia	11	
-□	～搅：赌博	pua	24	
-钵		pua	53	白读
-拨		pua	53	白读
-簸		pua	11	白读
-泼	～水	pʰua	53	白读
-破		pʰua	11	白读
-磨	～刀	bua	24	白读
-□	～你：麻烦你（感谢语）	bua	24	
-末	药～	bua	24	白读
-抹	妄～：乱抹	bua	53	白读
-大	～显～：很大	tua	31	白读
-舵		tua	31	白读
-带	鞋～	tua	11	白读
-拖	鞋～：拖鞋	tʰua	44	白读
-獭	水～	tʰua	53	
-屉	抽屉	tʰua	53	白读
-涮	～衫	tʰua	31	白读
-箩		lua	24	白读
-辣		lua	24	
-捋		lua	24	
-赖	～侬：赖人	lua	11	白读
-抓		t͡sua	44	
-蛇		t͡sua	24	白读
-纸		t͡sua	53	白读
-□	斜	t͡sʰua	24	
-□	撕	t͡sʰua	53	
-娶	～亲：娶媳妇	t͡sʰua	11	白读
-□	～尿：尿炕	t͡sʰua	11	
-蔡		t͡sʰua	11	
-沙		sua	44	白读
-砂		sua	44	白读
-鲨		sua	44	白读
-傻		sua	44	
-煞	～尾：末了	sua	53	白读
-□	全～：全完蛋	sua	53	
-□	撒	sua	53	
-□	帮腔	sua	11	
-热		zua	24	白读
-□	多少，～个：多少个；～好：多么好！	zua	24	
-□	趟，回	zua	31	
-瓜		kua	44	
-歌		kua	44	白读
-寡	守～	kua	53	白读
-割	～草	kua	53	白读
-挂		kua	11	
-卦		kua	11	
-盖	名词	kua	11	白读
-过	罪～：可伶	kua	11	白读
-夸		kʰua	44	
-垮		kʰua	44	
-跨		kʰua	44	
-阔		kʰua	53	
-我		ɡua	53	白读
-外		ɡua	11	白读
-花		hua	44	
-华		hua	24	
-桦		hua	24	
-铧		hua	24	
-喊		hua	53	白读
-哗		hua	31	
-画		hua	11	
-话		hua	11	
-化		hua	11	
-蛙		ua	44	
-娃		ua	44	
-哇		ua	44	
-洼		ua	44	
-挖		ua	44	
-活		ua	24	
-瓦		ua	53	
-□	船～岸：船靠岸	ua	53	
-□	～一下：靠一下	ua	11	
-补		pɔ	53	
-斧	～头	pɔ	53	
-篰	篓筐	pɔ	31	
-哺	嚼	pɔ	11	
-步		pɔ	11	
-布		pɔ	11	
-怖		pɔ	11	
-播	广～，～音	pɔ	11	
-鄱		pɔ	11	
-铺		pʰɔ	44	
-颇		pʰɔ	44	
-麸		pʰɔ	44	白读
-普	～通	pʰɔ	53	
-谱		pʰɔ	53	
-浦		pʰɔ	53	
-圃		pʰɔ	53	
-部		pʰɔ	31	
-薄		pʰɔ	31	
-破		pʰɔ	11	
-铺	里程单位，十里为一～	pʰɔ	11	
-摸		bɔ	44	
-模		bɔ	24	
-摹		bɔ	24	
-漠		bɔ	24	
-亩		bɔ	53	
-某	～人	bɔ	53	
-牡		bɔ	53	
-戊		bɔ	11	
-墓		bɔ	11	
-募		bɔ	11	
-慕		bɔ	11	
-幕		bɔ	11	
-都		tɔ	44	
-多		tɔ	44	
-徒		tɔ	24	
-途		tɔ	24	
-涂	糊～	tɔ	24	
-屠		tɔ	24	
-荼		tɔ	24	
-堵		tɔ	53	
-赌		tɔ	53	
-睹		tɔ	53	
-肚	腹～：肚子	tɔ	53	
-倒		tɔ	53	
-朵		tɔ	53	
-躲		tɔ	53	
-岛		tɔ	53	
-捣		tɔ	53	
-妒		tɔ	53	
-肚	～内：腹内	tɔ	31	
-道		tɔ	31	
-盗		tɔ	31	
-稻		tɔ	31	
-到		tɔ	11	
-□	水迹在纸或布上泅开	tɔ	11	
-韬		tʰɔ	44	
-滔		tʰɔ	44	
-涂	泥土	tʰɔ	24	
-土		tʰɔ	53	
-妥		tʰɔ	53	
-唾		tʰɔ	53	
-吐		tʰɔ	11	
-兔		tʰɔ	11	
-卢		lɔ	24	
-芦		lɔ	24	
-炉		lɔ	24	
-鸬		lɔ	24	
-劳		lɔ	24	
-痨		lɔ	24	
-牢		lɔ	24	
-鲁		lɔ	53	
-橹	～味	lɔ	53	
-裸		lɔ	53	
-卤		lɔ	53	
-路		lɔ	11	
-露		lɔ	11	
-鹭		lɔ	11	
-糟		t͡sɔ	44	
-遭		t͡sɔ	44	
-租		t͡sɔ	44	
-曹		t͡sɔ	24	
-昨	～日：～天	t͡sɔ	24	白读
-祖		t͡sɔ	53	
-组		t͡sɔ	53	
-阻		t͡sɔ	53	
-左		t͡sɔ	53	
-佐		t͡sɔ	53	
-皂	～白	t͡sɔ	53	
-造		t͡sɔ	31	
-助		t͡sɔ	11	
-粗		t͡sʰɔ	44	
-初		t͡sʰɔ	44	
-楚		t͡sʰɔ	53	
-础		t͡sʰɔ	53	
-草		t͡sʰɔ	53	
-醋		t͡sʰɔ	11	
-错		t͡sʰɔ	11	
-措		t͡sʰɔ	11	
-挫		t͡sʰɔ	11	
-糙		t͡sʰɔ	11	
-苏		sɔ	44	
-稣		sɔ	44	
-骚		sɔ	44	
-疏		sɔ	44	
-梳		sɔ	44	
-蔬		sɔ	44	
-所		sɔ	53	
-素		sɔ	11	
-数	～学	sɔ	11	
-塑		sɔ	11	
-诉		sɔ	11	
-姑		kɔ	44	
-沽		kɔ	44	
-菇		kɔ	44	
-辜		kɔ	44	
-鸪		kɔ	44	
-孤		kɔ	44	
-皋		kɔ	44	
-戈		kɔ	44	
-高		kɔ	44	
-锅		kɔ	44	
-枯		kɔ	44	
-糊		kɔ	24	白读
-古		kɔ	53	
-诂		kɔ	53	
-牯		kɔ	53	
-鼓		kɔ	53	
-蛊		kɔ	53	
-股		kɔ	53	
-故		kɔ	11	
-告		kɔ	11	
-固		kɔ	11	
-雇		kɔ	11	
-顾		kɔ	11	
-呼	～鸡	kʰɔ	44	白读
-□	大～：胖；一～：一节	kʰɔ	44	
-估		kʰɔ	44	
-苦		kʰɔ	53	
-靠		kʰɔ	11	
-裤		kʰɔ	11	
-库		kʰɔ	11	
-课		kʰɔ	11	
-吴		ɡɔ	24	
-蜈		ɡɔ	24	
-吾		ɡɔ	24	
-梧		ɡɔ	24	
-午		ɡɔ	53	
-伍		ɡɔ	53	
-五		ɡɔ	31	
-误		ɡɔ	11	
-娱		ɡɔ	11	
-呼	招～	hɔ	44	
-和	～平	hɔ	24	
-禾		hɔ	24	
-毫		hɔ	24	
-豪		hɔ	24	
-壕		hɔ	24	
-荷		hɔ	24	
-互		hɔ	24	
-弧		hɔ	24	
-狐		hɔ	24	
-葫		hɔ	24	
-虎		hɔ	53	
-浒		hɔ	53	
-户		hɔ	31	
-沪		hɔ	31	
-雨		hɔ	31	白读
-护		hɔ	11	
-贺		hɔ	11	
-戽		hɔ	11	
-乌		ɔ	44	
-呜		ɔ	44	
-钨		ɔ	44	
-胡		ɔ	24	
-湖		ɔ	24	
-糊		ɔ	24	
-和	打麻将时某一家的牌合乎规定要求取得胜利；～拢：合起来	ɔ	24	
-芋		ɔ	11	
-恶	可～	ɔ	11	
-奥		ɔ	11	
-澳		ɔ	11	
-懊		ɔ	11	
-着	沉～	tiɔ	24	
-逐		tiɔ	24	
-竹		tiɔ	53	
-竺		tiɔ	53	
-筑		tiɔ	53	
-畜	～牧	tʰiɔ	53	
-蓄	储～	tʰiɔ	53	
-陆		liɔ	24	
-略		liɔ	24	
-绿		liɔ	24	
-蜀		t͡siɔ	24	
-浊		t͡siɔ	24	
-爵		t͡siɔ	53	
-嚼		t͡siɔ	53	
-足		t͡siɔ	53	
-祝		t͡siɔ	53	
-烛		t͡siɔ	53	
-酌		t͡siɔ	53	
-促		t͡sʰiɔ	53	
-触		t͡sʰiɔ	53	
-雀		t͡sʰiɔ	53	
-俗		siɔ	24	
-续		siɔ	24	
-赎		siɔ	24	
-属		siɔ	24	
-叔		siɔ	53	
-淑		siɔ	53	
-肃		siɔ	53	
-粟		siɔ	53	
-宿	～舍	siɔ	53	
-缩		siɔ	53	
-肉		ziɔ	24	
-辱		ziɔ	24	
-弱		ziɔ	24	
-若	～干	ziɔ	24	
-局		kiɔ	24	
-菊		kiɔ	53	
-鞠		kiɔ	53	
-却		kiɔ	53	
-曲		kiɔ	53	
-脚		kiɔ	53	
-玉		ɡiɔ	24	
-虐	又读	ɡiɔ	24	
-疟	又读	ɡiɔ	24	
-旭		hiɔ	53	
-浴		iɔ	24	
-欲		iɔ	24	
-育		iɔ	24	
-药		iɔ	24	
-约		iɔ	53	
-玻	～璃	po	44	
-菠		po	44	
-婆		po	24	
-薄		po	24	白读
-宝		po	53	
-保		po	53	
-堡		po	53	
-报		po	11	
-坡		pʰo	44	
-波		pʰo	44	
-叵		pʰo	24	
-粕	猪油～：猪油渣	pʰo	53	白读
-抱		pʰo	31	白读
-无		bo	24	白读
-卜	要	bo	53	白读
-磨		bo	11	白读
-帽		bo	11	白读
-刀		to	44	白读
-逃		to	24	白读
-陀		to	24	白读
-驼		to	24	白读
-鸵		to	24	白读
-着	火燃	to	24	白读
-□	撕，扯	to	24	白读
-卓		to	53	
-桌		to	53	
-倒		to	53	白读
-道	一～金牌	to	53	白读
-倒	～水；走～：走回来	to	53	白读
-桃		tʰo	24	白读
-□	tʰie53～：玩耍	tʰo	24	
-讨		tʰo	53	白读
-妥		tʰo	53	白读
-套		tʰo	11	
-罗		lo	24	
-逻		lo	24	
-锣		lo	24	
-落	三～大厝：三进的大房子	lo	24	白读
-牢	监～	lo	24	白读
-□	长	lo	11	
-昨	～日：前天	t͡so	44	白读
-糟		t͡so	24	白读
-枣		t͡so	53	
-做	～工；～息：干活	t͡so	53	
-造		t͡so	31	白读
-座		t͡so	31	白读
-臊	臭～：腥味	t͡sʰo	44	白读
-□	～恁母（骂人的话）	t͡sʰo	53	
-唆		so	44	
-梭		so	44	
-嗦		so	44	
-骚	卖俏	so	44	白读
-槎		so	44	白读
-镯		so	24	白读
-□	～树：爬树	so	24	
-□	形容做事不干脆	so	24	
-嫂		so	53	
-琐		so	53	
-锁		so	53	
-索	绳	so	53	
-燥		so	11	白读
-皂		so	11	
-羔		ko	44	
-糕		ko	44	
-哥		ko	44	
-膏		ko	44	
-个		ko	24	
-稿		ko	53	
-□	再～：又	ko	53	
-廓		ko	53	
-阁		ko	53	白读
-搞		ko	53	
-滚		ko	31	白读
-告		ko	11	白读
-□	～肉：煮肉	kʰo	44	
-靠		kʰo	11	白读
-□	炊～：虾皮	kʰo	11	
-熬	～油	ɡo	24	白读
-饿		ɡo	11	白读
-河		ho	24	
-何		ho	24	
-荷	～花	ho	24	白读
-好		ho	53	白读
-荷	簿～	ho	11	
-贺		ho	11	白读
-号		ho	11	
-学		o	24	白读
-□	难	o	53	
-□	～气词，表示醒悟	o	31	
-岙		o	11	
-□	硬要对方接受东西	o	11	
-猪		tɯ	44	
-除		tɯ	24	
-锄	～头	tɯ	24	白读
-躇	踌～	tɯ	24	
-箸	筷子	tɯ	31	
-著		tɯ	31	
-储		tʰɯ	53	
-贮		tʰɯ	53	
-褚		tʰɯ	53	
-驴		lɯ	24	
-女		lɯ	53	
-旅		lɯ	53	
-你		lɯ	53	白读
-吕		lɯ	11	
-虑		lɯ	11	
-滤		lɯ	11	
-书		t͡sɯ	44	
-资		t͡sɯ	44	
-姿		t͡sɯ	44	
-诸		t͡sɯ	44	
-茲		t͡sɯ	44	
-滋		t͡sɯ	44	
-淄		t͡sɯ	44	
-辎		t͡sɯ	44	
-慈		t͡sɯ	24	
-磁		t͡sɯ	24	
-薯	分～：红薯	t͡sɯ	24	
-子		t͡sɯ	53	
-仔	～细	t͡sɯ	53	
-紫		t͡sɯ	53	
-梓		t͡sɯ	53	
-煮		t͡sɯ	53	
-自		t͡sɯ	11	
-痴		t͡sʰɯ	44	
-疵		t͡sʰɯ	44	
-雌		t͡sʰɯ	44	
-鼠		t͡sʰɯ	53	
-此		t͡sʰɯ	53	
-次		t͡sʰɯ	11	
-处	～长	t͡sʰɯ	11	
-私		sɯ	44	
-斯		sɯ	44	
-撕		sɯ	44	
-师		sɯ	44	
-筛	又读	sɯ	44	
-狮		sɯ	44	
-蛳		sɯ	44	
-司		sɯ	44	
-思		sɯ	44	
-施		sɯ	44	
-舒		sɯ	44	
-祠		sɯ	24	
-词		sɯ	24	
-辞		sɯ	24	
-叙	～述	sɯ	24	
-饲		sɯ	24	
-时		sɯ	24	
-史	历～	sɯ	53	
-使		sɯ	53	
-暑		sɯ	53	
-驶		sɯ	53	
-死		sɯ	53	
-始		sɯ	53	
-屎		sɯ	53	
-屿		sɯ	31	
-似		sɯ	31	
-士		sɯ	31	
-仕		sɯ	31	
-已		sɯ	31	
-祀		sɯ	31	
-姒		sɯ	31	
-序		sɯ	31	
-绪		sɯ	31	
-絮		sɯ	31	
-事		sɯ	11	
-赐		sɯ	11	
-恕		sɯ	11	
-如		zɯ	24	
-□	混乱	zɯ	24	
-汝		zɯ	53	
-居		kɯ	44	
-车	～马炮	kɯ	44	
-裾	大～：衣服的大襟	kɯ	44	
-渠		kɯ	24	
-巨		kɯ	24	
-举		kɯ	53	
-矩		kɯ	53	
-拒		kɯ	11	
-据		kɯ	11	
-锯		kɯ	11	
-踞		kɯ	11	
-瞿		kɯ	11	
-去		kʰɯ	11	
-渔		ɡɯ	24	
-鱼		ɡɯ	24	
-语		ɡɯ	53	
-御	～林军，防御	ɡɯ	11	
-虚		hɯ	44	
-墟		hɯ	44	
-鱼		hɯ	24	白读
-许		hɯ	53	
-于	～是	ɯ	44	
-余		ɯ	24	
-与		ɯ	53	
-予		ɯ	53	
-誉		ɯ	11	
-预		ɯ	11	
-飞		pə	44	白读
-赔		pə	24	白读
-倍		pə	31	白读
-焙	用微火烘	pə	31	白读
-褙	裱糊	pə	11	
-背		pə	11	白读
-坯		pʰə	44	白读
-□	～否：豁出去	pʰə	44	
-皮		pʰə	24	白读
-被	盖～	pʰə	31	白读
-配	门～：（饭）菜	pʰə	11	白读
-糜	粥	bə	24	
-袜		bə	24	
-尾		bə	53	白读
-未		bə	11	白读
-妹		bə	11	白读
-短		tə	53	白读
-袋		tə	11	白读
-块	一～银：一块钱；一～厝：一座房子	tə	11	白读
-推	推托	tʰə	44	白读
-退	退	tʰə	11	白读
-螺		lə	24	白读
-□	手～：手指上的斗	lə	24	白读
-儡	嘉～：傀儡	lə	53	
-坐		t͡sə	31	白读
-罪		t͡sə	31	白读
-吹		t͡sʰə	44	白读
-炊		t͡sʰə	44	白读
-髓		t͡sʰə	53	白读
-撮		t͡sʰə	53	白读
-□	寻找	t͡sʰə	11	
-脆		t͡sʰə	11	白读
-旋		sə	24	白读
-雪		sə	53	白读
-说		sə	53	白读
-税		sə	11	白读
-嗝		kə	24	
-□	大米做的年糕	kə	53	
-□	～命：没命	kə	53	
-郭		kə	53	
-过		kə	11	白读
-科		kʰə	44	
-瘸		kʰə	24	
-缺		kʰə	53	白读
-月		ɡə	24	白读
-灰		hə	44	白读
-回	辞退	hə	24	白读
-火		hə	53	白读
-伙		hə	53	白读
-货		hə	11	白读
-岁		hə	11	白读
-呃	打～：打嗝	ə	53	
-仆		pɐ	24	
-缚		pɐ	24	
-薄		pɐ	24	
-别	～侬：别人	pɐ	24	白读
-北		pɐ	53	
-八		pɐ	53	
-剥		pɐ	53	
-腹	～肚：肚子	pɐ	53	白读
-幅	一～布	pɐ	53	白读
-驳		pɐ	53	
-卜	占～	pɐ	53	
-□	认识	pɐ	53	
-曝	～日佛：晒太阳	pʰɐ	24	白读
-扑		pʰɐ	53	
-朴		pʰɐ	53	
-博		pʰɐ	53	
-搏		pʰɐ	53	
-泊		pʰɐ	53	
-粕		pʰɐ	53	
-璞		pʰɐ	53	
-目		bɐ	24	
-木		bɐ	24	
-沐		bɐ	24	
-莫		bɐ	24	
-穆		bɐ	24	
-睦		bɐ	24	
-墨		bɐ	24	白读
-密		bɐ	24	白读
-达		tɐ	24	
-毒		tɐ	24	
-独		tɐ	24	
-铎		tɐ	24	
-渎		tɐ	24	
-沓	纷至～来	tɐ	24	
-值		tɐ	24	白读
-逐	～～个：每一个	tɐ	24	白读
-督		tɐ	53	
-笃		tɐ	53	
-答		tɐ	53	
-啄		tɐ	53	
-触	牛相～：牛打架	tɐ	53	白读
-读		tʰɐ	24	
-头	～壳：头	tʰɐ	24	白读
-托		tʰɐ	53	
-塌		tʰɐ	53	
-榻		tʰɐ	53	
-踢		tʰɐ	53	白读
-纳		lɐ	24	
-衲		lɐ	24	
-力		lɐ	24	白读
-栗	～子	lɐ	24	白读
-六		lɐ	24	
-鹿		lɐ	24	
-乐	快～	lɐ	24	
-洛		lɐ	24	
-骆		lɐ	24	
-络		lɐ	24	
-落	～后	lɐ	24	
-禄		lɐ	24	
-落	往下掉	lɐ	53	
-十		t͡sɐ	24	
-杂		t͡sɐ	24	
-族		t͡sɐ	24	
-汁		t͡sɐ	53	
-扎		t͡sɐ	53	
-节		t͡sɐ	53	白读
-作		t͡sɐ	53	
-贼		t͡sʰɐ	24	
-凿		t͡sʰɐ	24	
-察		t͡sʰɐ	53	
-擦		t͡sʰɐ	53	
-漆		t͡sʰɐ	53	白读
-撮		t͡sʰɐ	53	
-□	干涉	t͡sʰɐ	53	
-杀		sɐ	53	
-煞		sɐ	53	
-虱		sɐ	53	
-萨		sɐ	53	
-束		sɐ	53	
-索	思～	sɐ	53	
-□	扔	kɐ	24	
-各		kɐ	53	
-谷		kɐ	53	
-鸽		kɐ	53	
-葛		kɐ	53	
-国		kɐ	53	
-觉		kɐ	53	
-角		kɐ	53	
-□	～子：檩条	kɐ	53	
-割	～地	kɐ	53	
-□	敲打	kʰɐ	24	
-磕		kʰɐ	53	
-壳		kʰɐ	53	
-确		kʰɐ	53	
-曲	～霉等制成的块状物	kʰɐ	53	
-哭		kʰɐ	53	
-扩		kʰɐ	53	
-酷		kʰɐ	53	
-咯	～痰	kʰɐ	53	
-较	～好	kʰɐ	53	白读
-恰		kʰɐ	53	
-渴		kʰɐ	53	
-岳		ɡɐ	24	
-狱		ɡɐ	24	
-乐	音～	ɡɐ	24	
-鳄		ɡɐ	24	
-鄂		ɡɐ	24	
-腭		ɡɐ	24	
-鹤		ɡɐ	24	
-讫		ɡɐ	53	
-合		hɐ	24	
-盒		hɐ	24	
-核		hɐ	24	
-学	～习	hɐ	24	
-服		hɐ	24	
-伏		hɐ	24	
-辖		hɐ	53	
-喝		hɐ	53	
-福		hɐ	53	
-蝠		hɐ	53	
-幅		hɐ	53	
-复		hɐ	53	
-腹		hɐ	53	
-霍		hɐ	53	
-郝		hɐ	53	
-□	那么	hɐ	53	
-斛		hɐ	53	
-阿	～婶	ɐ	24	
-压		ɐ	53	
-扼		ɐ	53	
-曷		ɐ	53	
-屋		ɐ	53	
-握		ɐ	53	
-沃		ɐ	53	
-恶	凶～	ɐ	53	
-佛		puɐ	24	
-勃		puɐ	24	
-渤		puɐ	24	
-跋	～倒：跌倒	puɐ	24	
-拔	提～	puɐ	24	
-□	～涂：搓揉泥土	puɐ	24	
-拨		puɐ	53	
-钵		puɐ	53	
-不		puɐ	53	
-泼	～水	pʰuɐ	53	
-末		buɐ	24	
-物		buɐ	24	
-没		buɐ	24	
-牧		buɐ	24	
-沐	～水：沾水	buɐ	53	白读
-突		tuɐ	24	
-夺		tuɐ	24	
-□	端（东西）	tuɐ	53	
-秃	～头	tʰuɐ	24	
-脱		tʰuɐ	53	
-律		luɐ	24	
-率		luɐ	24	
-捋		luɐ	24	
-劣		luɐ	53	
-术	白～（药名）	t͡suɐ	24	
-秫	～米	t͡suɐ	24	
-绝		t͡suɐ	24	
-卒		t͡suɐ	53	
-拙		t͡suɐ	53	
-出		t͡sʰuɐ	53	
-术		suɐ	24	
-述		suɐ	24	
-□	游荡	suɐ	24	
-雪		suɐ	53	
-戌		suɐ	53	
-屑		suɐ	53	
-□	锯～：锯末	suɐ	53	
-说		suɐ	53	
-率	～领	suɐ	53	
-摔	抽打	suɐ	53	
-刷		suɐ	53	
-滑		kuɐ	24	
-猾		kuɐ	24	
-掘	～涂：挖土	kuɐ	24	
-□	量词，一～涂	kuɐ	24	
-骨		kuɐ	53	
-决		kuɐ	53	
-诀		kuɐ	53	
-抉	～择	kuɐ	53	
-括		kuɐ	53	
-刮	～风	kuɐ	53	
-□	～头：绝后	kʰuɐ	24	
-屈		kʰuɐ	53	
-倔		kʰuɐ	53	
-窟		kʰuɐ	53	
-阔		kʰuɐ	53	
-厥		kʰuɐ	53	
-阙		kʰuɐ	53	
-缺		kʰuɐ	53	
-□	池塘	kʰuɐ	53	
-月		ɡuɐ	24	
-伐		huɐ	24	
-罚		huɐ	24	
-阀		huɐ	24	
-乏		huɐ	24	
-忽		huɐ	53	
-佛	仿～	huɐ	53	
-拂		huɐ	53	
-发		huɐ	53	
-法		huɐ	53	
-越		uɐ	24	
-粤		uɐ	24	
-郁		uɐ	53	
-熨	～斗	uɐ	53	
-斡	～弯	uɐ	53	
-□	溺水	uɐ	53	
-□	（水）喷射	piu	44	
-谬	～论	biu	11	
-丢		tiu	44	
-绸		tiu	24	
-稠		tiu	24	
-筹		tiu	24	
-□	拽	tiu	53	
-粙	稻子	tiu	31	
-昼		tiu	31	
-宙		tiu	31	
-纣		tiu	31	
-抽		tʰiu	44	
-丑		tʰiu	53	
-溜	滑～：滑	liu	44	
-留		liu	24	
-瘤		liu	24	
-榴		liu	24	
-馏		liu	24	
-刘		liu	24	
-浏		liu	24	
-流		liu	24	
-硫		liu	24	
-琉		liu	24	
-柳		liu	53	
-绺		liu	53	
-纽	儿～：纽扣	liu	53	白读
-□	一～：一垅	liu	31	
-馏	粿～：一种食品	liu	31	
-周		t͡siu	44	
-舟		t͡siu	44	
-州		t͡siu	44	
-洲		t͡siu	44	
-珠	目～：眼睛	t͡siu	44	白读
-啾		t͡siu	44	
-□	苍蝇沾人或物	t͡siu	44	
-酒		t͡siu	53	
-帚		t͡siu	53	
-守		t͡siu	53	白读
-咒		t͡siu	11	
-蛀		t͡siu	11	白读
-就		t͡siu	11	
-鹫		t͡siu	11	
-秋		t͡sʰiu	44	
-鳅		t͡sʰiu	44	
-须	喙～：胡子	t͡sʰiu	44	白读
-手		t͡sʰiu	53	白读
-树		t͡sʰiu	11	白读
-臭		t͡sʰiu	11	
-收		siu	44	
-羞		siu	44	
-修		siu	44	
-囚		siu	24	
-泅	～河：游泳	siu	24	
-酬		siu	24	
-售		siu	24	
-仇		siu	24	
-守		siu	53	
-狩		siu	53	
-首		siu	53	
-受		siu	31	
-绶		siu	31	
-授		siu	31	
-寿		siu	11	
-袖		siu	11	
-岫		siu	11	
-秀		siu	11	
-莠		siu	11	
-绣		siu	11	
-锈		siu	11	
-兽		siu	11	
-柔		ziu	24	
-揉		ziu	24	
-□	蜷缩	kiu	44	
-纠		kiu	44	
-赳		kiu	44	
-鸠	又读	kiu	44	
-求		kiu	24	
-球		kiu	24	
-逑		kiu	24	
-久		kiu	53	
-九		kiu	53	
-玖		kiu	53	
-韭		kiu	53	
-□	（写字）潦草	kiu	53	
-臼		kiu	31	
-舅		kiu	31	
-咎		kiu	31	
-救		kiu	11	
-究		kiu	11	
-灸		kiu	11	
-疚		kiu	11	
-旧		kiu	11	
-丘		kʰiu	44	
-蚯		kʰiu	44	
-邱		kʰiu	44	
-鸠		kʰiu	44	
-□	缩	kʰiu	24	
-休		hiu	44	
-裘	棉～：棉袄	hiu	24	白读
-朽	腐烂；永垂不～	hiu	53	
-□	垂挂物摇动的样子	hiu	11	
-优		iu	44	
-忧		iu	44	
-悠		iu	44	
-幽		iu	44	
-由		iu	24	
-油		iu	24	
-铀		iu	24	
-邮		iu	24	
-尤		iu	24	
-犹		iu	24	
-鱿		iu	24	
-游		iu	24	
-酋		iu	24	
-猷		iu	24	
-友		iu	53	
-有		iu	53	
-酉		iu	53	
-又		iu	11	
-右		iu	11	
-佑		iu	11	
-釉		iu	11	
-□	细	iu	11	
-幼		iu	11	
-肥		pui	24	白读
-痱		pui	11	白读
-吠		pui	11	白读
-屁	放～	pʰui	11	白读
-啡	吐（痰）	pʰui	11	
-堆		tui	44	
-捶		tui	24	
-对		tui	11	
-兑		tui	11	
-碓		tui	11	
-推		tʰui	44	
-梯	楼～	tʰui	44	白读
-槌		tʰui	24	
-锤		tʰui	24	
-腿		tʰui	53	
-队		tʰui	11	
-坠		tʰui	11	
-雷		lui	24	
-镭		lui	24	
-垒		lui	53	
-累	积～，劳～	lui	53	
-磊		lui	53	
-蕊		lui	53	
-儡		lui	53	
-蕾		lui	53	
-类		lui	31	
-擂		lui	11	
-泪	又读	lui	11	
-锥		t͡sui	44	
-椎		t͡sui	44	
-睢		t͡sui	44	
-水		t͡sui	53	白读
-嘴		t͡sui	53	
-醉		t͡sui	11	
-崔		t͡sʰui	44	
-催		t͡sʰui	44	
-摧		t͡sʰui	44	
-吹		t͡sʰui	44	
-炊		t͡sʰui	44	
-髓		t͡sʰui	53	
-脆		t͡sʰui	53	
-翠		t͡sʰui	11	
-粹		t͡sʰui	11	
-碎		t͡sʰui	11	白读
-脆	又读	t͡sʰui	11	
-喙	嘴巴	t͡sʰui	11	
-虽		sui	44	
-绥		sui	44	
-荽		sui	44	
-蓑	粽～：蓑衣	sui	44	
-垂		sui	24	
-谁		sui	24	
-随		sui	24	
-隋		sui	24	
-陲	边～	sui	24	
-遂		sui	24	
-隧		sui	24	
-燧		sui	24	
-水		sui	53	
-睡		sui	11	
-瑞		sui	11	
-穗		sui	11	
-碎		sui	11	
-祟		sui	11	
-归		kui	44	
-龟		kui	44	
-规		kui	44	
-闺		kui	44	
-硅		kui	44	
-机	布～：织布机	kui	44	
-癸		kui	24	
-葵	～花	kui	24	
-暌		kui	24	
-逵		kui	24	
-鬼		kui	53	
-诡	～计	kui	53	
-宄	奸～	kui	53	
-几	～工：几天	kui	53	白读
-跪		kui	31	
-桂		kui	11	
-季		kui	11	
-贵		kui	11	
-柜		kui	11	
-亏		kʰui	44	
-窥		kʰui	44	
-开	离～	kʰui	44	白读
-傀		kʰui	11	
-愧		kʰui	11	
-溃		kʰui	11	
-块		kʰui	11	
-危		ɡui	24	
-桅		ɡui	24	
-巍		ɡui	24	
-魏		ɡui	11	
-飞		hui	44	
-非		hui	44	
-菲		hui	44	
-霏		hui	44	
-翡		hui	44	
-挥		hui	44	
-辉		hui	44	
-珲		hui	44	
-晖		hui	44	
-徽		hui	44	
-妃		hui	44	
-麾		hui	44	
-灰		hui	44	
-肥		hui	24	
-淝		hui	24	
-□	瓷器	hui	24	
-匪		hui	53	
-诽		hui	53	
-血		hui	53	白读
-毁		hui	53	
-贿		hui	53	
-吠		hui	11	
-费		hui	11	
-肺		hui	11	
-惠		hui	11	
-废		hui	11	
-慧		hui	11	
-讳		hui	11	
-纬		hui	11	
-痱		hui	11	
-威		ui	44	
-□	～鸡：炖鸡	ui	44	
-围		ui	24	
-违		ui	24	
-遗		ui	24	
-为	行～	ui	24	
-伪	虚～	ui	24	
-委		ui	53	
-萎		ui	53	
-苇		ui	53	
-伟		ui	53	
-侑		ui	53	
-□	挖	ui	53	
-尉		ui	11	
-慰		ui	11	
-胃		ui	11	
-谓		ui	11	
-渭		ui	11	
-畏		ui	11	
-猥		ui	11	
-为	因～	ui	11	
-位		ui	11	
-浮		pʰəu	24	
-剖		pʰəu	53	
-阜		pʰəu	53	
-谋		bəu	24	
-母		bəu	53	
-茂		bəu	11	
-兜		təu	44	
-投		təu	24	
-斗	升～	təu	53	
-蚪	蝌～	təu	53	
-抖		təu	53	
-陡		təu	53	
-豆		təu	11	
-痘		təu	11	
-斗	奋～	təu	11	
-窦		təu	11	
-偷		tʰəu	44	
-头		tʰəu	24	
-透		tʰəu	11	
-□	挖	ləu	44	
-楼		ləu	24	
-搂		ləu	53	
-篓		ləu	53	
-漏		ləu	11	
-邹		t͡səu	44	
-走		t͡səu	53	
-奏		t͡səu	11	
-愁		t͡sʰəu	24	
-凑		t͡sʰəu	11	
-搜		səu	44	
-馊		səu	44	
-瘦		səu	53	
-嗽	～口	səu	53	
-嗽	咳～	səu	11	
-勾		kəu	44	
-沟		kəu	44	
-钩		kəu	44	
-狗		kəu	53	
-苟		kəu	11	
-购		kəu	11	
-够		kəu	11	
-构		kəu	11	
-媾		kəu	11	
-抠		kʰəu	44	
-口		kʰəu	53	
-扣		kʰəu	11	
-叩		kʰəu	11	
-寇		kʰəu	11	
-侯		həu	24	
-喉		həu	24	
-猴		həu	24	
-厚		həu	31	
-后	前～	həu	31	
-候		həu	11	
-吼	怒	həu	11	
-欧		əu	44	
-瓯		əu	44	
-殴		əu	44	
-呕	～吐	əu	44	
-镖		pieu	44	白读
-标		pieu	44	白读
-彪		pieu	44	白读
-表		pieu	53	白读
-婊		pieu	53	白读
-裱		pieu	53	白读
-飘		pʰieu	44	白读
-萍		pʰieu	24	白读
-嫖		pʰieu	24	白读
-瓢		pʰieu	24	白读
-票		pʰieu	11	白读
-漂	～白	pʰieu	11	白读
-秒		bieu	53	白读
-庙		bieu	11	白读
-着	对：～显～：很对；拍～：打中	tieu	24	白读
-赵		tieu	31	
-钓		tieu	11	白读
-挑		tʰieu	44	白读
-粜	～米	tʰieu	11	白读
-撩	用网或网状物捞取液体上面的东西	lieu	24	白读
-招		t͡sieu	44	白读
-蕉		t͡sieu	44	白读
-礁		t͡sieu	44	白读
-椒	辣～	t͡sieu	44	白读
-石	～头	t͡sieu	24	白读
-少		t͡sieu	53	白读
-借		t͡sieu	53	白读
-照		t͡sieu	11	白读
-席	草～	t͡sʰieu	24	白读
-尺		t͡sʰieu	53	白读
-□	鸭鹅等脖子较长嘴扁的家禽吃东西的动作	t͡sʰieu	53	白读
-笑		t͡sʰieu	11	白读
-烧	身躯～：身体发烧	sieu	44	白读
-小	～弟	sieu	53	白读
-鞘		sieu	11	白读
-尿	放～：撒尿	zieu	31	白读
-桥		kieu	24	白读
-茄		kieu	24	白读
-叫		kieu	11	白读
-轿		kieu	11	白读
-□	拾（东西）	kʰieu	53	
-□	竹～：引水用的竹器	kʰieu	11	
-□	水往下流	kʰieu	11	
-叶		hieu	24	白读
-歇		hieu	53	白读
-么	～二三	ieu	44	白读
-腰		ieu	44	白读
-□	带（孩子）	ieu	44	
-摇		ieu	24	白读
-窑		ieu	24	白读
-药		ieu	24	白读
-舀		ieu	53	白读
-鹞		ieu	11	白读
-鸢	纸～：风筝	ieu	11	
-牌		pai	24	
-排		pai	24	
-摆		pai	53	
-拜		pai	11	
-败		pai	11	
-否	坏，不好	pʰai	53	白读
-派		pʰai	11	
-沛		pʰai	11	
-湃		pʰai	11	
-□	之～：女阴	bai	44	
-埋		bai	24	
-□	～枝手：左手；～手向：左边	bai	53	
-呆		tai	44	
-台		tai	24	
-□	油～：油底子	tai	53	
-贷		tai	31	
-戴		tai	11	
-带		tai	11	
-逮		tai	11	
-大		tai	11	
-怠		tai	11	
-代		tai	11	
-岱		tai	11	
-袋		tai	11	
-黛		tai	11	
-苔		tʰai	44	
-胎		tʰai	44	
-台	风～：台风	tʰai	44	
-筛	米～：筛子	tʰai	44	白读
-抬		tʰai	24	
-□	杀	tʰai	24	
-太		tʰai	11	
-汰		tʰai	11	
-态		tʰai	11	
-待		tʰai	11	
-泰		tʰai	11	
-来		lai	24	
-梨	消～：梨子	lai	24	白读
-内	～面：里面	lai	31	白读
-利	锋利	lai	11	白读
-灾		t͡sai	44	
-斋		t͡sai	44	
-栽		t͡sai	44	
-知	知道	t͡sai	44	白读
-才		t͡sai	24	
-材		t͡sai	24	
-财		t͡sai	24	
-脐	腹～：肚脐	t͡sai	24	
-宰		t͡sai	53	
-再		t͡sai	53	
-在		t͡sai	31	
-载		t͡sai	11	
-猜		t͡sʰai	44	
-柴		t͡sʰai	24	
-豺		t͡sʰai	24	
-裁		t͡sʰai	24	
-采		t͡sʰai	53	
-彩		t͡sʰai	53	
-睬		t͡sʰai	53	
-踩		t͡sʰai	53	
-菜		t͡sʰai	11	
-师		sai	44	白读
-狮		sai	44	白读
-筛		sai	44	
-西		sai	44	白读
-腮		sai	44	
-鳃		sai	44	
-屎		sai	53	白读
-驶		sai	53	白读
-姒	同～：妯娌	sai	11	
-赛		sai	11	
-婿		sai	11	
-塞	～外	sai	11	
-侍	服～	sai	11	白读
-帅	元～	sai	11	
-该		kai	44	
-阶		kai	44	
-皆		kai	44	
-陔		kai	44	
-解	～放	kai	53	
-改		kai	53	
-介		kai	11	
-界		kai	11	
-芥		kai	11	
-戒		kai	11	
-械		kai	11	
-丐		kai	11	
-钙		kai	11	
-盖		kai	11	
-届		kai	11	
-开		kʰai	44	
-楷		kʰai	53	
-凯		kʰai	53	
-溉		kʰai	11	
-忾		kʰai	11	
-概		kʰai	11	
-呆	又读	ɡai	24	
-碍		ɡai	11	
-赅	大	hai	44	
-孩		hai	24	
-颏		hai	24	
-海		hai	53	
-亥		hai	31	
-骇		hai	31	
-害		hai	11	
-哀		ai	44	
-埃		ai	44	
-挨		ai	44	
-矮		ai	53	
-□	～仔：江边的一种小螃蟹	ai	53	
-蔼		ai	53	
-哎	叹气声	ai	31	
-爱		ai	11	
-谒		ai	11	
-隘		ai	11	
-乖		kuai	44	
-拐		kuai	53	
-怪		kuai	11	
-快		kʰuai	11	
-筷		kʰuai	11	
-灰	形容人无本领运气不好等	huai	44	白读
-怀		huai	24	
-淮		huai	24	
-槐		huai	24	
-坏		huai	11	
-歪		uai	44	
-□	脚扭伤后步行不便的样子	uai	53	
-包		pau	44	
-苞		pau	44	
-胞		pau	44	
-庖		pau	24	
-袍		pau	24	
-饱		pau	53	
-鲍		pau	31	
-□	突出来	pau	11	
-抛		pʰau	44	
-□	柚子	pʰau	44	
-跑		pʰau	53	
-泡		pʰau	11	
-炮		pʰau	11	
-抱	怀～	pʰau	11	
-卯		bau	53	
-铆		bau	53	
-兜		tau	44	白读
-篼		tau	44	
-□	骹～：地上	tau	44	
-□	～骹：一种旧时简易轿子	tau	44	
-投	～降	tau	24	白读
-斗	一～米	tau	53	白读
-陡		tau	53	白读
-抖		tau	53	白读
-罩		tau	11	
-窦		tau	11	
-昼	日～：中午	tau	11	白读
-豆		tau	11	白读
-偷	小～	tʰau	44	白读
-头		tʰau	24	白读
-㪗	解开	tʰau	53	
-透		tʰau	11	白读
-□	毒死（虫类）	tʰau	11	
-流		lau	24	白读
-留		lau	24	白读
-楼		lau	24	白读
-篓		lau	53	
-老		lau	31	白读
-漏		lau	11	白读
-糟	酒～	t͡sau	44	白读
-剿	～灭	t͡sau	24	
-巢	黄～	t͡sau	24	
-齐		t͡sau	24	白读
-走		t͡sau	53	白读
-蚤	家～：跳蚤	t͡sau	53	白读
-找		t͡sau	53	
-奏		t͡sau	11	白读
-灶		t͡sau	11	
-钞	～票	t͡sʰau	44	
-操	做～	t͡sʰau	44	白读
-草		t͡sʰau	53	白读
-吵		t͡sʰau	53	
-炒		t͡sʰau	53	
-臭		t͡sʰau	11	白读
-凑		t͡sʰau	11	白读
-艄		sau	44	
-搜		sau	44	白读
-扫		sau	11	
-嗽		sau	11	白读
-交		kau	44	
-郊		kau	44	
-蛟		kau	44	
-勾		kau	44	白读
-钩		kau	44	白读
-沟		kau	44	白读
-猴		kau	24	白读
-玖		kau	53	白读
-九		kau	53	白读
-狗		kau	53	白读
-较		kau	53	
-饺		kau	53	
-枸	～杞	kau	53	
-厚		kau	31	白读
-教		kau	11	
-到		kau	11	白读
-够		kau	11	白读
-校	～对	kau	11	
-敲		kʰau	44	
-薅	～草：除草	kʰau	44	白读
-口	出～	kʰau	53	白读
-铐		kʰau	11	
-扣		kʰau	11	白读
-吼	哭	hau	53	白读
-孝		hau	11	
-酵		hau	11	
-效		hau	11	
-校	学～	hau	11	
-凹		au	44	
-瓯	茶～：茶杯	au	44	白读
-□	使……变弯	au	44	
-喉		au	24	白读
-□	折叠	au	53	
-后	～生：年青	au	31	白读
-拗		au	11	
-沤	东西久浸水中	au	11	白读
-标		piau	44	
-膘		piau	44	
-镖		piau	44	
-表		piau	53	
-婊		piau	53	
-裱		piau	53	
-飘		pʰiau	44	
-嫖		pʰiau	24	
-瓢		pʰiau	24	
-剽		pʰiau	24	
-漂	～白，～亮	pʰiau	24	
-票		pʰiau	11	
-苗		biau	24	
-瞄		biau	24	
-描		biau	24	
-锚		biau	24	
-猫		biau	24	
-秒		biau	53	
-渺		biau	53	
-藐		biau	53	
-□		biau	53	
-妙		biau	11	
-庙		biau	11	
-刁		tiau	44	
-貂		tiau	44	
-雕		tiau	44	
-凋		tiau	44	
-碉		tiau	44	
-朝	～暮	tiau	44	
-牢	～显～：很牢固；牛～：牛栏	tiau	24	白读
-条		tiau	24	
-□	腔调不正	tiau	53	
-调	音～，～整	tiau	31	
-兆		tiau	11	
-召		tiau	11	
-吊		tiau	11	
-钓		tiau	11	
-挑		tʰiau	44	
-□	～池：故意	tʰiau	44	
-迢		tʰiau	24	
-眺	～望	tʰiau	53	
-柱	栋～：柱子	tʰiau	31	
-跳		tʰiau	11	
-粜		tʰiau	11	
-辽		liau	24	
-疗		liau	24	
-僚		liau	24	
-燎		liau	24	
-嘹		liau	24	
-潦		liau	24	
-聊		liau	24	
-了		liau	53	
-料		liau	11	
-廖		liau	11	
-寥		liau	11	
-焦		t͡siau	44	
-礁		t͡siau	44	
-樵	～夫	t͡siau	44	
-昭		t͡siau	44	
-招		t͡siau	44	
-浇		t͡siau	44	
-朝	～东，～西	t͡siau	24	白读
-鸟		t͡siau	53	白读
-照		t͡siau	11	
-超		t͡sʰiau	44	
-抄		t͡sʰiau	44	
-□	理睬	t͡sʰiau	24	
-朝	又读，～东，～西	t͡sʰiau	24	白读
-悄		t͡sʰiau	53	
-俏		t͡sʰiau	53	
-肖		siau	44	
-宵		siau	44	
-消		siau	44	
-硝		siau	44	
-萧		siau	44	
-箫		siau	44	
-□	精液	siau	24	
-小		siau	53	
-少		siau	53	
-笑		siau	11	
-数	算～：算帐	siau	11	
-绍		siau	11	
-□	皱	ziau	24	
-爪		ziau	53	
-扰		ziau	53	
-绕		ziau	53	
-□	挠（痒）	ziau	11	
-娇		kiau	44	
-骄		kiau	44	
-□	～头：浇在粉条等面食上的佐料，多用鸡丝、肉丝等做成	kiau	44	
-乔		kiau	24	
-侨		kiau	24	
-桥		kiau	24	
-缴		kiau	53	
-饺		kiau	53	
-搅	跋～：赌博	kiau	53	
-□	～显～：（小孩）很顽皮	kiau	53	
-□	咒骂；拗起来	kiau	31	
-叫		kiau	11	
-轿		kiau	11	
-□	～骹：抬腿	kʰiau	44	
-跷	～ku44：驼背	kʰiau	44	
-翘	死～～（一种讥笑或诙谐说法）；弯曲不直	kʰiau	11	
-尧		ɡiau	24	
-饶		ɡiau	24	
-侥	～幸	hiau	44	
-骁	～勇	hiau	44	
-□	否认说过的话，还跟别人争	hiau	44	
-嚣	～张	hiau	44	
-晓		hiau	53	
-夭		iau	44	
-妖		iau	44	
-要	～求	iau	44	
-么		iau	44	
-吆		iau	44	
-邀		iau	44	
-腰		iau	44	
-窈	～窕	iau	44	
-枵	饿	iau	44	
-摇		iau	24	
-瑶		iau	24	
-谣		iau	24	
-徭		iau	24	
-□	～未来：还未来	iau	53	
-耀		iau	11	
-要	重要	iau	11	
-班		pan	44	
-斑		pan	44	
-颁		pan	44	
-瘢		pan	44	
-般		pan	44	
-搬		pan	44	
-瓶		pan	24	白读
-板		pan	53	
-版		pan	53	
-坂		pan	53	
-阪		pan	53	
-扮		pan	11	
-办		pan	11	
-攀		pʰan	44	
-盼		pʰan	11	
-蛮		ban	24	
-□	摘	ban	53	
-万		ban	11	
-曼		ban	11	
-蔓		ban	11	
-慢		ban	11	
-漫		ban	11	
-幔		ban	11	
-丹		tan	44	
-单		tan	44	
-郸		tan	44	
-钉	钉子	tan	44	白读
-耽		tan	44	
-眈		tan	44	
-担	～保	tan	44	
-陈	姓	tan	24	
-谈		tan	24	
-□	湿	tan	24	
-□	响	tan	24	
-弹	～棉花	tan	24	
-亭	路～：路边供行人休息的小亭子	tan	24	白读
-等		tan	53	白读
-胆		tan	53	
-淡		tan	31	
-氮		tan	31	
-诞		tan	11	
-旦		tan	11	
-但		tan	11	
-蛋		tan	11	
-惮		tan	11	
-弹	子～	tan	11	
-滩		tʰan	44	
-摊		tʰan	44	
-瘫		tʰan	44	
-贪		tʰan	44	
-蛏	～干	tʰan	44	白读
-痰		tʰan	24	
-覃		tʰan	24	
-潭		tʰan	24	
-谭		tʰan	24	
-檀		tʰan	24	
-坛		tʰan	24	
-昙		tʰan	24	
-坦		tʰan	53	
-袒	～护	tʰan	53	
-毯		tʰan	53	
-□	形容走路慢的样子	tʰan	31	
-叹		tʰan	11	
-炭		tʰan	11	
-趁		tʰan	11	
-探		tʰan	11	
-□	赚	tʰan	11	
-□	手～：手茧	lan	44	
-□	下垂	lan	44	
-兰		lan	24	
-拦		lan	24	
-栏		lan	24	
-澜		lan	24	
-蓝		lan	24	
-褴		lan	24	
-篮		lan	24	
-婪		lan	24	
-南		lan	24	
-楠		lan	24	
-男		lan	24	
-岚		lan	24	
-□	咱们	lan	53	
-览		lan	53	
-揽		lan	53	
-滥		lan	11	
-烂		lan	11	
-曾	姓	t͡san	44	
-针		t͡san	44	白读
-簪		t͡san	44	
-层		t͡san	24	
-□	～猪：阉猪	t͡san	24	
-盏		t͡san	53	
-斩		t͡san	53	
-崭		t͡san	53	
-站		t͡san	31	
-赞		t͡san	11	
-暂		t͡san	11	
-餐		t͡sʰan	44	
-参		t͡sʰan	44	
-掺		t͡sʰan	44	
-□	呻吟	t͡sʰan	44	
-蚕		t͡sʰan	24	
-残		t͡sʰan	24	
-蝉		t͡sʰan	24	
-缠		t͡sʰan	24	
-塍	田	t͡sʰan	24	
-馋		t͡sʰan	24	
-□	形容干活起劲	t͡sʰan	24	
-产		t͡sʰan	53	
-铲	～除	t͡sʰan	53	
-惨		t͡sʰan	53	
-灿		t͡sʰan	11	
-忏		t͡sʰan	11	
-谶	预言	t͡sʰan	11	
-删		san	44	
-珊		san	44	
-山		san	44	
-疝		san	44	
-汕		san	44	
-舢	～板	san	44	
-杉		san	44	
-三		san	44	
-衫		san	44	
-□	沾在身上的污垢	san	44	
-馋	嘴馋	san	24	白读
-□	瘦	san	53	
-散	～步	san	11	
-干	～燥	kan	44	
-奸		kan	44	
-杆		kan	44	
-肝		kan	44	
-艰		kan	44	
-竽		kan	44	
-艰		kan	44	
-间	中～	kan	44	
-涧		kan	44	
-甘		kan	44	
-柑		kan	44	
-泔		kan	44	
-疳		kan	44	
-含		kan	24	白读
-简		kan	53	
-柬		kan	53	
-赶		kan	53	
-感		kan	53	
-敢		kan	53	
-干	～部	kan	11	
-间	～断	kan	11	
-监		kan	11	
-鉴		kan	11	
-刊		kʰan	44	
-牵	～牛	kʰan	44	白读
-戡		kʰan	44	
-堪		kʰan	44	
-龛	佛～	kʰan	44	
-砍		kʰan	53	
-坎		kʰan	53	
-侃		kʰan	53	
-看		kʰan	11	
-颜		ɡan	24	
-岩		ɡan	24	
-癌		ɡan	24	
-□	冷	ɡan	24	
-眼		ɡan	53	
-雁		ɡan	11	
-谚		ɡan	11	
-□	～水：审察	ɡan	11	
-蚶		han	44	
-酣		han	44	
-鼾		han	44	
-憨		han	44	
-韩		han	24	
-闲		han	24	
-寒		han	24	
-函		han	24	
-涵		han	24	
-咸		han	24	
-衔		han	24	
-翰		han	24	
-瀚		han	24	
-含		han	24	
-邯		han	24	
-闲		han	24	
-娴		han	24	
-罕		han	53	
-喊		han	53	
-限		han	31	
-旱		han	31	
-撼		han	31	
-汉		han	11	
-汗		han	11	
-焊		han	11	
-陷		han	11	
-憾		han	11	
-翰	～林	han	11	
-岸		han	11	
-安		an	44	
-氨		an	44	
-鞍		an	44	
-痷		an	44	
-□	紧	an	24	
-饮	米汤	an	53	白读
-案		an	11	
-按		an	11	
-暗		an	11	
-宴	又读，～会	an	11	
-边		pian	44	
-鞭		pian	44	
-编		pian	44	
-扁		pian	53	
-匾		pian	53	
-蝙		pian	53	
-贬		pian	53	
-辨		pian	31	
-辩		pian	31	
-辫		pian	31	
-遍		pian	11	
-变		pian	11	
-卞		pian	11	
-便	方～	pian	11	
-偏		pʰian	44	
-篇		pʰian	44	
-翩		pʰian	44	
-骈		pʰian	24	
-骗		pʰian	11	
-片		pʰian	11	
-棉		bian	24	
-绵		bian	24	
-眠		bian	24	
-免		bian	53	
-勉		bian	53	
-娩		bian	53	
-冕		bian	53	
-面		bian	11	
-缅		bian	11	
-颠		tian	44	
-癫		tian	44	
-砧	案板	tian	44	白读
-踮	用脚趾走路	tian	44	
-巅		tian	44	
-田		tian	24	
-滇		tian	24	
-填		tian	24	
-展		tian	53	
-典		tian	53	
-碘		tian	53	
-点		tian	53	
-垫		tian	31	
-电		tian	11	
-殿		tian	11	
-奠		tian	11	
-佃		tian	11	
-淀		tian	11	
-甸		tian	11	
-店		tian	11	
-□	人藏起来	tian	11	
-天		tʰian	44	
-添		tʰian	44	
-甜		tʰian	24	
-舔		tʰian	24	
-恬		tʰian	24	
-展		tʰian	53	白读
-□	张开	tʰian	53	
-□	增添	tʰian	11	
-拈		lian	44	
-粘		lian	44	
-捻		lian	44	
-□	～手～骹：蹑手蹑脚	lian	44	
-蔫		lian	44	
-连		lian	24	
-莲		lian	24	
-琏		lian	24	
-涟		lian	24	
-鲢		lian	24	
-廉		lian	24	
-镰		lian	24	
-年		lian	24	
-联		lian	24	
-辇		lian	53	
-撵		lian	53	
-脸		lian	53	
-敛		lian	53	
-殓		lian	53	
-碾		lian	53	
-念		lian	11	
-炼		lian	11	
-练		lian	11	
-链		lian	11	
-尖		t͡sian	44	
-笺		t͡sian	44	
-煎		t͡sian	44	
-沾		t͡sian	44	
-前		t͡sian	24	
-钱		t͡sian	24	
-潜		t͡sian	24	
-剪		t͡sian	53	
-翦		t͡sian	53	
-溅		t͡sian	31	
-占		t͡sian	11	
-战		t͡sian	11	
-贱		t͡sian	11	
-荐		t͡sian	11	
-箭		t͡sian	11	
-渐		t͡sian	11	
-践		t͡sian	11	
-□	（孩子）玩耍	t͡sian	11	
-千		t͡sʰian	44	
-迁		t͡sʰian	44	
-阡		t͡sʰian	44	
-纤		t͡sʰian	44	
-歼	～灭	t͡sʰian	44	
-跹		t͡sʰian	44	
-扦		t͡sʰian	44	
-仟		t͡sʰian	44	
-签		t͡sʰian	44	
-□	确准	t͡sʰian	44	
-□	钻（入水中）	t͡sʰian	44	
-钎	铁～，钢～	t͡sʰian	24	
-浅		t͡sʰian	53	
-□	（刀）刺	t͡sʰian	11	
-先		sian	44	
-仙		sian	44	
-籼		sian	44	
-鲜	～明，朝～	sian	44	
-婵		sian	24	
-禅		sian	24	
-单	姓	sian	24	
-闪		sian	53	
-陕		sian	53	
-癣		sian	53	
-善		sian	31	
-蟮		sian	31	
-鳝		sian	31	
-膳		sian	31	
-缮		sian	31	
-线		sian	11	
-羡		sian	11	
-暹		sian	11	
-扇	～动，电～	sian	11	
-然		zian	24	
-冉		zian	53	
-髯		zian	53	
-染		zian	53	
-燃		zian	53	
-兼		kian	44	
-捐		kian	44	
-娟		kian	44	
-肩		kian	44	
-坚		kian	44	
-菅	草～人命	kian	44	
-咸	～显～：很咸	kian	24	
-减		kian	53	
-碱		kian	53	
-检		kian	53	
-茧		kian	53	
-件		kian	31	
-腱		kian	31	白读
-见		kian	11	
-剑		kian	11	
-建		kian	11	
-健		kian	11	
-腱		kian	11	
-牵		kʰian	44	
-骞		kʰian	44	
-谦		kʰian	44	
-乾	～坤	kʰian	24	
-虔		kʰian	24	
-犬		kʰian	53	
-遣		kʰian	53	
-谴		kʰian	53	
-歉		kʰian	53	
-俭		kʰian	31	
-欠		kʰian	11	
-堑		kʰian	11	
-茜		kʰian	11	
-倩		kʰian	11	
-研		ɡian	44	
-言		ɡian	24	
-唁		ɡian	24	
-严		ɡian	24	
-阎		ɡian	24	
-俨	～然	ɡian	53	
-□	～头：瘾	ɡian	31	
-验		ɡian	11	
-轩		hian	44	
-掀		hian	44	
-玄		hian	24	
-弦		hian	24	
-舷		hian	24	
-炫		hian	24	
-贤		hian	24	
-嫌		hian	24	
-显		hian	53	
-险		hian	53	
-岘		hian	31	
-县		hian	11	
-悬		hian	11	
-现		hian	11	
-宪		hian	11	
-献		hian	11	
-砚		hian	11	
-渊		ian	44	
-烟		ian	44	
-咽		ian	44	
-胭		ian	44	
-焉		ian	44	
-嫣		ian	44	
-阉		ian	44	
-淹		ian	44	
-腌		ian	44	
-燕	～京	ian	44	
-沿		ian	24	
-铅	～笔	ian	24	
-船		ian	24	
-延		ian	24	
-筵		ian	24	
-蜒		ian	24	
-盐		ian	24	
-演		ian	53	
-衍		ian	53	
-掩		ian	53	
-□	～过～：犹豫不安	ian	31	
-宴	～会	ian	11	
-堰		ian	11	
-燕	～子	ian	11	
-厌		ian	11	
-炎		ian	11	
-焰		ian	11	
-艳		ian	11	
-□	父母称儿媳	ian	11	
-盘	～点	puan	24	
-半		puan	11	
-盘	～古	pʰuan	24	
-判		pʰuan	31	
-伴		pʰuan	31	
-拌		pʰuan	31	
-叛	背～	pʰuan	11	
-瞒		buan	24	
-满		buan	53	
-晚		buan	53	
-挽		buan	53	
-端		tuan	44	
-传	宣～	tuan	24	
-短		tuan	53	
-断		tuan	31	
-段		tuan	31	
-锻		tuan	31	
-缎		tuan	31	
-传	自～	tuan	11	
-□	事先说好；～价：讨价还价	tuan	11	
-团		tʰuan	24	
-篆		tʰuan	24	
-峦		luan	24	
-恋		luan	24	
-孪		luan	24	
-銮		luan	24	
-鸾		luan	24	
-滦		luan	24	
-暖		luan	53	
-软		luan	53	
-卵		luan	53	
-乱		luan	11	
-专		t͡suan	44	
-砖		t͡suan	44	
-钻		t͡suan	44	
-全		t͡suan	24	
-泉		t͡suan	24	
-转		t͡suan	53	
-撰		t͡suan	11	
-川		t͡sʰuan	44	
-穿		t͡sʰuan	44	
-铨		t͡sʰuan	44	
-痊		t͡sʰuan	44	
-荃		t͡sʰuan	44	
-喘		t͡sʰuan	53	
-串		t͡sʰuan	11	
-窜		t͡sʰuan	11	
-篡	～位	t͡sʰuan	11	
-纂		t͡sʰuan	11	
-宣		suan	44	
-酸		suan	44	
-喧		suan	44	
-栓		suan	44	
-拴		suan	44	
-旋	～转，凯～	suan	24	
-璇		suan	24	
-选		suan	53	
-算		suan	11	
-蒜		suan	11	
-冠	～军，衣冠	kuan	44	
-观		kuan	44	
-关		kuan	44	
-官		kuan	44	
-棺		kuan	44	
-鹃		kuan	44	
-鳏		kuan	44	
-权		kuan	24	
-颧	～骨	kuan	24	
-管		kuan	53	
-馆		kuan	53	
-卷	～动	kuan	53	
-贯		kuan	11	
-惯		kuan	11	
-灌		kuan	11	
-罐		kuan	11	
-眷		kuan	11	
-卷	考～	kuan	11	
-倦		kuan	11	
-观	贞～	kuan	11	
-宽		kʰuan	44	
-圈		kʰuan	44	
-环	～绕	kʰuan	24	白读
-款		kʰuan	53	
-劝		kʰuan	11	
-原		ɡuan	24	
-源		ɡuan	24	
-阮		ɡuan	53	
-玩		ɡuan	53	
-顽		ɡuan	53	
-愿		ɡuan	11	
-欢		huan	44	
-番		huan	44	
-翻		huan	44	
-幡		huan	44	
-藩	曾国～	huan	44	
-吩	～咐	huan	44	白读
-凡		huan	24	
-矾		huan	24	
-帆		huan	24	
-还		huan	24	
-环	玉～（地名）	huan	24	
-寰		huan	24	
-烦		huan	24	
-桓		huan	24	
-繁		huan	24	
-烦		huan	24	
-樊		huan	24	
-宦		huan	24	
-梵		huan	24	
-反		huan	53	
-返		huan	53	
-犯		huan	31	
-范		huan	31	
-浣		huan	31	
-患		huan	31	
-泛		huan	31	
-幻		huan	31	
-饭		huan	11	
-贩		huan	11	
-唤		huan	11	
-焕		huan	11	
-换		huan	11	
-涣		huan	11	
-絭		huan	11	
-□	形容有弹性	huan	11	
-弯		uan	44	
-湾		uan	44	
-冤		uan	44	
-鸳		uan	44	
-园		uan	24	
-圆		uan	24	
-员		uan	24	
-元		uan	24	
-完		uan	24	
-丸		uan	24	
-纨		uan	24	
-袁		uan	24	
-猿		uan	24	
-院		uan	24	
-宛		uan	53	
-惋		uan	53	
-碗		uan	53	
-婉		uan	53	
-豌		uan	53	
-腕		uan	53	
-琬		uan	53	
-剜		uan	53	
-苑		uan	53	
-畹		uan	53	
-远		uan	53	
-皖		uan	53	
-缓		uan	31	
-援		uan	31	
-怨		uan	11	
-邦		paŋ	44	
-崩		paŋ	44	白读
-枋	木板	paŋ	44	
-房		paŋ	24	白读
-缝		paŋ	24	白读
-蚌		paŋ	53	
-绑		paŋ	53	
-放		paŋ	11	
-乓		pʰaŋ	44	
-芳	香	pʰaŋ	44	白读
-蜂		pʰaŋ	44	白读
-篷	船～	pʰaŋ	24	
-庞		pʰaŋ	24	
-冯		pʰaŋ	24	
-□	双手用盘端东西	pʰaŋ	24	
-彭		pʰaŋ	24	
-纺		pʰaŋ	53	白读
-缝	裂缝	pʰaŋ	11	白读
-蠓	蚊子	baŋ	53	白读
-网		baŋ	31	白读
-梦		baŋ	11	白读
-冬		taŋ	44	白读
-东		taŋ	44	白读
-当	～心	taŋ	44	白读
-铛		taŋ	44	
-同	相～	taŋ	24	白读
-铜		taŋ	24	白读
-筒	大骹～：小腿浮肿	taŋ	24	白读
-董	古～	taŋ	53	白读
-重	轻～	taŋ	31	白读
-动	活～	taŋ	31	白读
-冻		taŋ	11	白读
-窗	～：窗戶	tʰaŋ	44	白读
-虫		tʰaŋ	24	白读
-桐	～油	tʰaŋ	24	白读
-桶		tʰaŋ	53	白读
-□	胳～骹：腋下	laŋ	44	
-□	疏～：稀疏	laŋ	44	
-脓		laŋ	24	白读
-侬	人	laŋ	24	
-郎	新～	laŋ	24	白读
-聋		laŋ	24	白读
-砻		laŋ	24	
-笼		laŋ	53	白读
-笼	放筷子的家具	laŋ	31	白读
-弄	戏～	laŋ	11	白读
-棕		t͡saŋ	44	白读
-鬃	马～	t͡saŋ	44	白读
-脏		t͡saŋ	44	
-株	一～树	t͡saŋ	24	白读
-粽		t͡saŋ	11	白读
-葱		t͡sʰaŋ	44	白读
-苍	染～：一种深蓝颜色	t͡sʰaŋ	44	白读
-耸	头毛～～：头发蓬松四散	t͡sʰaŋ	11	白读
-松	放～	saŋ	44	白读
-双		saŋ	44	白读
-桑		saŋ	44	白读
-送		saŋ	11	白读
-江		kaŋ	44	
-工	～夫	kaŋ	44	白读
-公	雄性	kaŋ	44	白读
-蚣	蜈～	kaŋ	44	白读
-讲		kaŋ	53	
-港		kaŋ	53	
-降	下～	kaŋ	53	
-共	相～：帮助	kaŋ	53	
-空		kʰaŋ	44	白读
-□	抠	kʰaŋ	11	
-□	～野：调皮，好玩耍	kʰaŋ	11	
-夯		haŋ	44	
-烘		haŋ	44	白读
-行	银～	haŋ	24	
-降	投～	haŋ	24	
-航		haŋ	24	
-杭		haŋ	24	
-项		haŋ	31	
-巷		haŋ	11	
-肮		aŋ	44	
-翁	～某：夫妻	aŋ	44	白读
-红		aŋ	24	白读
-洪	～秀全	aŋ	24	白读
-瓮		aŋ	11	白读
-谁		tiaŋ	24	白读
-漳	～州（地名）	t͡siaŋ	44	白读
-涨		t͡siaŋ	53	
-□	纯粹	t͡siaŋ	31	
-□	形容极好	kʰiaŋ	11	
-扬		iaŋ	24	白读
-□	敲锣声	kʰuaŋ	31	
-风	刮～	huaŋ	44	白读
-慌	～里～张	huaŋ	44	白读
-谎		huaŋ	44	白读
-针		t͡sən	44	
-箴		t͡sən	44	
-森		sən	44	
-参	海～，人～	sən	44	
-斤		kən	44	
-巾		kən	44	
-根		kən	44	
-跟		kən	44	
-筋		kən	44	
-均		kən	44	
-钧		kən	44	
-近		kən	31	
-啃		kʰən	44	
-坤		kʰən	44	
-勤		kʰən	24	
-芹	～菜	kʰən	24	
-恳		kʰən	53	
-银		ɡən	24	
-欣		hən	44	
-馨		hən	44	
-痕		hən	24	
-很		hən	53	
-狠		hən	53	
-恨		hən	11	
-恩		ən	44	
-殷		ən	44	
-□	字～：辈份；层	ən	24	
-允		ən	53	
-隐		ən	53	
-稳		ən	53	
-□	波及	ən	11	
-宾		pin	44	
-滨		pin	44	
-缤		pin	44	
-彬		pin	44	
-斌		pin	44	
-扁	～担	pin	44	白读
-贫		pin	24	
-频		pin	24	
-濒		pin	24	
-禀		pin	53	
-秉		pin	53	
-殡		pin	11	
-膑		pin	11	
-鬓		pin	11	
-槟		pin	11	
-频	又读	pʰin	24	
-品		pʰin	53	
-□	鱼被捕后挣扎跳跃的样子	pʰin	53	
-民		bin	24	
-眠		bin	24	
-岷		bin	24	
-闽		bin	53	
-敏		bin	53	
-闵		bin	53	
-悯		bin	53	
-面		bin	11	
-珍		tin	44	
-诊		tin	44	
-津		tin	44	
-尘		tin	24	
-藤		tin	24	
-沉		tin	24	
-陈	～茶叶，～列	tin	24	
-镇		tin	11	
-阵	～势	tin	11	
-圳	深～	tin	11	
-朕		tin	11	
-□	蒸	tin	11	
-□	点头	tin	11	
-琛		tʰin	44	
-□	～酒：斟酒	tʰin	24	
-□	对称	tʰin	11	
-□	～酒：小口地饮酒	lin	44	
-怜		lin	24	
-邻		lin	24	
-磷		lin	24	
-麟		lin	24	
-鳞		lin	24	
-林		lin	24	
-淋		lin	24	
-琳		lin	24	
-霖		lin	24	
-临		lin	24	
-凛		lin	53	
-廪		lin	53	
-恁	你们	lin	53	
-吝		lin	11	
-佞		lin	11	
-□	刚睡着	lin	11	
-真		t͡sin	44	
-斟		t͡sin	44	
-秦		t͡sin	24	
-震		t͡sin	53	
-振		t͡sin	53	
-赈		t͡sin	53	
-拯	包～	t͡sin	53	
-枕	～头	t͡sin	53	
-婶		t͡sin	53	白读
-□	挤	t͡sin	53	
-尽		t͡sin	31	
-进		t͡sin	11	
-晋		t͡sin	11	
-烬		t͡sin	11	
-浸		t͡sin	11	
-亲		t͡sʰin	44	
-深		t͡sʰin	44	
-寝		t͡sʰin	53	
-侵		t͡sʰin	53	
-秤		t͡sʰin	11	
-称		t͡sʰin	11	白读
-□	冷，凉	t͡sʰin	11	
-新		sin	44	
-薪		sin	44	
-心		sin	44	
-芯		sin	44	
-申		sin	44	
-伸		sin	44	
-身		sin	44	
-辛		sin	44	
-锌		sin	44	
-神		sin	24	
-臣		sin	24	
-辰		sin	24	
-晨		sin	24	
-寻		sin	24	
-绳		sin	24	
-丞	～相	sin	24	
-□	用手接落下的东西	sin	24	
-迅		sin	53	
-审		sin	53	
-沈	～阳	sin	53	
-讯		sin	53	
-汛		sin	53	
-□	～一下：思考一下	sin	31	
-信		sin	11	
-慎		sin	11	
-剩		sin	11	
-甚		sin	11	
-人		zin	24	
-仁		zin	24	
-忍		zin	53	
-韧		zin	53	
-认		zin	11	
-任		zin	11	
-金		kin	44	
-今		kin	44	
-紧		kin	53	
-锦		kin	53	
-妗		kin	31	
-禁		kin	11	
-谨		kin	11	
-仅		kin	11	
-轻		kʰin	44	
-氢		kʰin	44	
-琴		kʰin	24	
-禽		kʰin	24	
-擒		kʰin	24	
-黔		kʰin	24	
-吟	～诗	ɡin	24	
-熊		hin	24	白读
-眩	头晕	hin	24	白读
-因		in	44	
-茵		in	44	
-姻		in	44	
-阴		in	44	
-荫		in	44	
-音		in	44	
-□	绕线	in	44	
-淹		in	44	白读
-寅		in	24	
-淫		in	24	
-引		in	53	
-饮		in	53	
-印		in	11	
-孕		in	11	
-分	～开	pun	44	白读
-奔		pun	44	
-□	～火：吹火	pun	24	
-本		pun	53	
-笨		pun	31	
-粪		pun	11	白读
-潘	泔水	pʰun	44	
-□	～珠：玉米	pʰun	44	
-喷		pʰun	11	
-文		bun	24	
-汶		bun	24	
-纹		bun	24	
-雯		bun	24	
-门		bun	24	
-们		bun	24	
-扪		bun	24	
-闻		bun	24	
-吻		bun	53	
-刎		bun	53	
-问		bun	11	
-闷		bun	11	
-敦		tun	44	
-墩		tun	44	
-蹲		tun	44	
-盾		tun	53	
-囤		tun	53	
-顿		tun	31	
-钝		tun	31	
-盹		tun	31	
-遁		tun	31	
-吞		tʰun	44	
-屯		tʰun	24	
-豚	猪～：正在长大的小猪	tʰun	24	
-唇		tʰun	24	
-填	～海	tʰun	11	白读
-□	以刀绕物切削：～甘蔗	lun	44	
-仑		lun	24	
-沦		lun	24	
-伦		lun	24	
-轮		lun	24	
-论	～语	lun	24	
-抡		lun	24	
-忍		lun	53	白读
-论	议～	lun	11	
-嫩		lun	11	
-闰	～月	lun	11	
-尊		t͡sun	44	
-遵		t͡sun	44	
-樽		t͡sun	44	
-谆		t͡sun	44	
-船		t͡sun	24	白读
-存		t͡sun	24	
-准		t͡sun	53	
-俊		t͡sun	11	
-春		t͡sʰun	44	
-村		t͡sʰun	44	
-皴		t͡sʰun	44	
-存	保留备用	t͡sʰun	24	白读
-蠢		t͡sʰun	53	
-寸		t͡sʰun	11	
-孙		sun	44	
-纯		sun	24	
-旬		sun	24	
-洵		sun	24	
-殉		sun	24	
-荀		sun	24	
-醇		sun	24	
-巡		sun	24	
-□	形容性格温顺	sun	24	
-笋		sun	53	
-损		sun	53	
-榫	～头	sun	53	
-舜		sun	11	
-瞬		sun	11	
-逊		sun	11	
-顺		sun	11	
-润		zun	11	
-军		kun	44	
-君		kun	44	
-群		kun	24	
-裙		kun	24	
-拳		kun	24	
-滚		kun	53	
-鲧		kun	53	
-棍		kun	11	
-郡		kun	11	
-昆		kʰun	44	
-琨		kʰun	44	
-鲲		kʰun	44	
-□	草～：稻草垛	kʰun	24	
-捆		kʰun	53	
-菌		kʰun	53	
-困		kʰun	11	
-□	我们	ɡun	53	
-昏		hun	44	
-婚		hun	44	
-分		hun	44	
-芬		hun	44	
-吩		hun	44	
-汾		hun	44	
-纷		hun	44	
-勋		hun	44	
-熏		hun	44	
-薰		hun	44	
-荤		hun	44	
-云		hun	24	
-魂		hun	24	
-坟		hun	24	
-焚		hun	24	
-浑		hun	24	
-珲		hun	24	
-粉		hun	53	
-奋		hun	53	
-混		hun	31	
-晕		hun	31	
-份		hun	11	
-忿		hun	11	
-氛		hun	11	
-训		hun	11	
-驯		hun	11	
-愤		hun	11	
-粪		hun	11	
-温		un	44	
-瘟		un	44	
-匀		un	24	
-耘		un	24	
-稳		un	53	
-□	～一下：蘸一下	un	11	
-蕴		un	11	
-愠		un	11	
-运		un	11	
-酝		un	11	
-韵		un	11	
-兵		piŋ	44	
-冰		piŋ	44	
-平		piŋ	24	
-坪		piŋ	24	
-苹		piŋ	24	
-萍		piŋ	24	
-屏		piŋ	24	
-瓶		piŋ	24	
-朋		piŋ	24	
-凭		piŋ	24	
-丙		piŋ	53	
-炳		piŋ	53	
-饼		piŋ	53	
-秉	又读	piŋ	53	
-禀	又读	piŋ	53	
-並		piŋ	11	
-并	合～	piŋ	11	
-柄	把～	piŋ	11	
-病		piŋ	11	
-乒		pʰiŋ	44	
-评		pʰiŋ	24	
-彭		pʰiŋ	24	
-澎		pʰiŋ	24	
-膨		pʰiŋ	24	
-姘		pʰiŋ	11	
-拼		pʰiŋ	11	
-聘		pʰiŋ	11	
-明		biŋ	24	
-盟		biŋ	24	
-萌		biŋ	24	
-名		biŋ	24	
-铭		biŋ	24	
-孟		biŋ	53	
-猛		biŋ	53	
-蜢		biŋ	53	
-锰		biŋ	53	
-冥		biŋ	53	
-暝		biŋ	53	
-螟		biŋ	53	
-命	～令	biŋ	11	
-丁		tiŋ	44	
-汀		tiŋ	44	
-灯		tiŋ	44	
-钉	铁～	tiŋ	44	
-疔		tiŋ	44	
-盯		tiŋ	44	
-登		tiŋ	44	
-亭		tiŋ	24	
-婷		tiŋ	24	
-廷		tiŋ	24	
-庭		tiŋ	24	
-等		tiŋ	53	
-顶		tiŋ	53	
-鼎		tiŋ	53	
-锭		tiŋ	31	
-澄	～清	tiŋ	31	
-定		tiŋ	11	
-钉	～钉	tiŋ	11	
-订	制～	tiŋ	11	
-厅		tʰiŋ	44	
-汀		tʰiŋ	44	
-听		tʰiŋ	44	
-呈		tʰiŋ	24	
-程		tʰiŋ	24	
-停		tʰiŋ	24	
-誊		tʰiŋ	24	
-滕		tʰiŋ	24	
-霆		tʰiŋ	24	
-挺		tʰiŋ	53	
-铤		tʰiŋ	53	
-艇		tʰiŋ	53	
-听	～侯	tʰiŋ	11	
-□	的～：铃声	liŋ	44	
-伶		liŋ	24	
-囹		liŋ	24	
-玲		liŋ	24	
-铃		liŋ	24	
-羚		liŋ	24	
-聆		liŋ	24	
-苓		liŋ	24	
-翎		liŋ	24	
-蛉		liŋ	24	
-龄		liŋ	24	
-零		liŋ	24	
-能		liŋ	24	
-龙		liŋ	24	白读
-宁		liŋ	24	
-凌		liŋ	24	
-陵		liŋ	24	
-另	～外	liŋ	24	
-冷		liŋ	53	
-岭		liŋ	53	
-领		liŋ	53	
-菱		liŋ	31	
-令		liŋ	11	
-曾	～经	t͡siŋ	44	
-增		t͡siŋ	44	
-憎		t͡siŋ	44	
-僧		t͡siŋ	44	
-征		t͡siŋ	44	
-争		t͡siŋ	44	
-睁		t͡siŋ	44	
-挣		t͡siŋ	44	
-狰		t͡siŋ	44	
-筝		t͡siŋ	44	
-贞		t͡siŋ	44	
-侦		t͡siŋ	44	
-桢		t͡siŋ	44	
-祯		t͡siŋ	44	
-精		t͡siŋ	44	
-睛		t͡siŋ	44	
-晶		t͡siŋ	44	
-蒸		t͡siŋ	44	
-钟		t͡siŋ	44	
-□	敲打	t͡siŋ	44	白读
-甄		t͡siŋ	44	
-惩		t͡siŋ	44	
-情		t͡siŋ	24	
-晴		t͡siŋ	24	
-整		t͡siŋ	53	
-肿		t͡siŋ	53	白读
-种	～子	t͡siŋ	53	白读
-井		t͡siŋ	53	
-静		t͡siŋ	31	
-靖		t͡siŋ	31	
-净		t͡siŋ	31	
-正		t͡siŋ	11	
-政		t͡siŋ	11	
-证		t͡siŋ	11	
-症		t͡siŋ	11	
-众		t͡siŋ	11	白读
-种	～菜	t͡siŋ	11	白读
-青		t͡sʰiŋ	44	
-清		t͡sʰiŋ	44	
-蜻		t͡sʰiŋ	44	
-称	～呼	t͡sʰiŋ	44	
-请		t͡sʰiŋ	53	
-□	穿	t͡sʰiŋ	11	
-铳	一种旧式火器	t͡sʰiŋ	11	
-生		siŋ	44	
-甥		siŋ	44	
-笙		siŋ	44	
-牲		siŋ	44	
-星		siŋ	44	
-腥		siŋ	44	
-声		siŋ	44	
-升		siŋ	44	
-成		siŋ	24	
-诚		siŋ	24	
-城		siŋ	24	
-承		siŋ	24	
-乘		siŋ	24	
-省	反～，浙江～	siŋ	53	
-醒	～悟	siŋ	53	
-盛		siŋ	11	
-胜		siŋ	11	
-性		siŋ	11	
-姓		siŋ	11	
-圣		siŋ	11	
-□	用双脚踩实东西	siŋ	11	
-经		kiŋ	44	
-耕		kiŋ	44	
-弓		kiŋ	44	白读
-宫		kiŋ	44	白读
-荆		kiŋ	44	
-更	三～，～改	kiŋ	44	
-庚		kiŋ	44	
-羹		kiŋ	44	
-京		kiŋ	44	
-惊		kiŋ	44	
-鲸		kiŋ	44	
-穷	～鬼	kiŋ	24	白读
-景		kiŋ	53	
-憬		kiŋ	53	
-境		kiŋ	53	
-耿		kiŋ	53	
-痉		kiŋ	11	
-警		kiŋ	11	
-竟		kiŋ	11	
-兢		kiŋ	11	
-竞		kiŋ	11	
-镜		kiŋ	11	
-劲		kiŋ	11	
-径		kiŋ	11	
-□		kiŋ	11	
-更	～加	kiŋ	11	
-敬		kiŋ	11	
-儆		kiŋ	11	
-卿		kʰiŋ	44	
-钦		kʰiŋ	44	
-□	过滤	kʰiŋ	44	
-筐		kʰiŋ	44	白读
-框		kʰiŋ	44	白读
-顷		kʰiŋ	53	
-倾	～向	kʰiŋ	53	
-肯		kʰiŋ	53	
-□	因病忌讳吃东西	kʰiŋ	31	
-虹		kʰiŋ	11	
-庆		kʰiŋ	11	
-罄	～竹难书	kʰiŋ	11	
-迎		ɡiŋ	24	
-凝		ɡiŋ	24	
-硬		ɡiŋ	31	
-兴	～起	hiŋ	44	
-兄		hiŋ	44	
-□	以槌击水的动作	hiŋ	44	
-形		hiŋ	24	
-型		hiŋ	24	
-刑		hiŋ	24	
-邢		hiŋ	24	
-行	～为	hiŋ	24	
-恒		hiŋ	24	
-衡		hiŋ	24	
-享		hiŋ	53	
-杏		hiŋ	31	
-幸		hiŋ	11	
-兴	高～	hiŋ	11	
-行	品～	hiŋ	11	
-应	～该	iŋ	44	
-鹰		iŋ	44	
-莺		iŋ	44	
-英		iŋ	44	
-瑛		iŋ	44	
-婴		iŋ	44	
-缨		iŋ	44	
-樱		iŋ	44	
-鹦		iŋ	44	
-荣		iŋ	24	
-营		iŋ	24	
-萤		iŋ	24	
-荧		iŋ	24	
-萦		iŋ	24	
-茔		iŋ	24	
-盈		iŋ	24	
-赢		iŋ	24	
-瀛		iŋ	24	
-永	～古：永久	iŋ	53	白读
-影		iŋ	53	
-用		iŋ	11	白读
-佣		iŋ	11	白读
-应	答～	iŋ	11	
-映		iŋ	11	
-颖		iŋ	11	
-泳		iŋ	11	
-咏		iŋ	11	
-□	灌溉	iŋ	11	
-帮		pɔŋ	44	
-梆		pɔŋ	44	
-旁		pɔŋ	24	
-房		pɔŋ	24	
-傍		pɔŋ	24	
-膀		pɔŋ	24	
-彷		pɔŋ	24	
-榜		pɔŋ	53	
-磅		pɔŋ	53	
-□	米煮滚后溢出	pɔŋ	31	
-□	消息很快传开	pɔŋ	31	
-谤		pɔŋ	31	
-泵		pɔŋ	31	
-蓬		pʰɔŋ	24	
-捧		pʰɔŋ	53	
-碰		pʰɔŋ	11	
-□	凸出来	pʰɔŋ	11	
-亡		bɔŋ	24	
-忙		bɔŋ	24	
-芒		bɔŋ	24	
-茫		bɔŋ	24	
-虻		bɔŋ	24	
-蒙		bɔŋ	24	
-朦		bɔŋ	24	
-莽		bɔŋ	53	
-蟒		bɔŋ	53	
-网		bɔŋ	53	
-懵	～懂	bɔŋ	53	
-妄	～来：乱来，蛮干	bɔŋ	53	
-梦		bɔŋ	11	
-望		bɔŋ	11	
-□		tɔŋ	44	
-冬		tɔŋ	44	
-当	应～	tɔŋ	44	
-裆		tɔŋ	44	
-铛		tɔŋ	44	
-同		tɔŋ	24	
-筒		tɔŋ	24	
-桐		tɔŋ	24	
-铜		tɔŋ	24	
-唐		tɔŋ	24	
-塘		tɔŋ	24	
-堂		tɔŋ	24	
-膛		tɔŋ	24	
-童		tɔŋ	24	
-潼		tɔŋ	24	
-僮		tɔŋ	24	
-瞳		tɔŋ	24	
-彤		tɔŋ	24	
-党		tɔŋ	53	
-董		tɔŋ	53	
-懂		tɔŋ	53	
-动		tɔŋ	31	
-洞		tɔŋ	11	
-荡		tɔŋ	11	
-冻		tɔŋ	11	
-栋		tɔŋ	11	
-当	～真	tɔŋ	11	
-挡		tɔŋ	11	
-通		tʰɔŋ	44	
-统		tʰɔŋ	53	
-桶		tʰɔŋ	53	
-捅		tʰɔŋ	53	
-倘		tʰɔŋ	53	
-痛		tʰɔŋ	11	
-农		lɔŋ	24	
-浓		lɔŋ	24	
-脓		lɔŋ	24	
-隆		lɔŋ	24	
-狼		lɔŋ	24	
-郎		lɔŋ	24	
-廊		lɔŋ	24	
-榔		lɔŋ	24	
-龙		lɔŋ	24	
-笼		lɔŋ	24	
-垄		lɔŋ	24	
-拢		lɔŋ	53	
-陇		lɔŋ	53	
-朗		lɔŋ	53	
-琅		lɔŋ	53	
-弄		lɔŋ	11	
-浪		lɔŋ	11	
-宗		t͡sɔŋ	44	
-综		t͡sɔŋ	44	
-踪		t͡sɔŋ	44	
-棕		t͡sɔŋ	44	
-庄		t͡sɔŋ	44	
-奘		t͡sɔŋ	44	
-装		t͡sɔŋ	44	
-藏		t͡sɔŋ	24	
-总		t͡sɔŋ	53	
-壮		t͡sɔŋ	11	
-状		t͡sɔŋ	11	
-葬		t͡sɔŋ	11	
-粽		t͡sɔŋ	11	
-仓		t͡sʰɔŋ	44	
-苍		t͡sʰɔŋ	44	
-沧		t͡sʰɔŋ	44	
-舱		t͡sʰɔŋ	44	
-疮		t͡sʰɔŋ	44	
-聪		t͡sʰɔŋ	44	
-匆		t͡sʰɔŋ	44	
-葱		t͡sʰɔŋ	44	
-丛	～书	t͡sʰɔŋ	24	
-创		t͡sʰɔŋ	11	
-松		sɔŋ	44	
-双		sɔŋ	44	
-丧	婚～	sɔŋ	44	
-桑		sɔŋ	44	
-霜		sɔŋ	44	
-孀		sɔŋ	44	
-爽		sɔŋ	53	
-宋		sɔŋ	11	
-送		sɔŋ	11	
-颂		sɔŋ	11	
-诵		sɔŋ	11	
-光		kɔŋ	44	
-工		kɔŋ	44	
-功		kɔŋ	44	
-攻		kɔŋ	44	
-缸		kɔŋ	44	
-公		kɔŋ	44	
-蚣		kɔŋ	44	
-狂		kɔŋ	24	
-诳		kɔŋ	24	
-逛		kɔŋ	24	
-广		kɔŋ	53	
-讲	～话	kɔŋ	53	白读
-栱	米～：量米的器具	kɔŋ	53	
-贡		kɔŋ	11	
-杠		kɔŋ	11	
-拱		kɔŋ	11	
-空		kʰɔŋ	44	
-匡		kʰɔŋ	44	
-框		kʰɔŋ	44	
-康		kʰɔŋ	44	
-慷		kʰɔŋ	44	
-糠		kʰɔŋ	44	
-□	～工夫：浪费、担搁时间	kʰɔŋ	24	
-□	窑	kʰɔŋ	24	
-孔		kʰɔŋ	53	
-矿		kʰɔŋ	11	
-旷		kʰɔŋ	11	
-抗		kʰɔŋ	11	
-空	亏～	kʰɔŋ	11	
-控		kʰɔŋ	11	
-昂		ɡɔŋ	24	
-戆	笨，傻	ɡɔŋ	11	
-方		hɔŋ	44	
-肪		hɔŋ	44	
-芳		hɔŋ	44	
-风		hɔŋ	44	
-讽		hɔŋ	44	
-枫		hɔŋ	44	
-丰		hɔŋ	44	
-封		hɔŋ	44	
-峰		hɔŋ	44	
-蜂		hɔŋ	44	
-锋		hɔŋ	44	
-烽		hɔŋ	44	
-荒		hɔŋ	44	
-慌		hɔŋ	44	
-谎		hɔŋ	44	
-红		hɔŋ	24	
-鸿		hɔŋ	24	
-逢		hɔŋ	24	
-缝		hɔŋ	24	
-防		hɔŋ	24	
-弘		hɔŋ	24	
-宏		hɔŋ	24	
-虹		hɔŋ	24	
-洪		hɔŋ	24	
-皇		hɔŋ	24	
-蝗		hɔŋ	24	
-凰		hɔŋ	24	
-徨		hɔŋ	24	
-黄		hɔŋ	24	
-簧		hɔŋ	24	
-□	毒蛇的毒液	hɔŋ	24	
-仿		hɔŋ	53	
-纺		hɔŋ	53	
-访		hɔŋ	53	
-恍		hɔŋ	53	
-晃		hɔŋ	53	
-幌		hɔŋ	53	
-轰		hɔŋ	31	
-况		hɔŋ	11	
-放		hɔŋ	11	
-奉		hɔŋ	11	
-俸		hɔŋ	11	
-凤		hɔŋ	11	
-缝	裂～	hɔŋ	11	
-翁		ɔŋ	44	
-汪		ɔŋ	44	
-□	玩耍时因不满而变脸	ɔŋ	44	
-□	持槌状物击桩；以锄头敲打土块	ɔŋ	44	
-王		ɔŋ	24	
-□	～侬：逗笑人；～客：只问价钱不购买的顾客	ɔŋ	24	
-往		ɔŋ	53	
-枉		ɔŋ	53	
-旺		ɔŋ	11	
-□	腿陷入泥中	ɔŋ	11	
-中		tiɔŋ	44	
-忠		tiɔŋ	44	
-衷	～心	tiɔŋ	44	
-张		tiɔŋ	44	
-长	～短	tiɔŋ	24	
-重	～复	tiɔŋ	24	
-场		tiɔŋ	24	
-肠		tiɔŋ	24	
-长	生～	tiɔŋ	53	
-重	～要	tiɔŋ	31	
-仲		tiɔŋ	31	
-中	～壮元	tiɔŋ	11	
-胀		tiɔŋ	11	
-衷	苦～	tʰiɔŋ	44	
-虫		tʰiɔŋ	24	
-冢		tʰiɔŋ	53	
-宠		tʰiɔŋ	53	
-丈		tʰiɔŋ	31	
-仗		tʰiɔŋ	31	
-杖		tʰiɔŋ	31	
-畅	舒～	tʰiɔŋ	31	
-畅	高兴	tʰiɔŋ	11	白读
-良		liɔŋ	24	
-粮		liɔŋ	24	
-凉		liɔŋ	24	
-梁		liɔŋ	24	
-粱		liɔŋ	24	
-量	测～	liɔŋ	24	
-两		liɔŋ	53	
-俩		liɔŋ	53	
-辆		liɔŋ	53	
-量	重～	liɔŋ	11	
-谅		liɔŋ	11	
-亮		liɔŋ	11	
-章		t͡siɔŋ	44	
-漳		t͡siɔŋ	44	
-樟		t͡siɔŋ	44	
-彰		t͡siɔŋ	44	
-障		t͡siɔŋ	44	
-璋		t͡siɔŋ	44	
-终		t͡siɔŋ	44	
-将	～军	t͡siɔŋ	44	
-锺		t͡siɔŋ	44	
-钟		t͡siɔŋ	44	
-盅		t͡siɔŋ	44	
-□	～搁：做	t͡siɔŋ	44	
-从	服～，～容	t͡siɔŋ	24	
-种	～类	t͡siɔŋ	53	
-掌		t͡siɔŋ	53	
-奖		t͡siɔŋ	53	
-蒋		t͡siɔŋ	53	
-将	大～	t͡siɔŋ	11	
-状	～元	t͡siɔŋ	11	白读
-充		t͡sʰiɔŋ	44	
-冲		t͡sʰiɔŋ	44	
-昌		t͡sʰiɔŋ	44	
-猖		t͡sʰiɔŋ	44	
-枪		t͡sʰiɔŋ	44	
-锵		t͡sʰiɔŋ	44	
-墙		t͡sʰiɔŋ	24	
-闯		t͡sʰiɔŋ	53	
-抢		t͡sʰiɔŋ	53	
-像		t͡sʰiɔŋ	31	
-象		t͡sʰiɔŋ	31	
-匠		t͡sʰiɔŋ	31	
-倡		t͡sʰiɔŋ	11	
-唱		t͡sʰiɔŋ	11	
-□	乱闯	t͡sʰiɔŋ	11	
-娼		t͡sʰiɔŋ	11	
-相	互～	siɔŋ	44	
-厢		siɔŋ	44	
-湘		siɔŋ	44	
-箱		siɔŋ	44	
-商		siɔŋ	44	
-伤		siɔŋ	44	
-襄		siɔŋ	44	
-镶		siɔŋ	44	
-祥		siɔŋ	24	
-详		siɔŋ	24	
-翔		siɔŋ	24	
-常		siɔŋ	24	
-裳		siɔŋ	24	
-尝		siɔŋ	24	
-偿		siɔŋ	24	
-赏		siɔŋ	53	
-想		siɔŋ	53	
-相	宰～	siɔŋ	11	
-上		siɔŋ	11	
-尚		siɔŋ	11	
-绒		ziɔŋ	24	
-茸		ziɔŋ	24	
-瓤		ziɔŋ	24	
-嚷		ziɔŋ	53	
-壤		ziɔŋ	53	
-让		ziɔŋ	11	
-弓		kiɔŋ	44	
-躬		kiɔŋ	44	
-宫		kiɔŋ	44	
-供	～应，口～	kiɔŋ	44	
-恭		kiɔŋ	44	
-疆		kiɔŋ	44	
-僵		kiɔŋ	44	
-缰		kiɔŋ	44	
-姜	鲜～	kiɔŋ	44	
-穷		kiɔŋ	24	
-强		kiɔŋ	24	
-琼		kiɔŋ	24	
-巩		kiɔŋ	53	
-共		kiɔŋ	11	
-姜	姓	kʰiɔŋ	44	
-羌		kʰiɔŋ	44	
-恐		kʰiɔŋ	53	
-仰		ɡiɔŋ	53	
-凶		hiɔŋ	44	
-汹		hiɔŋ	44	
-匈		hiɔŋ	44	
-胸		hiɔŋ	44	
-乡		hiɔŋ	44	
-香		hiɔŋ	44	
-雄	英～	hiɔŋ	24	
-熊		hiɔŋ	24	
-响		hiɔŋ	53	
-向		hiɔŋ	11	
-饷		hiɔŋ	11	
-央		iɔŋ	44	
-鸯		iɔŋ	44	
-秧		iɔŋ	44	
-泱		iɔŋ	44	
-殃		iɔŋ	44	
-秧		iɔŋ	44	
-鞅		iɔŋ	44	
-拥		iɔŋ	44	
-臃		iɔŋ	44	
-痈		iɔŋ	44	
-羊		iɔŋ	24	
-洋		iɔŋ	24	
-佯		iɔŋ	24	
-烊		iɔŋ	24	
-容		iɔŋ	24	
-溶		iɔŋ	24	
-熔		iɔŋ	24	
-蓉		iɔŋ	24	
-榕		iɔŋ	24	
-阳		iɔŋ	24	
-扬		iɔŋ	24	
-杨		iɔŋ	24	
-疡		iɔŋ	24	
-融		iɔŋ	24	
-庸		iɔŋ	24	
-养		iɔŋ	53	
-痒		iɔŋ	53	
-氧		iɔŋ	53	
-永		iɔŋ	53	
-勇		iɔŋ	53	
-涌		iɔŋ	53	
-踊		iɔŋ	53	
-用		iɔŋ	11	
-佣		iɔŋ	11	
-样		iɔŋ	11	
-漾		iɔŋ	11	
-恙		iɔŋ	11	
-边		pĩ	44	白读
-绷	～鼓：绷紧鼓面的皮	pĩ	44	白读
-平		pĩ	24	白读
-坪		pĩ	24	白读
-扁		pĩ	53	白读
-辫	～仔：辫子	pĩ	31	白读
-柄		pĩ	11	白读
-病		pĩ	11	白读
-篇		pʰĩ	44	白读
-彭	姓	pʰĩ	24	白读
-澎		pʰĩ	24	白读
-□	用五指抓物	bĩ	44	
-棉		bĩ	24	白读
-绵		bĩ	24	白读
-盲	青～：眼瞎	bĩ	24	白读
-冥	一～：一夜	bĩ	24	
-弥		bĩ	53	
-尾		bĩ	53	
-面	燥～：挂面	bĩ	11	白读
-甜		tĩ	44	白读
-缠		tĩ	24	白读
-郑		tĩ	11	
-□	用力（干事）	tĩ	11	
-天		tʰĩ	44	白读
-添		tʰĩ	44	白读
-□	～衫：缝补衣服	tʰĩ	11	
-□	抵	tʰĩ	11	
-奶		lĩ	44	白读
-尼		lĩ	24	
-呢		lĩ	24	
-泥		lĩ	24	
-妮		lĩ	24	
-年		lĩ	24	白读
-捏	用手～	lĩ	24	白读
-尔		lĩ	53	
-你		lĩ	53	
-耳		lĩ	53	
-染		lĩ	53	白读
-呢	语气词	lĩ	31	
-腻	细～，光滑	lĩ	11	
-□	踮着脚跟看	lĩ	11	
-精	妖～	t͡sĩ	44	白读
-争	相～	t͡sĩ	44	白读
-□	硬塞	t͡sĩ	44	
-钱	铜～：钱币	t͡sĩ	24	白读
-晴		t͡sĩ	24	白读
-井		t͡sĩ	53	白读
-□	嫩，幼小	t͡sĩ	53	
-箭		t͡sĩ	11	白读
-诤	以言论相争	t͡sĩ	11	
-将	马～：麻将	t͡sĩ	11	白读
-星		t͡sʰĩ	44	白读
-青		t͡sʰĩ	44	白读
-腥		t͡sʰĩ	44	白读
-生	～熟	t͡sʰĩ	44	白读
-醒	困一～：睡一觉	t͡sʰĩ	53	白读
-生	～病	sĩ	44	白读
-姓		sĩ	11	白读
-扇	纸～	sĩ	11	白读
-□	～菜：腌菜	sĩ	11	
-更	三～	kĩ	44	白读
-经	～布	kĩ	44	白读
-钳	火～	kĩ	24	白读
-缘	边沿	kĩ	24	白读
-哽		kĩ	53	白读
-见	～面	kĩ	11	白读
-坑		kʰĩ	44	白读
-□	攀	kʰĩ	24	
-硬		ɡĩ	31	白读
-砚	墨～：砚台	hĩ	11	白读
-婴		ĩ	44	白读
-□	塍～：蜻蜒	ĩ	44	白读
-圆		ĩ	24	白读
-院	学～	ĩ	11	白读
-燕	～仔：燕子	ĩ	11	白读
-奴		lũ	24	
-努		lũ	24	
-怒		lũ	11	
-爿	柴～：片柴	pũĩ	24	
-反	翻	pũĩ	53	白读
-枚		bũĩ	24	
-玫		bũĩ	24	
-媒		bũĩ	24	
-煤		bũĩ	24	
-梅		bũĩ	24	
-每		bũĩ	53	
-妹		bũĩ	11	
-前	面～：前面	t͡sũĩ	24	白读
-指	尾～：小指头	t͡sũĩ	53	白读
-千		t͡sʰũĩ	44	白读
-先	～去	sũĩ	44	白读
-关	～门	kũĩ	44	白读
-间		kũĩ	44	白读
-悬	高	kũĩ	24	白读
-拣		kũĩ	53	白读
-茧		kũĩ	53	白读
-县		kũĩ	11	白读
-开	～门	kʰũĩ	44	白读
-横	～直	hũĩ	24	白读
-妈	母亲	bã	44	
-马		bã	53	
-码		bã	53	
-妈	祖母	bã	53	
-骂		bã	11	
-拿		lã	24	
-□	留宿	lã	11	
-雅		ɡã	53	
-□	答应语气词	hã	24	
-□	追问语气词	ã	24	
-平	～仄	pĩã	24	
-饼		pĩã	53	白读
-丙		pĩã	53	白读
-摒	～水：倒水	pĩã	11	
-名	～字	bĩã	24	白读
-命	好～	bĩã	11	白读
-□	因酒醉等原因走路摇晃的样子	tĩã	44	
-呈		tĩã	24	白读
-庭	场～：场院	tĩã	24	白读
-鼎	锅	tĩã	53	白读
-蝊		tĩã	31	
-定	～亲：订婚	tĩã	11	白读
-听		tʰĩã	44	白读
-厅		tʰĩã	44	白读
-痛		tʰĩã	11	白读
-岭		lĩã	53	白读
-领		lĩã	53	白读
-正	～月	t͡sĩã	44	白读
-精	～肉：瘦肉	t͡sĩã	44	白读
-情	亲～：亲戚	t͡sĩã	24	白读
-□	淡	t͡sĩã	53	
-正	～式	t͡sĩã	11	白读
-□	（搞）坏了	t͡sʰĩã	24	
-且		t͡sʰĩã	53	
-请		t͡sʰĩã	53	白读
-□	打擦声	t͡sʰĩã	31	
-声		sĩã	44	白读
-城		sĩã	24	白读
-□	以食物诱捕动物	sĩã	24	
-啥	什么	sĩã	53	白读
-圣	灵验	sĩã	11	白读
-□	旧时送礼用的盛具	sĩã	11	
-京		kĩã	44	白读
-惊		kĩã	44	白读
-件		kĩã	31	白读
-镜	目～：眼镜	kĩã	11	白读
-迎	～灯	ɡĩã	24	白读
-仰		ɡĩã	24	白读
-兄		hĩã	44	白读
-□	搂抱（东西）	hĩã	53	
-□	篮～：篮系几	hĩã	31	
-□	身体后仰，快跌倒的样子	hĩã	11	
-缨	红～	ĩã	44	白读
-□	水～：圆形的水波	ĩã	44	
-营		ĩã	24	白读
-赢		ĩã	24	白读
-影	电～，有～，无～	ĩã	53	白读
-搬		pũã	44	白读
-盘	～碗，～点	pũã	24	白读
-□	拂打	pũã	31	
-半		pũã	11	白读
-雇		pũã	11	白读
-潘	姓	pʰũã	44	白读
-般		pʰũã	44	白读
-□	溢	pʰũã	24	
-伴		pʰũã	31	白读
-叛		pʰũã	31	白读
-判		pʰũã	31	白读
-雇	又读	pʰũã	11	白读
-鳗		bũã	24	白读
-瞒		bũã	24	白读
-麻		bũã	24	白读
-满		bũã	53	白读
-□	向：～东，～西	bũã	11	
-单		tũã	44	白读
-弹	～棉花	tũã	24	白读
-坛		tũã	24	白读
-惮	懒	tũã	31	白读
-段		tũã	31	白读
-旦	花～	tũã	11	白读
-滩		tʰũã	44	白读
-摊		tʰũã	44	白读
-㔊	～草：锄草	tʰũã	53	
-炭		tʰũã	11	白读
-□	松，不紧	tʰũã	11	
-栏	～牛	lũã	24	白读
-□	～面：揉面	lũã	53	
-澜	唾液	lũã	31	
-□	鸡～：小母鸡	lũã	31	
-烂		lũã	11	白读
-煎	～药	t͡sũã	44	白读
-泉	～水	t͡sũã	24	白读
-盏		t͡sũã	53	白读
-溅		t͡sũã	31	白读
-串	门～：门闩	t͡sʰũã	11	白读
-山		sũã	44	白读
-汕	～头	sũã	44	白读
-散	～开，～裂	sũã	53	白读
-散	分～	sũã	11	白读
-线		sũã	11	白读
-伞		sũã	11	白读
-肝		kũã	44	白读
-官		kũã	44	白读
-棺		kũã	44	白读
-倌		kũã	44	白读
-干	鱼～	kũã	44	白读
-竿	竹～	kũã	44	白读
-寒	～天：冷天	kũã	24	白读
-赶		kũã	53	白读
-寡		kũã	53	
-□	～水：提水	kũã	31	
-汗		kũã	11	白读
-看	～牛：牧牛	kʰũã	11	白读
-欢		hũã	24	白读
-岸	塍～：田梗	hũã	11	白读
-焊		hũã	11	白读
-□	扶住东西，免其倾斜	hũã	11	
-鞍		ũã	44	白读
-碗		ũã	53	白读
-腕		ũã	53	白读
-旱		ũã	31	白读
-晏	迟，晚	ũã	11	白读
-换		ũã	11	白读
-毛		bɔ̃	24	
-麻		bɔ̃	24	
-磨	～刀	bɔ̃	24	
-摩		bɔ̃	24	
-魔		bɔ̃	24	
-冒		bɔ̃	11	
-磨	推～	bɔ̃	11	
-帽		bɔ̃	11	
-老		lɔ̃	53	
-佬		lɔ̃	53	
-考		kʰɔ̃	53	
-可		kʰɔ̃	53	
-俄		ɡɔ̃	24	
-娥		ɡɔ̃	24	
-蛾		ɡɔ̃	24	
-鹅		ɡɔ̃	24	
-熬		ɡɔ̃	24	
-鏊		ɡɔ̃	24	
-鳌		ɡɔ̃	24	
-我		ɡɔ̃	53	
-饿		ɡɔ̃	11	
-傲		ɡɔ̃	11	
-好	～坏	hɔ̃	53	
-火		hɔ̃	53	
-伙		hɔ̃	53	
-好	～客	hɔ̃	11	
-货		hɔ̃	11	
-□	哄小孩睡的声音	ɔ̃	44	
-□	语气词，表示遗憾不满情绪	ɔ̃	24	
-冇	内虚，不结实；形容花钱无计划	pʰə̃	11	
-担	～担，扁～	tə̃	44	白读
-胆		tə̃	53	白读
-担	担～	tə̃	11	白读
-□	差错	tə̃	11	
-林	树～	lə̃	24	白读
-篮		lə̃	24	白读
-挪		lə̃	24	
-那		lə̃	53	
-哪		lə̃	53	
-娜		lə̃	53	
-□	凹	lə̃	53	
-若	如果	lə̃	11	白读
-□	轻跳	t͡sə̃	24	
-三		sə̃	44	白读
-相	～同	sə̃	44	白读
-衫	衣裳	sə̃	44	白读
-监	～牢	kə̃	44	白读
-柑		kə̃	44	白读
-□	现在	kə̃	24	
-敢		kə̃	53	白读
-仔	椅～：椅子	kə̃	53	
-□	打锣声	pãĩ	31	
-糜	饭	bãĩ	44	
-买		bãĩ	53	
-卖		bãĩ	11	
-迈		bãĩ	11	
-□	敲小锣的声音	tãĩ	44	
-店		tãĩ	11	
-□	坚硬	tãĩ	11	
-奶		lãĩ	44	
-□	扭动身体去痒	lãĩ	44	
-乃		lãĩ	53	
-耐		lãĩ	11	
-奈		lãĩ	11	
-荔	～枝	lãĩ	11	
-赖		lãĩ	11	
-癞		lãĩ	11	
-□	那样	hãĩ	53	
-闲		ãĩ	24	白读
-□	这样	ãĩ	53	
-矛		bə̃ũ	24	
-茅		bə̃ũ	24	
-蟊		bə̃ũ	24	
-□	不聪明能干；坏	bə̃ũ	53	
-貌		bə̃ũ	11	
-脑		lə̃ũ	53	
-张		tĩũ	44	白读
-场		tĩũ	24	白读
-长	县～	tĩũ	53	白读
-丈	姑～	tĩũ	31	白读
-帐	蠓～：蚊帐	tĩũ	31	白读
-胀		tĩũ	11	白读
-□	椅仔～：小椅子	lĩũ	44	
-娘		lĩũ	24	白读
-粮		lĩũ	24	白读
-量	～米	lĩũ	24	白读
-梁		lĩũ	24	白读
-两	斤～	lĩũ	53	白读
-让		lĩũ	11	白读
-章	文～	t͡sĩũ	44	白读
-浆	豆～	t͡sĩũ	44	白读
-樟		t͡sĩũ	44	白读
-蒋		t͡sĩũ	53	白读
-桨		t͡sĩũ	53	白读
-痒		t͡sĩũ	31	白读
-上	～山	t͡sĩũ	31	白读
-□	怎么，怎样	t͡sĩũ	31	
-酱		t͡sĩũ	11	白读
-浆		t͡sĩũ	11	白读
-枪		t͡sʰĩũ	44	白读
-墙		t͡sʰĩũ	24	白读
-厂		t͡sʰĩũ	53	白读
-抢		t͡sʰĩũ	53	白读
-象		t͡sʰĩũ	31	白读
-像	亲～：相像	t͡sʰĩũ	31	白读
-上	～梁	t͡sʰĩũ	31	白读
-唱		t͡sʰĩũ	11	白读
-箱		sĩũ	44	白读
-□	形容做事缓慢，不干脆利索	sĩũ	24	
-赏		sĩũ	53	白读
-鲞		sĩũ	53	
-想		sĩũ	31	白读
-相	生～：生肖	sĩũ	11	白读
-姜	生～	kĩũ	44	白读
-□	违拗，不听话	kĩũ	31	
-腔	～调	kʰĩũ	44	白读
-香	烧～	hĩũ	44	白读
-乡		hĩũ	44	白读
-向	西～：西面	hĩũ	11	白读
-羊		ĩũ	24	白读
-洋		ĩũ	24	白读
-杨		ĩũ	24	白读
-烊	冰～：化冰	ĩũ	24	白读
-养		ĩũ	53	白读
-□	～水：舀水	ĩũ	53	
-样		ĩũ	11	白读
-猫		zĩãũ	44	白读
-摇	轻轻地动；干轻活	zĩãũ	24	白读
-鸟		zĩãũ	53	
-□	粗糙，不光滑	zĩãũ	11	
-梅	树～：杨梅	m̩	24	白读
-姆	伯母	m̩	53	
-䘼	又读，手～	m̩	53	白读
-吥	不	m̩	31	
-枫	～树	pŋ̍	44	白读
-本	～钱	pŋ̍	53	白读
-□	雨～：毛毛细雨	bŋ̍	44	
-门		bŋ̍	24	白读
-毛		bŋ̍	24	白读
-问		bŋ̍	11	白读
-当	～兵	tŋ̍	44	白读
-堂		tŋ̍	24	白读
-肠		tŋ̍	24	白读
-长	～期	tŋ̍	24	白读
-转	返回	tŋ̍	53	白读
-涨	潮水～	tŋ̍	53	白读
-丈	一～	tŋ̍	31	白读
-断		tŋ̍	31	白读
-当	～店：当铺	tŋ̍	11	白读
-汤		tʰŋ̍	44	白读
-糖		tʰŋ̍	24	白读
-脱	～衫，～裤	tʰŋ̍	11	白读
-烫		tʰŋ̍	11	白读
-软		lŋ̍	53	白读
-两	～分	lŋ̍	31	白读
-卵	鸡～：鸡蛋	lŋ̍	31	白读
-□	钻	lŋ̍	11	
-装		t͡sŋ̍	44	白读
-妆		t͡sŋ̍	44	白读
-庄		t͡sŋ̍	44	白读
-砖		t͡sŋ̍	44	白读
-□	苍蝇～物	t͡sŋ̍	24	
-□	齐～：齐全	t͡sŋ̍	24	
-指	～甲	t͡sŋ̍	53	白读
-钻	～仔：锥子	t͡sŋ̍	11	白读
-仓		t͡sʰŋ̍	44	白读
-疮		t͡sʰŋ̍	44	白读
-舱		t͡sʰŋ̍	44	白读
-穿	～针	t͡sʰŋ̍	44	白读
-床		t͡sʰŋ̍	24	白读
-串		t͡sʰŋ̍	11	白读
-□	阴凉药物刺激皮肤的感觉	t͡sʰŋ̍	11	
-霜		sŋ̍	44	白读
-酸		sŋ̍	44	白读
-损		sŋ̍	53	白读
-算	～数：算帐	sŋ̍	11	白读
-光		kŋ̍	44	白读
-扛		kŋ̍	44	
-缸		kŋ̍	44	白读
-杠	桥～	kŋ̍	24	白读
-广		kŋ̍	53	白读
-卷	～席	kŋ̍	53	白读
-钢		kŋ̍	11	白读
-卷	考～	kŋ̍	11	白读
-糠		kʰŋ̍	44	白读
-劝		kʰŋ̍	11	白读
-囥	藏	kʰŋ̍	11	
-荒		hŋ̍	44	白读
-方		hŋ̍	44	白读
-昏	冥～：晚上	hŋ̍	44	白读
-园		hŋ̍	24	白读
-哼	表示蔑视或不满意	hŋ̍	53	
-远		hŋ̍	31	白读
-秧		ŋ̍	44	白读
-□	哄婴儿大便声	ŋ̍	44	
-黄		ŋ̍	24	白读
-□	应答声	ŋ̍	24	
-䘼	手～：袖子	ŋ̍	53	白读
-□	表示赞同声	ŋ̍	31	
+汉字	声、韵	调	是否白读	注释
+卑	pi	44		
+碑	pi	44		
+婢	pi	44		
+□	pi	44		一种吸牛血的蝇虫
+啤	pi	24		
+脾	pi	24		
+比	pi	53		
+妣	pi	53		
+彼	pi	53		
+俾	pi	53		
+秘	pi	53		
+匕	pi	53		
+鳖	pi	53	白读	
+□	pi	53		枪毙
+备	pi	11		
+闭	pi	11		
+痹	pi	11		
+疪	pi	11		
+篦	pi	11		～麻
+避	pi	11		
+批	pʰi	44		
+砒	pʰi	44		
+丕	pʰi	44		
+坯	pʰi	44		
+披	pʰi	44		
+□	pʰi	44		以刀捎物
+皮	pʰi	24		
+疲	pʰi	24		
+脾	pʰi	24		又读
+鄙	pʰi	53		
+痞	pʰi	53		
+譬	pʰi	53		
+□	pʰi	53		结～：伤口钙化
+被	pʰi	31		棉～
+被	pʰi	11		～动
+鼻	pʰi	11	白读	
+咪	bi	44		笑～～
+□	bi	44		呼小鸭声
+微	bi	24		
+篾	bi	24	白读	做～
+米	bi	53		
+美	bi	53		
+未	bi	11		
+味	bi	11		
+□	bi	11		将头没入水中
+知	ti	44		
+蜘	ti	44		
+池	ti	24		
+驰	ti	24		
+迟	ti	24		
+弛	ti	24		
+墀	ti	24		
+碟	ti	24	白读	
+底	ti	53		
+抵	ti	53		
+滴	ti	53	白读	～水
+弟	ti	31	白读	小～
+治	ti	31		
+置	ti	31		
+智	ti	31		
+致	ti	31		
+稚	ti	31		
+蒂	ti	11		
+戴	ti	11	白读	～帽
+梯	tʰi	44		～队
+啼	tʰi	24		
+雉	tʰi	24		
+耻	tʰi	53		
+剃	tʰi	53		
+铁	tʰi	53	白读	拍～：打铁
+替	tʰi	11		
+涕	tʰi	11		
+递	tʰi	11		
+离	li	24		
+篱	li	24		
+漓	li	24		
+璃	li	24		
+厘	li	24		
+狸	li	24		
+笠	li	24	白读	～斗
+裂	li	24	白读	～裂开
+犁	li	24		
+梨	li	24		
+里	li	53		
+俚	li	53		
+浬	li	53		
+娌	li	53		
+理	li	53		
+鲤	li	53		
+李	li	53		
+利	li	11		
+痢	li	11		
+莉	li	11		
+俐	li	11		
+吏	li	11		
+之	t͡si	44		
+芝	t͡si	44		
+脂	t͡si	44		～肪
+舌	t͡si	24	白读	喙～
+□	t͡si	24		折断
+止	t͡si	53		
+址	t͡si	53		
+旬	t͡si	53		
+指	t͡si	53	白读	
+子	t͡si	53	白读	
+籽	t͡si	53		
+姐	t͡si	53		
+接	t͡si	53	白读	～侬客：迎接客人
+舐	t͡si	31	白读	
+志	t͡si	11		
+痣	t͡si	11		
+至	t͡si	11		
+鳍	t͡sʰi	44		
+□	t͡sʰi	44		食品下热锅声
+持	t͡sʰi	24		
+翅	t͡sʰi	24		
+□	t͡sʰi	53		低头
+□	t͡sʰi	53		闪～：闪电
+齿	t͡sʰi	53		
+市	t͡sʰi	31		
+刺	t͡sʰi	11		
+饲	t͡sʰi	11		～猪：喂猪，养猪
+尸	si	44		
+诗	si	44		
+丝	si	44		
+鸶	si	44		
+私	si	44	白读	家～：家产
+撕	si	44	白读	～布
+蛳	si	44	白读	螺～
+施	si	44		～舍
+时	si	24		
+鲥	si	24		
+匙	si	24		
+蚀	si	24	白读	～本
+辞	si	24		
+死	si	53	白读	
+始	si	53	白读	
+是	si	31		
+氏	si	31		
+恃	si	31		
+痔	si	31		
+峙	si	31		
+寺	si	11		
+侍	si	11		
+示	si	11		
+驷	si	11		
+肆	si	11		
+四	si	11		
+豉	si	11		豆～
+□	zi	24		按
+儿	zi	24		～子
+而	zi	24		～且
+字	zi	11		
+二	zi	11		
+贰	zi	11		
+腻	zi	11		细～：省，节约
+饵	zi	11		鱼～
+几	ki	44		
+饥	ki	44		
+机	ki	44		
+肌	ki	44		
+矶	ki	44		
+叽	ki	44		
+支	ki	44		
+枝	ki	44		
+肢	ki	44		
+吱	ki	44		
+基	ki	44		
+箕	ki	44		
+姬	ki	44		
+既	ki	44		
+奇	ki	24		
+骑	ki	24		
+其	ki	24		
+期	ki	24		
+棋	ki	24		
+旗	ki	24		
+琪	ki	24		
+祈	ki	24		
+祁	ki	24		
+歧	ki	24		
+鳍	ki	24		
+几	ki	53		～个
+己	ki	53		
+杞	ki	53		
+纪	ki	53		
+技	ki	31		
+伎	ki	31		
+妓	ki	31		
+记	ki	11		
+忌	ki	11		
+欺	kʰi	44		
+蜞	kʰi	24		岳～：蚂蟥
+岂	kʰi	53		
+起	kʰi	53		
+齿	kʰi	53	白读	牙～
+柿	kʰi	31		
+企	kʰi	31		
+气	kʰi	11		
+汽	kʰi	11		
+弃	kʰi	11		
+器	kʰi	11		
+宜	ɡi	24		
+谊	ɡi	24		
+仪	ɡi	24		
+疑	ɡi	24		
+议	ɡi	53		
+蚁	ɡi	53		
+拟	ɡi	53		
+□	ɡi	53		指
+义	ɡi	11		
+希	hi	44		
+稀	hi	44		
+牺	hi	44		
+熙	hi	44		
+熹	hi	44		
+禧	hi	44		
+嬉	hi	44		
+喜	hi	53		
+耳	hi	31	白读	～空：耳朵
+戏	hi	11		
+衣	i	44		
+依	i	44		
+伊	i	44		
+医	i	44		
+夷	i	24		
+姨	i	24		
+胰	i	24		
+怡	i	24		
+贻	i	24		
+饴	i	24		
+唯	i	24		
+维	i	24		
+惟	i	24		
+潍	i	24		
+彝	i	24		
+颐	i	24		
+移	i	24		
+已	i	53		
+以	i	53		
+椅	i	53		
+倚	i	53		
+矣	i	31		
+□	i	31		阿～：祖父
+亿	i	11		
+乜	i	11		
+肄	i	11		～业
+意	i	11		
+臆	i	11		～造
+易	i	11		容～
+异	i	11		～己
+□	pu	44		亲小儿
+□	pu	24		把食物直接放在火堆中烧熟
+瓠	pu	24		葫芦
+妇	pu	31	白读	新～：新娘；媳妇
+孵	pu	11		
+浮	pʰu	24	白读	
+芙	pʰu	24		～蓉
+葡	pʰu	24		～萄
+□	pʰu	53		生～：食物放久后生长毛
+普	pʰu	53	白读	天～～光：天蒙蒙亮
+无	bu	24		
+芜	bu	24		
+武	bu	53		
+鹉	bu	53		
+侮	bu	53	白读	
+母	bu	53		
+怃	bu	53		
+抚	bu	53		
+妩	bu	53		
+□	bu	31		从口腔里吐出来
+务	bu	11		
+雾	bu	11		
+鹜	bu	11		
+巫	bu	11		
+诬	bu	11		
+蛛	tu	44		蜘～
+厨	tu	24		
+橱	tu	24		
+抵	tu	53	白读	顶住
+□	tu	53		～～：正好
+□	tu	53		找钱
+□	tu	31		沾水
+注	tu	11	白读	落～：下赌注
+堵	tu	11		
+拖	tʰu	44		～地板
+□	tʰu	53		搠
+朱	t͡su	44		
+珠	t͡su	44		
+株	t͡su	44		
+侏	t͡su	44		
+诛	t͡su	44		
+主	t͡su	53		
+柱	t͡su	31		
+住	t͡su	31		
+炷	t͡su	31		
+驻	t͡su	31		
+聚	t͡su	31		
+注	t͡su	11		
+蛀	t͡su	11		～虫
+铸	t͡su	11		
+趋	t͡sʰu	44		
+雏	t͡sʰu	44		
+取	t͡sʰu	53		
+娶	t͡sʰu	53		
+趣	t͡sʰu	11		
+厝	t͡sʰu	11		房子
+输	su	44		
+须	su	44		
+需	su	44		
+舒	su	44		
+殊	su	24		
+玺	su	53		
+徙	su	53		
+嗽	su	53	白读	吮吸
+暑	su	11		
+曙	su	11		
+树	su	11		
+竖	su	11		
+𥚢	su	11		又读
+儒	zu	24		
+孺	zu	24		
+蠕	zu	24		
+俞	zu	24		
+瑜	zu	24		
+榆	zu	24		
+愉	zu	24		
+逾	zu	24		
+愈	zu	53		
+乳	zu	53		
+裕	zu	11		
+喻	zu	11		
+拘	ku	44		
+驹	ku	44		
+□	ku	44		蹲
+□	ku	44		金～：虫名
+□	ku	44		hau44～：驼背
+居	ku	44	白读	在
+久	ku	53	白读	
+舅	ku	31	白读	
+具	ku	11		
+惧	ku	11		
+旧	ku	11	白读	
+句	ku	11		
+瞿	ku	11		
+区	kʰu	44		
+岖	kʰu	44		
+躯	kʰu	44		
+驱	kʰu	44		
+丘	kʰu	44	白读	
+臼	kʰu	31		
+愚	ɡu	24		
+诬	ɡu	24		
+牛	ɡu	24	白读	
+寓	ɡu	11		
+愚	ɡu	11		
+遇	ɡu	11		
+夫	hu	44		
+肤	hu	44		
+麸	hu	44		
+孚	hu	44		
+俘	hu	44		
+蜉	hu	44		
+灰	hu	44	白读	火～：灰烬
+敷	hu	44		
+扶	hu	24		
+芙	hu	24		
+符	hu	24		
+斧	hu	53		～正
+府	hu	53		
+俯	hu	53		
+腑	hu	53		
+甫	hu	53		
+父	hu	31		
+妇	hu	31		
+付	hu	11		
+咐	hu	11		
+附	hu	11		
+驸	hu	11		
+赴	hu	11		
+讣	hu	11		
+傅	hu	11		
+富	hu	11		
+副	hu	11		
+赋	hu	11		
+辅	hu	11		
+腐	hu	11		
+负	hu	11		
+污	u	44		
+宇	u	44		
+雨	u	53		
+禹	u	53		
+羽	u	53		
+有	u	31		
+□	u	11		以香烫物
+□	pe	44		往嘴里扒饭
+爬	pe	24	白读	
+杷	pe	24	白读	
+耙	pe	24	白读	
+扒	pe	24	白读	
+白	pe	24	白读	
+把	pe	53	白读	火～
+伯	pe	53	白读	
+柏	pe	53	白读	
+剥	pe	53	白读	
+爸	pe	31	白读	客～：岳父
+币	pe	11		
+毙	pe	11		
+弊	pe	11		
+蔽	pe	11		
+□	pʰe	11		量词，东西盛满一围裙
+咩	be	44		羊叫声
+迷	be	24		
+脉	be	24	白读	
+麦	be	24	白读	
+马	be	53		
+码	be	53		
+茶	te	24		
+□	te	53		压，回赠
+弟	te	31		
+第	te	31		
+帝	te	11		
+地	te	11		
+撑	tʰe	44	白读	～雨伞
+□	tʰe	44		半躺
+提	tʰe	24		
+堤	tʰe	24		
+宅	tʰe	24		
+体	tʰe	53		
+□	tʰe	31		海～
+黎	le	24		
+丽	le	24		高～
+礼	le	53		
+丽	le	11		美～
+渣	t͡se	44	白读	
+齐	t͡se	24		
+脐	t͡se	24		～带
+仄	t͡se	53		平～
+叔	t͡se	53	白读	三～，四～
+祭	t͡se	11		
+际	t͡se	11		
+济	t͡se	11		
+制	t͡se	11		
+寨	t͡se	11	白读	
+妻	t͡sʰe	44		
+凄	t͡sʰe	44		
+栖	t͡sʰe	44		
+叉	t͡sʰe	44	白读	
+杈	t͡sʰe	44	白读	
+镲	t͡sʰe	24		钹，声音沙哑
+册	t͡sʰe	53		
+西	se	44		
+纱	se	44	白读	
+痧	se	44	白读	着～：中暑
+旋	se	24	白读	唾～：围嘴
+□	se	53		木质条状框，上可放物
+世	se	11		
+泄	se	11		
+势	se	11		
+细	se	11		
+逝	se	11		
+多	ke	44	白读	
+家	ke	44	白读	
+街	ke	44		
+鸡	ke	44		
+圭	ke	44		
+枷	ke	24		
+格	ke	53	白读	
+假	ke	53	白读	
+计	ke	11		
+继	ke	11		
+嫁	ke	11	白读	
+价	ke	11	白读	
+架	ke	11	白读	
+溪	kʰe	44	白读	
+启	kʰe	53		
+客	kʰe	53	白读	
+契	kʰe	11		
+牙	ɡe	24	白读	
+芽	ɡe	24	白读	
+衙	ɡe	24	白读	
+个	ɡe	24	白读	
+艺	ɡe	31		
+毅	ɡe	31		
+□	he	44		～ku44:哮喘
+虾	he	24	白读	
+霞	he	24	白读	
+暇	he	31	白读	放～：放学
+夏	he	11	白读	
+系	he	11		
+哑	e	44	白读	～九：哑巴
+□	e	24		惊奇声
+下	e	31	白读	
+会	e	31	白读	
+厦	e	11		～门
+白	pie	24		
+帛	pie	24		
+别	pie	24		辞～
+弼	pie	24		
+必	pie	53		
+毕	pie	53		
+笔	pie	53		
+伯	pie	53		
+百	pie	53		
+迫	pie	53		
+柏	pie	53		
+逼	pie	53		
+鳖	pie	53		
+匹	pʰie	53		
+撇	pʰie	53		～开
+碧	pʰie	53		
+魄	pʰie	53		
+瞥	pʰie	53		
+僻	pʰie	53		
+劈	pʰie	53		
+霹	pʰie	53		～雳
+密	bie	24		
+蜜	bie	24		
+灭	bie	24		
+蔑	bie	24		
+墨	bie	24		
+默	bie	24		
+藐	bie	24		
+脉	bie	24		
+麦	bie	24		
+蝶	tie	24		
+谍	tie	24		
+牒	tie	24		
+叠	tie	24		
+直	tie	24		
+值	tie	24		
+植	tie	24		
+殖	tie	24		
+侄	tie	24		
+笛	tie	24		
+秩	tie	24		
+狄	tie	24		姓
+泽	tie	24		
+择	tie	24		
+特	tie	24		
+蛰	tie	24		
+的	tie	53		
+得	tie	53		
+竹	tie	53		
+德	tie	53		
+摘	tie	53		
+嫡	tie	53		～系
+滴	tie	53		
+帖	tʰie	53		
+贴	tʰie	53		
+铁	tʰie	53		
+惕	tʰie	53		
+剔	tʰie	53		
+彻	tʰie	53		
+沏	tʰie	53		
+撤	tʰie	53		
+□	tʰie	53	白读	～桃：玩耍，游玩
+列	lie	24		
+烈	lie	24		
+裂	lie	24		
+力	lie	24		
+历	lie	24		
+立	lie	24		
+笠	lie	24		
+粒	lie	24		
+猎	lie	24		
+绿	lie	24	白读	
+聂	lie	53		
+摄	lie	53		
+慑	lie	53		
+粟	lie	53		战～
+涅	lie	53		
+捏	lie	53		～造
+掠	lie	53		～夺
+集	t͡sie	24		
+疾	t͡sie	24		
+寂	t͡sie	24		
+籍	t͡sie	24		户～
+捷	t͡sie	24		
+截	t͡sie	24		
+一	t͡sie	24	白读	～尾鱼
+执	t͡sie	53		
+折	t͡sie	53		
+浙	t͡sie	53		
+接	t͡sie	53		
+质	t͡sie	53		
+织	t͡sie	53		
+职	t͡sie	53		
+积	t͡sie	53		
+责	t͡sie	53		
+绩	t͡sie	53		
+脊	t͡sie	53		～椎
+烛	t͡sie	53	白读	
+则	t͡sie	53		
+迹	t͡sie	53		
+即	t͡sie	53		
+鲫	t͡sie	53		
+节	t͡sie	53		
+哲	t͡sie	53		
+缉	t͡sʰie	53		
+辑	t͡sʰie	53		
+楫	t͡sʰie	53		
+测	t͡sʰie	53		
+侧	t͡sʰie	53		
+妾	t͡sʰie	53		
+窃	t͡sʰie	53		
+切	t͡sʰie	53		
+七	t͡sʰie	53		
+戚	t͡sʰie	53		
+赤	t͡sʰie	53		
+擦	t͡sʰie	53	白读	～桌布
+策	t͡sʰie	53		
+粟	t͡sʰie	53	白读	稻子
+十	sie	24		
+习	sie	24		
+拾	sie	24		
+涉	sie	24		
+石	sie	24		
+舌	sie	24		
+席	sie	24		主～
+食	sie	24		伙～
+袭	sie	24		
+蚀	sie	24		日～
+熟	sie	24	白读	
+实	sie	24		
+湿	sie	53		
+涩	sie	53		
+失	sie	53		
+息	sie	53		做～：干活
+媳	sie	53		
+熄	sie	53		
+昔	sie	53		
+惜	sie	53		
+设	sie	53		
+室	sie	53		
+色	sie	53		
+识	sie	53		
+式	sie	53		
+饰	sie	53		
+适	sie	53		
+释	sie	53		
+析	sie	53		
+锡	sie	53		
+悉	sie	53		
+入	zie	24		
+日	zie	24		
+热	zie	24	白读	
+□	zie	53		追赶
+及	kie	24		
+杰	kie	24		
+极	kie	24		
+剧	kie	24		
+桀	kie	24		
+吉	kie	53		
+洁	kie	53		
+橘	kie	53		
+急	kie	53		
+给	kie	53		供～
+劫	kie	53		
+夹	kie	53		
+峡	kie	53		
+揭	kie	53		
+击	kie	53		
+激	kie	53		
+革	kie	53		
+格	kie	53		及～
+克	kʰie	53		
+刻	kʰie	53		
+笈	kʰie	53		皮～：皮箱
+乞	kʰie	53		
+吸	kʰie	53		
+挈	kʰie	53		～起：提起
+业	ɡie	24		
+孽	ɡie	24		
+玉	ɡie	24	白读	
+虐	ɡie	24		
+疟	ɡie	24		
+叶	hie	24		
+胁	hie	24		
+协	hie	24		
+侠	hie	24		武～
+狭	hie	24		
+挟	hie	24		
+或	hie	24		
+惑	hie	24		
+域	hie	24		
+获	hie	24		
+穴	hie	24		
+肉	hie	24	白读	
+□	hie	53		焖
+血	hie	53		
+黑	hie	53		
+吓	hie	53		
+翼	ie	24		
+液	ie	24		
+腋	ie	24		
+役	ie	24		
+疫	ie	24		
+逸	ie	24		
+悦	ie	24		
+易	ie	24		交～
+一	ie	53		～二三
+乙	ie	53		
+忆	ie	53		
+益	ie	53		
+溢	ie	53		
+楫	ie	53		
+邑	ie	53		
+挹	ie	53		
+抑	ie	53		
+谒	ie	53		
+阅	ie	53		
+臆	ie	53		又读，～造
+杯	pue	44		
+碑	pue	44	白读	
+培	pue	24		
+赔	pue	24		
+陪	pue	24		
+拔	pue	24	白读	
+八	pue	53	白读	
+倍	pue	31		
+贝	pue	11		
+背	pue	11		～叛
+狈	pue	11		狼～
+佩	pue	11		～服
+辈	pue	11		
+批	pʰue	44		
+配	pʰue	11		
+稗	pʰue	11		
+买	bue	53	白读	
+𫧃	bue	31		“不会”的合音
+卖	bue	11	白读	
+蹄	tue	24		
+题	tue	24		
+底	tue	53	白读	
+□	tue	53		盛东西
+□	tue	31		宁麻
+地	tue	11	白读	
+□	tʰue	24	白读	拿
+垫	tʰue	53	白读	
+退	tʰue	11		
+替	tʰue	11	白读	
+犁	lue	24	白读	
+□	lue	53		多事
+内	lue	31		
+螺	lue	11	白读	锯～：锉刀
+泪	lue	11		
+齐	t͡sue	24		
+□	t͡sue	24		切
+节	t͡sue	53	白读	五月～：端午节
+罪	t͡sue	31		
+□	t͡sue	31		真～：真多
+做	t͡sue	11		
+最	t͡sue	11		
+初	t͡sʰue	44	白读	～一十五
+衰	sue	44		
+疏	sue	44	白读	
+梳	sue	44	白读	～头
+洗	sue	53		
+税	sue	11		
+岁	sue	11		
+细	sue	11	白读	～枝：细的枝条
+锐	zue	11		
+鸡	kue	44	白读	
+街	kue	44	白读	
+瓜	kue	44	白读	
+夹	kue	24	白读	
+改	kue	53	白读	
+会	kue	11		～计
+绘	kue	11		
+疥	kue	11		
+溪	kʰue	44		
+盔	kʰue	44		
+恢	kʰue	44		
+奎	kʰue	44		
+魁	kʰue	44		
+嗑	kʰue	53		～瓜子
+契	kʰue	11		
+□	kʰue	11		啃
+挟	ɡue	53		
+外	ɡue	11		
+艺	ɡue	11	白读	
+花	hue	44	白读	
+回	hue	24		
+茴	hue	24		
+悔	hue	53		
+蟹	hue	31		
+汇	hue	11		
+会	hue	11		开～
+挨	ue	44	白读	～面：磨面
+鞋	ue	24	白读	
+划	ue	24		计～
+狭	ue	24	白读	窄
+矮	ue	53	白读	
+会	ue	31		～显～：很能干
+卫	ue	31		保～
+话	ue	11	白读	
+画	ue	11		
+巴	pa	44		
+芭	pa	44		
+笆	pa	44		
+疤	pa	44		
+靶	pa	44		
+爸	pa	24		
+耙	pa	24		
+杷	pa	24		
+琶	pa	24		
+扒	pa	24		
+爬	pa	24		
+卜	pa	24		萝～
+把	pa	53		～握
+饱	pa	53	白读	
+百	pa	53		
+罢	pa	31		
+吧	pa	31		
+霸	pa	11		
+坝	pa	11		
+豹	pa	11		
+脬	pʰa	44		猪尿～：猪膀胱
+□	pʰa	44		量词，一～火，一～粽
+拍	pʰa	53		
+泡	pʰa	31	白读	
+怕	pʰa	11		
+□	ba	24		一种形似大猫的动物
+□	ba	53		～椎：一种鱼名
+密	ba	31	白读	接缝严密
+干	ta	44	白读	干燥
+大	ta	44	白读	～家：婆婆
+□	ta	44		～某：男性
+踏	ta	24		
+打	ta	53		
+搭	ta	53		
+他	tʰa	44		
+她	tʰa	44		
+它	tʰa	44		
+叠	tʰa	24	白读	一～书
+塔	tʰa	53		
+□	tʰa	11		拨开废物堆，找出有用东西
+拉	la	44		
+喇	la	24		
+瘌	la	24		
+蜡	la	24		
+腊	la	24		
+萝	la	24	白读	～卜
+□	la	31		搅
+查	t͡sa	44		调～
+渣	t͡sa	44		
+闸	t͡sa	24		
+铡	t͡sa	24		
+早	t͡sa	53	白读	
+□	t͡sa	53		～某：妇女
+炸	t͡sa	11		
+诈	t͡sa	11		
+昨	t͡sa	11		
+榨	t͡sa	11		
+债	t͡sa	11		
+差	t͡sʰa	44		相～，～遣
+叉	t͡sʰa	44		
+杈	t͡sʰa	44		
+钗	t͡sʰa	44		
+岔	t͡sʰa	44		三～路口
+撑	t͡sʰa	44		
+查	t͡sʰa	24		～字典
+柴	t͡sʰa	24	白读	
+吵	t͡sʰa	53	白读	
+炒	t͡sʰa	53	白读	～米
+插	t͡sʰa	53		
+沙	sa	44		
+砂	sa	44		
+纱	sa	44		
+裟	sa	44		
+鲨	sa	44		
+□	sa	24		～鸡卵：煮鸡蛋
+洒	sa	53		
+耍	sa	53		
+家	ka	44		
+加	ka	44		
+袈	ka	44		
+笳	ka	44		
+枷	ka	44		
+佳	ka	44		
+嘉	ka	44		
+胶	ka	44	白读	
+铰	ka	44		～剪：剪刀
+□	ka	44		～儡：傀儡
+□	ka	44		～蚤：跳蚤
+茄	ka	24		
+甲	ka	53		
+胛	ka	53		
+贾	ka	53		
+假	ka	53		
+绞	ka	53		
+咬	ka	31	白读	
+架	ka	11		
+驾	ka	11		
+嫁	ka	11		
+稼	ka	11		
+价	ka	11		
+教	ka	11	白读	
+骹	kʰa	44		脚
+尻	kʰa	44		～川：屁股
+揩	kʰa	44		～油
+巧	kʰa	53		
+卡	kʰa	53		
+敲	kʰa	11	白读	
+牙	ɡa	24		
+芽	ɡa	24		
+蚜	ɡa	24		
+讶	ɡa	24		
+崖	ɡa	24		
+涯	ɡa	24		
+衙	ɡa	24		
+哈	ha	44		
+霞	ha	24		
+瑕	ha	24		
+暇	ha	24		
+吓	ha	24		
+下	ha	31		
+夏	ha	11		
+厦	ha	11		
+亚	a	44		
+阿	a	44		
+鸦	a	44		
+盒	a	24		
+匣	a	24		
+啊	a	24		惊叹声
+鸭	a	53		
+押	a	53		
+压	a	53	白读	
+呀	a	31		
+啊	a	31		
+壁	pia	53	白读	隔～
+□	pia	31		枪声
+僻	pʰia	53	白读	偏～
+□	pʰia	31		放炮声，枪声
+爹	tia	44		
+拆	tʰia	53	白读	
+掠	lia	24	白读	～鸡：抓鸡
+食	t͡sia	24	白读	吃
+者	t͡sia	53		
+只	t͡sia	53		一～牛
+脊	t͡sia	53	白读	腹～：后背
+蔗	t͡sia	11		甘～
+车	t͡sʰia	44	白读	
+□	t͡sʰia	44		相～：摔跤
+奢	t͡sʰia	44		
+斜	t͡sʰia	24	白读	
+赤	t͡sʰia	53		
+□	t͡sʰia	53		织
+□	t͡sʰia	53		插入物中捞取
+赊	sia	44		
+斜	sia	24		
+蛇	sia	24		
+邪	sia	24		
+勺	sia	24		铜～
+写	sia	53		
+舍	sia	53		
+削	sia	53	白读	
+锡	sia	53	白读	
+射	sia	11		
+谢	sia	11		
+麝	sia	11		
+泻	sia	11		
+赦	sia	11		
+卸	sia	11		
+社	sia	11		
+畲	sia	11		
+遮	zia	44		
+□	zia	53		痕迹
+□	kia	24		～柴：扛木头
+屐	kia	24		柴～：木～
+寄	kia	11	白读	
+奇	kʰia	44	白读	单数
+伽	kʰia	44		释～牟尼
+骑	kʰia	24	白读	～马
+隙	kʰia	53	白读	
+企	kʰia	31		
+鹅	ɡia	24	白读	
+额	ɡia	24	白读	
+□	ɡia	53		用细棍从洞里把东西取出来
+靴	hia	44		
+□	hia	44		带长柄的捞鱼小网
+瓦	hia	31	白读	
+□	hia	31		蚂蚁
+□	ia	44		英～：灰尘
+爷	ia	24		
+耶	ia	24		
+页	ia	24		
+额	ia	24	白读	头～：额头
+蛾	ia	24	白读	～婆：蝴蝶
+野	ia	53		
+冶	ia	53		
+椰	ia	53		
+□	ia	31		撒
+夜	ia	11		
+□	ia	11		腻味
+也	ia	11		
+□	pua	24		～搅：赌博
+钵	pua	53	白读	
+拨	pua	53	白读	
+簸	pua	11	白读	
+泼	pʰua	53	白读	～水
+破	pʰua	11	白读	
+磨	bua	24	白读	～刀
+□	bua	24		～你：麻烦你（感谢语）
+末	bua	24	白读	药～
+抹	bua	53	白读	妄～：乱抹
+大	tua	31	白读	～显～：很大
+舵	tua	31	白读	
+带	tua	11	白读	鞋～
+拖	tʰua	44	白读	鞋～：拖鞋
+獭	tʰua	53		水～
+屉	tʰua	53	白读	抽屉
+涮	tʰua	31	白读	～衫
+箩	lua	24	白读	
+辣	lua	24		
+捋	lua	24		
+赖	lua	11	白读	～侬：赖人
+抓	t͡sua	44		
+蛇	t͡sua	24	白读	
+纸	t͡sua	53	白读	
+□	t͡sʰua	24		斜
+□	t͡sʰua	53		撕
+娶	t͡sʰua	11	白读	～亲：娶媳妇
+□	t͡sʰua	11		～尿：尿炕
+蔡	t͡sʰua	11		
+沙	sua	44	白读	
+砂	sua	44	白读	
+鲨	sua	44	白读	
+傻	sua	44		
+煞	sua	53	白读	～尾：末了
+□	sua	53		全～：全完蛋
+□	sua	53		撒
+□	sua	11		帮腔
+热	zua	24	白读	
+□	zua	24		多少，～个：多少个；～好：多么好！
+□	zua	31		趟，回
+瓜	kua	44		
+歌	kua	44	白读	
+寡	kua	53	白读	守～
+割	kua	53	白读	～草
+挂	kua	11		
+卦	kua	11		
+盖	kua	11	白读	名词
+过	kua	11	白读	罪～：可伶
+夸	kʰua	44		
+垮	kʰua	44		
+跨	kʰua	44		
+阔	kʰua	53		
+我	ɡua	53	白读	
+外	ɡua	11	白读	
+花	hua	44		
+华	hua	24		
+桦	hua	24		
+铧	hua	24		
+喊	hua	53	白读	
+哗	hua	31		
+画	hua	11		
+话	hua	11		
+化	hua	11		
+蛙	ua	44		
+娃	ua	44		
+哇	ua	44		
+洼	ua	44		
+挖	ua	44		
+活	ua	24		
+瓦	ua	53		
+□	ua	53		船～岸：船靠岸
+□	ua	11		～一下：靠一下
+补	pɔ	53		
+斧	pɔ	53		～头
+篰	pɔ	31		篓筐
+哺	pɔ	11		嚼
+步	pɔ	11		
+布	pɔ	11		
+怖	pɔ	11		
+播	pɔ	11		广～，～音
+鄱	pɔ	11		
+铺	pʰɔ	44		
+颇	pʰɔ	44		
+麸	pʰɔ	44	白读	
+普	pʰɔ	53		～通
+谱	pʰɔ	53		
+浦	pʰɔ	53		
+圃	pʰɔ	53		
+部	pʰɔ	31		
+薄	pʰɔ	31		
+破	pʰɔ	11		
+铺	pʰɔ	11		里程单位，十里为一～
+摸	bɔ	44		
+模	bɔ	24		
+摹	bɔ	24		
+漠	bɔ	24		
+亩	bɔ	53		
+某	bɔ	53		～人
+牡	bɔ	53		
+戊	bɔ	11		
+墓	bɔ	11		
+募	bɔ	11		
+慕	bɔ	11		
+幕	bɔ	11		
+都	tɔ	44		
+多	tɔ	44		
+徒	tɔ	24		
+途	tɔ	24		
+涂	tɔ	24		糊～
+屠	tɔ	24		
+荼	tɔ	24		
+堵	tɔ	53		
+赌	tɔ	53		
+睹	tɔ	53		
+肚	tɔ	53		腹～：肚子
+倒	tɔ	53		
+朵	tɔ	53		
+躲	tɔ	53		
+岛	tɔ	53		
+捣	tɔ	53		
+妒	tɔ	53		
+肚	tɔ	31		～内：腹内
+道	tɔ	31		
+盗	tɔ	31		
+稻	tɔ	31		
+到	tɔ	11		
+□	tɔ	11		水迹在纸或布上泅开
+韬	tʰɔ	44		
+滔	tʰɔ	44		
+涂	tʰɔ	24		泥土
+土	tʰɔ	53		
+妥	tʰɔ	53		
+唾	tʰɔ	53		
+吐	tʰɔ	11		
+兔	tʰɔ	11		
+卢	lɔ	24		
+芦	lɔ	24		
+炉	lɔ	24		
+鸬	lɔ	24		
+劳	lɔ	24		
+痨	lɔ	24		
+牢	lɔ	24		
+鲁	lɔ	53		
+橹	lɔ	53		～味
+裸	lɔ	53		
+卤	lɔ	53		
+路	lɔ	11		
+露	lɔ	11		
+鹭	lɔ	11		
+糟	t͡sɔ	44		
+遭	t͡sɔ	44		
+租	t͡sɔ	44		
+曹	t͡sɔ	24		
+昨	t͡sɔ	24	白读	～日：～天
+祖	t͡sɔ	53		
+组	t͡sɔ	53		
+阻	t͡sɔ	53		
+左	t͡sɔ	53		
+佐	t͡sɔ	53		
+皂	t͡sɔ	53		～白
+造	t͡sɔ	31		
+助	t͡sɔ	11		
+粗	t͡sʰɔ	44		
+初	t͡sʰɔ	44		
+楚	t͡sʰɔ	53		
+础	t͡sʰɔ	53		
+草	t͡sʰɔ	53		
+醋	t͡sʰɔ	11		
+错	t͡sʰɔ	11		
+措	t͡sʰɔ	11		
+挫	t͡sʰɔ	11		
+糙	t͡sʰɔ	11		
+苏	sɔ	44		
+稣	sɔ	44		
+骚	sɔ	44		
+疏	sɔ	44		
+梳	sɔ	44		
+蔬	sɔ	44		
+所	sɔ	53		
+素	sɔ	11		
+数	sɔ	11		～学
+塑	sɔ	11		
+诉	sɔ	11		
+姑	kɔ	44		
+沽	kɔ	44		
+菇	kɔ	44		
+辜	kɔ	44		
+鸪	kɔ	44		
+孤	kɔ	44		
+皋	kɔ	44		
+戈	kɔ	44		
+高	kɔ	44		
+锅	kɔ	44		
+枯	kɔ	44		
+糊	kɔ	24	白读	
+古	kɔ	53		
+诂	kɔ	53		
+牯	kɔ	53		
+鼓	kɔ	53		
+蛊	kɔ	53		
+股	kɔ	53		
+故	kɔ	11		
+告	kɔ	11		
+固	kɔ	11		
+雇	kɔ	11		
+顾	kɔ	11		
+呼	kʰɔ	44	白读	～鸡
+□	kʰɔ	44		大～：胖；一～：一节
+估	kʰɔ	44		
+苦	kʰɔ	53		
+靠	kʰɔ	11		
+裤	kʰɔ	11		
+库	kʰɔ	11		
+课	kʰɔ	11		
+吴	ɡɔ	24		
+蜈	ɡɔ	24		
+吾	ɡɔ	24		
+梧	ɡɔ	24		
+午	ɡɔ	53		
+伍	ɡɔ	53		
+五	ɡɔ	31		
+误	ɡɔ	11		
+娱	ɡɔ	11		
+呼	hɔ	44		招～
+和	hɔ	24		～平
+禾	hɔ	24		
+毫	hɔ	24		
+豪	hɔ	24		
+壕	hɔ	24		
+荷	hɔ	24		
+互	hɔ	24		
+弧	hɔ	24		
+狐	hɔ	24		
+葫	hɔ	24		
+虎	hɔ	53		
+浒	hɔ	53		
+户	hɔ	31		
+沪	hɔ	31		
+雨	hɔ	31	白读	
+护	hɔ	11		
+贺	hɔ	11		
+戽	hɔ	11		
+乌	ɔ	44		
+呜	ɔ	44		
+钨	ɔ	44		
+胡	ɔ	24		
+湖	ɔ	24		
+糊	ɔ	24		
+和	ɔ	24		打麻将时某一家的牌合乎规定要求取得胜利；～拢：合起来
+芋	ɔ	11		
+恶	ɔ	11		可～
+奥	ɔ	11		
+澳	ɔ	11		
+懊	ɔ	11		
+着	tiɔ	24		沉～
+逐	tiɔ	24		
+竹	tiɔ	53		
+竺	tiɔ	53		
+筑	tiɔ	53		
+畜	tʰiɔ	53		～牧
+蓄	tʰiɔ	53		储～
+陆	liɔ	24		
+略	liɔ	24		
+绿	liɔ	24		
+蜀	t͡siɔ	24		
+浊	t͡siɔ	24		
+爵	t͡siɔ	53		
+嚼	t͡siɔ	53		
+足	t͡siɔ	53		
+祝	t͡siɔ	53		
+烛	t͡siɔ	53		
+酌	t͡siɔ	53		
+促	t͡sʰiɔ	53		
+触	t͡sʰiɔ	53		
+雀	t͡sʰiɔ	53		
+俗	siɔ	24		
+续	siɔ	24		
+赎	siɔ	24		
+属	siɔ	24		
+叔	siɔ	53		
+淑	siɔ	53		
+肃	siɔ	53		
+粟	siɔ	53		
+宿	siɔ	53		～舍
+缩	siɔ	53		
+肉	ziɔ	24		
+辱	ziɔ	24		
+弱	ziɔ	24		
+若	ziɔ	24		～干
+局	kiɔ	24		
+菊	kiɔ	53		
+鞠	kiɔ	53		
+却	kiɔ	53		
+曲	kiɔ	53		
+脚	kiɔ	53		
+玉	ɡiɔ	24		
+虐	ɡiɔ	24		又读
+疟	ɡiɔ	24		又读
+旭	hiɔ	53		
+浴	iɔ	24		
+欲	iɔ	24		
+育	iɔ	24		
+药	iɔ	24		
+约	iɔ	53		
+玻	po	44		～璃
+菠	po	44		
+婆	po	24		
+薄	po	24	白读	
+宝	po	53		
+保	po	53		
+堡	po	53		
+报	po	11		
+坡	pʰo	44		
+波	pʰo	44		
+叵	pʰo	24		
+粕	pʰo	53	白读	猪油～：猪油渣
+抱	pʰo	31	白读	
+无	bo	24	白读	
+卜	bo	53	白读	要
+磨	bo	11	白读	
+帽	bo	11	白读	
+刀	to	44	白读	
+逃	to	24	白读	
+陀	to	24	白读	
+驼	to	24	白读	
+鸵	to	24	白读	
+着	to	24	白读	火燃
+□	to	24	白读	撕，扯
+卓	to	53		
+桌	to	53		
+倒	to	53	白读	
+道	to	53	白读	一～金牌
+倒	to	53	白读	～水；走～：走回来
+桃	tʰo	24	白读	
+□	tʰo	24		tʰie53～：玩耍
+讨	tʰo	53	白读	
+妥	tʰo	53	白读	
+套	tʰo	11		
+罗	lo	24		
+逻	lo	24		
+锣	lo	24		
+落	lo	24	白读	三～大厝：三进的大房子
+牢	lo	24	白读	监～
+□	lo	11		长
+昨	t͡so	44	白读	～日：前天
+糟	t͡so	24	白读	
+枣	t͡so	53		
+做	t͡so	53		～工；～息：干活
+造	t͡so	31	白读	
+座	t͡so	31	白读	
+臊	t͡sʰo	44	白读	臭～：腥味
+□	t͡sʰo	53		～恁母（骂人的话）
+唆	so	44		
+梭	so	44		
+嗦	so	44		
+骚	so	44	白读	卖俏
+槎	so	44	白读	
+镯	so	24	白读	
+□	so	24		～树：爬树
+□	so	24		形容做事不干脆
+嫂	so	53		
+琐	so	53		
+锁	so	53		
+索	so	53		绳
+燥	so	11	白读	
+皂	so	11		
+羔	ko	44		
+糕	ko	44		
+哥	ko	44		
+膏	ko	44		
+个	ko	24		
+稿	ko	53		
+□	ko	53		再～：又
+廓	ko	53		
+阁	ko	53	白读	
+搞	ko	53		
+滚	ko	31	白读	
+告	ko	11	白读	
+□	kʰo	44		～肉：煮肉
+靠	kʰo	11	白读	
+□	kʰo	11		炊～：虾皮
+熬	ɡo	24	白读	～油
+饿	ɡo	11	白读	
+河	ho	24		
+何	ho	24		
+荷	ho	24	白读	～花
+好	ho	53	白读	
+荷	ho	11		簿～
+贺	ho	11	白读	
+号	ho	11		
+学	o	24	白读	
+□	o	53		难
+□	o	31		～气词，表示醒悟
+岙	o	11		
+□	o	11		硬要对方接受东西
+猪	tɯ	44		
+除	tɯ	24		
+锄	tɯ	24	白读	～头
+躇	tɯ	24		踌～
+箸	tɯ	31		筷子
+著	tɯ	31		
+储	tʰɯ	53		
+贮	tʰɯ	53		
+褚	tʰɯ	53		
+驴	lɯ	24		
+女	lɯ	53		
+旅	lɯ	53		
+你	lɯ	53	白读	
+吕	lɯ	11		
+虑	lɯ	11		
+滤	lɯ	11		
+书	t͡sɯ	44		
+资	t͡sɯ	44		
+姿	t͡sɯ	44		
+诸	t͡sɯ	44		
+茲	t͡sɯ	44		
+滋	t͡sɯ	44		
+淄	t͡sɯ	44		
+辎	t͡sɯ	44		
+慈	t͡sɯ	24		
+磁	t͡sɯ	24		
+薯	t͡sɯ	24		分～：红薯
+子	t͡sɯ	53		
+仔	t͡sɯ	53		～细
+紫	t͡sɯ	53		
+梓	t͡sɯ	53		
+煮	t͡sɯ	53		
+自	t͡sɯ	11		
+痴	t͡sʰɯ	44		
+疵	t͡sʰɯ	44		
+雌	t͡sʰɯ	44		
+鼠	t͡sʰɯ	53		
+此	t͡sʰɯ	53		
+次	t͡sʰɯ	11		
+处	t͡sʰɯ	11		～长
+私	sɯ	44		
+斯	sɯ	44		
+撕	sɯ	44		
+师	sɯ	44		
+筛	sɯ	44		又读
+狮	sɯ	44		
+蛳	sɯ	44		
+司	sɯ	44		
+思	sɯ	44		
+施	sɯ	44		
+舒	sɯ	44		
+祠	sɯ	24		
+词	sɯ	24		
+辞	sɯ	24		
+叙	sɯ	24		～述
+饲	sɯ	24		
+时	sɯ	24		
+史	sɯ	53		历～
+使	sɯ	53		
+暑	sɯ	53		
+驶	sɯ	53		
+死	sɯ	53		
+始	sɯ	53		
+屎	sɯ	53		
+屿	sɯ	31		
+似	sɯ	31		
+士	sɯ	31		
+仕	sɯ	31		
+已	sɯ	31		
+祀	sɯ	31		
+姒	sɯ	31		
+序	sɯ	31		
+绪	sɯ	31		
+絮	sɯ	31		
+事	sɯ	11		
+赐	sɯ	11		
+恕	sɯ	11		
+如	zɯ	24		
+□	zɯ	24		混乱
+汝	zɯ	53		
+居	kɯ	44		
+车	kɯ	44		～马炮
+裾	kɯ	44		大～：衣服的大襟
+渠	kɯ	24		
+巨	kɯ	24		
+举	kɯ	53		
+矩	kɯ	53		
+拒	kɯ	11		
+据	kɯ	11		
+锯	kɯ	11		
+踞	kɯ	11		
+瞿	kɯ	11		
+去	kʰɯ	11		
+渔	ɡɯ	24		
+鱼	ɡɯ	24		
+语	ɡɯ	53		
+御	ɡɯ	11		～林军，防御
+虚	hɯ	44		
+墟	hɯ	44		
+鱼	hɯ	24	白读	
+许	hɯ	53		
+于	ɯ	44		～是
+余	ɯ	24		
+与	ɯ	53		
+予	ɯ	53		
+誉	ɯ	11		
+预	ɯ	11		
+飞	pə	44	白读	
+赔	pə	24	白读	
+倍	pə	31	白读	
+焙	pə	31	白读	用微火烘
+褙	pə	11		裱糊
+背	pə	11	白读	
+坯	pʰə	44	白读	
+□	pʰə	44		～否：豁出去
+皮	pʰə	24	白读	
+被	pʰə	31	白读	盖～
+配	pʰə	11	白读	门～：（饭）菜
+糜	bə	24		粥
+袜	bə	24		
+尾	bə	53	白读	
+未	bə	11	白读	
+妹	bə	11	白读	
+短	tə	53	白读	
+袋	tə	11	白读	
+块	tə	11	白读	一～银：一块钱；一～厝：一座房子
+推	tʰə	44	白读	推托
+退	tʰə	11	白读	退
+螺	lə	24	白读	
+□	lə	24	白读	手～：手指上的斗
+儡	lə	53		嘉～：傀儡
+坐	t͡sə	31	白读	
+罪	t͡sə	31	白读	
+吹	t͡sʰə	44	白读	
+炊	t͡sʰə	44	白读	
+髓	t͡sʰə	53	白读	
+撮	t͡sʰə	53	白读	
+□	t͡sʰə	11		寻找
+脆	t͡sʰə	11	白读	
+旋	sə	24	白读	
+雪	sə	53	白读	
+说	sə	53	白读	
+税	sə	11	白读	
+嗝	kə	24		
+□	kə	53		大米做的年糕
+□	kə	53		～命：没命
+郭	kə	53		
+过	kə	11	白读	
+科	kʰə	44		
+瘸	kʰə	24		
+缺	kʰə	53	白读	
+月	ɡə	24	白读	
+灰	hə	44	白读	
+回	hə	24	白读	辞退
+火	hə	53	白读	
+伙	hə	53	白读	
+货	hə	11	白读	
+岁	hə	11	白读	
+呃	ə	53		打～：打嗝
+仆	pɐ	24		
+缚	pɐ	24		
+薄	pɐ	24		
+别	pɐ	24	白读	～侬：别人
+北	pɐ	53		
+八	pɐ	53		
+剥	pɐ	53		
+腹	pɐ	53	白读	～肚：肚子
+幅	pɐ	53	白读	一～布
+驳	pɐ	53		
+卜	pɐ	53		占～
+□	pɐ	53		认识
+曝	pʰɐ	24	白读	～日佛：晒太阳
+扑	pʰɐ	53		
+朴	pʰɐ	53		
+博	pʰɐ	53		
+搏	pʰɐ	53		
+泊	pʰɐ	53		
+粕	pʰɐ	53		
+璞	pʰɐ	53		
+目	bɐ	24		
+木	bɐ	24		
+沐	bɐ	24		
+莫	bɐ	24		
+穆	bɐ	24		
+睦	bɐ	24		
+墨	bɐ	24	白读	
+密	bɐ	24	白读	
+达	tɐ	24		
+毒	tɐ	24		
+独	tɐ	24		
+铎	tɐ	24		
+渎	tɐ	24		
+沓	tɐ	24		纷至～来
+值	tɐ	24	白读	
+逐	tɐ	24	白读	～～个：每一个
+督	tɐ	53		
+笃	tɐ	53		
+答	tɐ	53		
+啄	tɐ	53		
+触	tɐ	53	白读	牛相～：牛打架
+读	tʰɐ	24		
+头	tʰɐ	24	白读	～壳：头
+托	tʰɐ	53		
+塌	tʰɐ	53		
+榻	tʰɐ	53		
+踢	tʰɐ	53	白读	
+纳	lɐ	24		
+衲	lɐ	24		
+力	lɐ	24	白读	
+栗	lɐ	24	白读	～子
+六	lɐ	24		
+鹿	lɐ	24		
+乐	lɐ	24		快～
+洛	lɐ	24		
+骆	lɐ	24		
+络	lɐ	24		
+落	lɐ	24		～后
+禄	lɐ	24		
+落	lɐ	53		往下掉
+十	t͡sɐ	24		
+杂	t͡sɐ	24		
+族	t͡sɐ	24		
+汁	t͡sɐ	53		
+扎	t͡sɐ	53		
+节	t͡sɐ	53	白读	
+作	t͡sɐ	53		
+贼	t͡sʰɐ	24		
+凿	t͡sʰɐ	24		
+察	t͡sʰɐ	53		
+擦	t͡sʰɐ	53		
+漆	t͡sʰɐ	53	白读	
+撮	t͡sʰɐ	53		
+□	t͡sʰɐ	53		干涉
+杀	sɐ	53		
+煞	sɐ	53		
+虱	sɐ	53		
+萨	sɐ	53		
+束	sɐ	53		
+索	sɐ	53		思～
+□	kɐ	24		扔
+各	kɐ	53		
+谷	kɐ	53		
+鸽	kɐ	53		
+葛	kɐ	53		
+国	kɐ	53		
+觉	kɐ	53		
+角	kɐ	53		
+□	kɐ	53		～子：檩条
+割	kɐ	53		～地
+□	kʰɐ	24		敲打
+磕	kʰɐ	53		
+壳	kʰɐ	53		
+确	kʰɐ	53		
+曲	kʰɐ	53		～霉等制成的块状物
+哭	kʰɐ	53		
+扩	kʰɐ	53		
+酷	kʰɐ	53		
+咯	kʰɐ	53		～痰
+较	kʰɐ	53	白读	～好
+恰	kʰɐ	53		
+渴	kʰɐ	53		
+岳	ɡɐ	24		
+狱	ɡɐ	24		
+乐	ɡɐ	24		音～
+鳄	ɡɐ	24		
+鄂	ɡɐ	24		
+腭	ɡɐ	24		
+鹤	ɡɐ	24		
+讫	ɡɐ	53		
+合	hɐ	24		
+盒	hɐ	24		
+核	hɐ	24		
+学	hɐ	24		～习
+服	hɐ	24		
+伏	hɐ	24		
+辖	hɐ	53		
+喝	hɐ	53		
+福	hɐ	53		
+蝠	hɐ	53		
+幅	hɐ	53		
+复	hɐ	53		
+腹	hɐ	53		
+霍	hɐ	53		
+郝	hɐ	53		
+□	hɐ	53		那么
+斛	hɐ	53		
+阿	ɐ	24		～婶
+压	ɐ	53		
+扼	ɐ	53		
+曷	ɐ	53		
+屋	ɐ	53		
+握	ɐ	53		
+沃	ɐ	53		
+恶	ɐ	53		凶～
+佛	puɐ	24		
+勃	puɐ	24		
+渤	puɐ	24		
+跋	puɐ	24		～倒：跌倒
+拔	puɐ	24		提～
+□	puɐ	24		～涂：搓揉泥土
+拨	puɐ	53		
+钵	puɐ	53		
+不	puɐ	53		
+泼	pʰuɐ	53		～水
+末	buɐ	24		
+物	buɐ	24		
+没	buɐ	24		
+牧	buɐ	24		
+沐	buɐ	53	白读	～水：沾水
+突	tuɐ	24		
+夺	tuɐ	24		
+□	tuɐ	53		端（东西）
+秃	tʰuɐ	24		～头
+脱	tʰuɐ	53		
+律	luɐ	24		
+率	luɐ	24		
+捋	luɐ	24		
+劣	luɐ	53		
+术	t͡suɐ	24		白～（药名）
+秫	t͡suɐ	24		～米
+绝	t͡suɐ	24		
+卒	t͡suɐ	53		
+拙	t͡suɐ	53		
+出	t͡sʰuɐ	53		
+术	suɐ	24		
+述	suɐ	24		
+□	suɐ	24		游荡
+雪	suɐ	53		
+戌	suɐ	53		
+屑	suɐ	53		
+□	suɐ	53		锯～：锯末
+说	suɐ	53		
+率	suɐ	53		～领
+摔	suɐ	53		抽打
+刷	suɐ	53		
+滑	kuɐ	24		
+猾	kuɐ	24		
+掘	kuɐ	24		～涂：挖土
+□	kuɐ	24		量词，一～涂
+骨	kuɐ	53		
+决	kuɐ	53		
+诀	kuɐ	53		
+抉	kuɐ	53		～择
+括	kuɐ	53		
+刮	kuɐ	53		～风
+□	kʰuɐ	24		～头：绝后
+屈	kʰuɐ	53		
+倔	kʰuɐ	53		
+窟	kʰuɐ	53		
+阔	kʰuɐ	53		
+厥	kʰuɐ	53		
+阙	kʰuɐ	53		
+缺	kʰuɐ	53		
+□	kʰuɐ	53		池塘
+月	ɡuɐ	24		
+伐	huɐ	24		
+罚	huɐ	24		
+阀	huɐ	24		
+乏	huɐ	24		
+忽	huɐ	53		
+佛	huɐ	53		仿～
+拂	huɐ	53		
+发	huɐ	53		
+法	huɐ	53		
+越	uɐ	24		
+粤	uɐ	24		
+郁	uɐ	53		
+熨	uɐ	53		～斗
+斡	uɐ	53		～弯
+□	uɐ	53		溺水
+□	piu	44		（水）喷射
+谬	biu	11		～论
+丢	tiu	44		
+绸	tiu	24		
+稠	tiu	24		
+筹	tiu	24		
+□	tiu	53		拽
+粙	tiu	31		稻子
+昼	tiu	31		
+宙	tiu	31		
+纣	tiu	31		
+抽	tʰiu	44		
+丑	tʰiu	53		
+溜	liu	44		滑～：滑
+留	liu	24		
+瘤	liu	24		
+榴	liu	24		
+馏	liu	24		
+刘	liu	24		
+浏	liu	24		
+流	liu	24		
+硫	liu	24		
+琉	liu	24		
+柳	liu	53		
+绺	liu	53		
+纽	liu	53	白读	儿～：纽扣
+□	liu	31		一～：一垅
+馏	liu	31		粿～：一种食品
+周	t͡siu	44		
+舟	t͡siu	44		
+州	t͡siu	44		
+洲	t͡siu	44		
+珠	t͡siu	44	白读	目～：眼睛
+啾	t͡siu	44		
+□	t͡siu	44		苍蝇沾人或物
+酒	t͡siu	53		
+帚	t͡siu	53		
+守	t͡siu	53	白读	
+咒	t͡siu	11		
+蛀	t͡siu	11	白读	
+就	t͡siu	11		
+鹫	t͡siu	11		
+秋	t͡sʰiu	44		
+鳅	t͡sʰiu	44		
+须	t͡sʰiu	44	白读	喙～：胡子
+手	t͡sʰiu	53	白读	
+树	t͡sʰiu	11	白读	
+臭	t͡sʰiu	11		
+收	siu	44		
+羞	siu	44		
+修	siu	44		
+囚	siu	24		
+泅	siu	24		～河：游泳
+酬	siu	24		
+售	siu	24		
+仇	siu	24		
+守	siu	53		
+狩	siu	53		
+首	siu	53		
+受	siu	31		
+绶	siu	31		
+授	siu	31		
+寿	siu	11		
+袖	siu	11		
+岫	siu	11		
+秀	siu	11		
+莠	siu	11		
+绣	siu	11		
+锈	siu	11		
+兽	siu	11		
+柔	ziu	24		
+揉	ziu	24		
+□	kiu	44		蜷缩
+纠	kiu	44		
+赳	kiu	44		
+鸠	kiu	44		又读
+求	kiu	24		
+球	kiu	24		
+逑	kiu	24		
+久	kiu	53		
+九	kiu	53		
+玖	kiu	53		
+韭	kiu	53		
+□	kiu	53		（写字）潦草
+臼	kiu	31		
+舅	kiu	31		
+咎	kiu	31		
+救	kiu	11		
+究	kiu	11		
+灸	kiu	11		
+疚	kiu	11		
+旧	kiu	11		
+丘	kʰiu	44		
+蚯	kʰiu	44		
+邱	kʰiu	44		
+鸠	kʰiu	44		
+□	kʰiu	24		缩
+休	hiu	44		
+裘	hiu	24	白读	棉～：棉袄
+朽	hiu	53		腐烂；永垂不～
+□	hiu	11		垂挂物摇动的样子
+优	iu	44		
+忧	iu	44		
+悠	iu	44		
+幽	iu	44		
+由	iu	24		
+油	iu	24		
+铀	iu	24		
+邮	iu	24		
+尤	iu	24		
+犹	iu	24		
+鱿	iu	24		
+游	iu	24		
+酋	iu	24		
+猷	iu	24		
+友	iu	53		
+有	iu	53		
+酉	iu	53		
+又	iu	11		
+右	iu	11		
+佑	iu	11		
+釉	iu	11		
+□	iu	11		细
+幼	iu	11		
+肥	pui	24	白读	
+痱	pui	11	白读	
+吠	pui	11	白读	
+屁	pʰui	11	白读	放～
+啡	pʰui	11		吐（痰）
+堆	tui	44		
+捶	tui	24		
+对	tui	11		
+兑	tui	11		
+碓	tui	11		
+推	tʰui	44		
+梯	tʰui	44	白读	楼～
+槌	tʰui	24		
+锤	tʰui	24		
+腿	tʰui	53		
+队	tʰui	11		
+坠	tʰui	11		
+雷	lui	24		
+镭	lui	24		
+垒	lui	53		
+累	lui	53		积～，劳～
+磊	lui	53		
+蕊	lui	53		
+儡	lui	53		
+蕾	lui	53		
+类	lui	31		
+擂	lui	11		
+泪	lui	11		又读
+锥	t͡sui	44		
+椎	t͡sui	44		
+睢	t͡sui	44		
+水	t͡sui	53	白读	
+嘴	t͡sui	53		
+醉	t͡sui	11		
+崔	t͡sʰui	44		
+催	t͡sʰui	44		
+摧	t͡sʰui	44		
+吹	t͡sʰui	44		
+炊	t͡sʰui	44		
+髓	t͡sʰui	53		
+脆	t͡sʰui	53		
+翠	t͡sʰui	11		
+粹	t͡sʰui	11		
+碎	t͡sʰui	11	白读	
+脆	t͡sʰui	11		又读
+喙	t͡sʰui	11		嘴巴
+虽	sui	44		
+绥	sui	44		
+荽	sui	44		
+蓑	sui	44		粽～：蓑衣
+垂	sui	24		
+谁	sui	24		
+随	sui	24		
+隋	sui	24		
+陲	sui	24		边～
+遂	sui	24		
+隧	sui	24		
+燧	sui	24		
+水	sui	53		
+睡	sui	11		
+瑞	sui	11		
+穗	sui	11		
+碎	sui	11		
+祟	sui	11		
+归	kui	44		
+龟	kui	44		
+规	kui	44		
+闺	kui	44		
+硅	kui	44		
+机	kui	44		布～：织布机
+癸	kui	24		
+葵	kui	24		～花
+暌	kui	24		
+逵	kui	24		
+鬼	kui	53		
+诡	kui	53		～计
+宄	kui	53		奸～
+几	kui	53	白读	～工：几天
+跪	kui	31		
+桂	kui	11		
+季	kui	11		
+贵	kui	11		
+柜	kui	11		
+亏	kʰui	44		
+窥	kʰui	44		
+开	kʰui	44	白读	离～
+傀	kʰui	11		
+愧	kʰui	11		
+溃	kʰui	11		
+块	kʰui	11		
+危	ɡui	24		
+桅	ɡui	24		
+巍	ɡui	24		
+魏	ɡui	11		
+飞	hui	44		
+非	hui	44		
+菲	hui	44		
+霏	hui	44		
+翡	hui	44		
+挥	hui	44		
+辉	hui	44		
+珲	hui	44		
+晖	hui	44		
+徽	hui	44		
+妃	hui	44		
+麾	hui	44		
+灰	hui	44		
+肥	hui	24		
+淝	hui	24		
+□	hui	24		瓷器
+匪	hui	53		
+诽	hui	53		
+血	hui	53	白读	
+毁	hui	53		
+贿	hui	53		
+吠	hui	11		
+费	hui	11		
+肺	hui	11		
+惠	hui	11		
+废	hui	11		
+慧	hui	11		
+讳	hui	11		
+纬	hui	11		
+痱	hui	11		
+威	ui	44		
+□	ui	44		～鸡：炖鸡
+围	ui	24		
+违	ui	24		
+遗	ui	24		
+为	ui	24		行～
+伪	ui	24		虚～
+委	ui	53		
+萎	ui	53		
+苇	ui	53		
+伟	ui	53		
+侑	ui	53		
+□	ui	53		挖
+尉	ui	11		
+慰	ui	11		
+胃	ui	11		
+谓	ui	11		
+渭	ui	11		
+畏	ui	11		
+猥	ui	11		
+为	ui	11		因～
+位	ui	11		
+浮	pʰəu	24		
+剖	pʰəu	53		
+阜	pʰəu	53		
+谋	bəu	24		
+母	bəu	53		
+茂	bəu	11		
+兜	təu	44		
+投	təu	24		
+斗	təu	53		升～
+蚪	təu	53		蝌～
+抖	təu	53		
+陡	təu	53		
+豆	təu	11		
+痘	təu	11		
+斗	təu	11		奋～
+窦	təu	11		
+偷	tʰəu	44		
+头	tʰəu	24		
+透	tʰəu	11		
+□	ləu	44		挖
+楼	ləu	24		
+搂	ləu	53		
+篓	ləu	53		
+漏	ləu	11		
+邹	t͡səu	44		
+走	t͡səu	53		
+奏	t͡səu	11		
+愁	t͡sʰəu	24		
+凑	t͡sʰəu	11		
+搜	səu	44		
+馊	səu	44		
+瘦	səu	53		
+嗽	səu	53		～口
+嗽	səu	11		咳～
+勾	kəu	44		
+沟	kəu	44		
+钩	kəu	44		
+狗	kəu	53		
+苟	kəu	11		
+购	kəu	11		
+够	kəu	11		
+构	kəu	11		
+媾	kəu	11		
+抠	kʰəu	44		
+口	kʰəu	53		
+扣	kʰəu	11		
+叩	kʰəu	11		
+寇	kʰəu	11		
+侯	həu	24		
+喉	həu	24		
+猴	həu	24		
+厚	həu	31		
+后	həu	31		前～
+候	həu	11		
+吼	həu	11		怒
+欧	əu	44		
+瓯	əu	44		
+殴	əu	44		
+呕	əu	44		～吐
+镖	pieu	44	白读	
+标	pieu	44	白读	
+彪	pieu	44	白读	
+表	pieu	53	白读	
+婊	pieu	53	白读	
+裱	pieu	53	白读	
+飘	pʰieu	44	白读	
+萍	pʰieu	24	白读	
+嫖	pʰieu	24	白读	
+瓢	pʰieu	24	白读	
+票	pʰieu	11	白读	
+漂	pʰieu	11	白读	～白
+秒	bieu	53	白读	
+庙	bieu	11	白读	
+着	tieu	24	白读	对：～显～：很对；拍～：打中
+赵	tieu	31		
+钓	tieu	11	白读	
+挑	tʰieu	44	白读	
+粜	tʰieu	11	白读	～米
+撩	lieu	24	白读	用网或网状物捞取液体上面的东西
+招	t͡sieu	44	白读	
+蕉	t͡sieu	44	白读	
+礁	t͡sieu	44	白读	
+椒	t͡sieu	44	白读	辣～
+石	t͡sieu	24	白读	～头
+少	t͡sieu	53	白读	
+借	t͡sieu	53	白读	
+照	t͡sieu	11	白读	
+席	t͡sʰieu	24	白读	草～
+尺	t͡sʰieu	53	白读	
+□	t͡sʰieu	53	白读	鸭鹅等脖子较长嘴扁的家禽吃东西的动作
+笑	t͡sʰieu	11	白读	
+烧	sieu	44	白读	身躯～：身体发烧
+小	sieu	53	白读	～弟
+鞘	sieu	11	白读	
+尿	zieu	31	白读	放～：撒尿
+桥	kieu	24	白读	
+茄	kieu	24	白读	
+叫	kieu	11	白读	
+轿	kieu	11	白读	
+□	kʰieu	53		拾（东西）
+□	kʰieu	11		竹～：引水用的竹器
+□	kʰieu	11		水往下流
+叶	hieu	24	白读	
+歇	hieu	53	白读	
+么	ieu	44	白读	～二三
+腰	ieu	44	白读	
+□	ieu	44		带（孩子）
+摇	ieu	24	白读	
+窑	ieu	24	白读	
+药	ieu	24	白读	
+舀	ieu	53	白读	
+鹞	ieu	11	白读	
+鸢	ieu	11		纸～：风筝
+牌	pai	24		
+排	pai	24		
+摆	pai	53		
+拜	pai	11		
+败	pai	11		
+否	pʰai	53	白读	坏，不好
+派	pʰai	11		
+沛	pʰai	11		
+湃	pʰai	11		
+□	bai	44		之～：女阴
+埋	bai	24		
+□	bai	53		～枝手：左手；～手向：左边
+呆	tai	44		
+台	tai	24		
+□	tai	53		油～：油底子
+贷	tai	31		
+戴	tai	11		
+带	tai	11		
+逮	tai	11		
+大	tai	11		
+怠	tai	11		
+代	tai	11		
+岱	tai	11		
+袋	tai	11		
+黛	tai	11		
+苔	tʰai	44		
+胎	tʰai	44		
+台	tʰai	44		风～：台风
+筛	tʰai	44	白读	米～：筛子
+抬	tʰai	24		
+□	tʰai	24		杀
+太	tʰai	11		
+汰	tʰai	11		
+态	tʰai	11		
+待	tʰai	11		
+泰	tʰai	11		
+来	lai	24		
+梨	lai	24	白读	消～：梨子
+内	lai	31	白读	～面：里面
+利	lai	11	白读	锋利
+灾	t͡sai	44		
+斋	t͡sai	44		
+栽	t͡sai	44		
+知	t͡sai	44	白读	知道
+才	t͡sai	24		
+材	t͡sai	24		
+财	t͡sai	24		
+脐	t͡sai	24		腹～：肚脐
+宰	t͡sai	53		
+再	t͡sai	53		
+在	t͡sai	31		
+载	t͡sai	11		
+猜	t͡sʰai	44		
+柴	t͡sʰai	24		
+豺	t͡sʰai	24		
+裁	t͡sʰai	24		
+采	t͡sʰai	53		
+彩	t͡sʰai	53		
+睬	t͡sʰai	53		
+踩	t͡sʰai	53		
+菜	t͡sʰai	11		
+师	sai	44	白读	
+狮	sai	44	白读	
+筛	sai	44		
+西	sai	44	白读	
+腮	sai	44		
+鳃	sai	44		
+屎	sai	53	白读	
+驶	sai	53	白读	
+姒	sai	11		同～：妯娌
+赛	sai	11		
+婿	sai	11		
+塞	sai	11		～外
+侍	sai	11	白读	服～
+帅	sai	11		元～
+该	kai	44		
+阶	kai	44		
+皆	kai	44		
+陔	kai	44		
+解	kai	53		～放
+改	kai	53		
+介	kai	11		
+界	kai	11		
+芥	kai	11		
+戒	kai	11		
+械	kai	11		
+丐	kai	11		
+钙	kai	11		
+盖	kai	11		
+届	kai	11		
+开	kʰai	44		
+楷	kʰai	53		
+凯	kʰai	53		
+溉	kʰai	11		
+忾	kʰai	11		
+概	kʰai	11		
+呆	ɡai	24		又读
+碍	ɡai	11		
+赅	hai	44		大
+孩	hai	24		
+颏	hai	24		
+海	hai	53		
+亥	hai	31		
+骇	hai	31		
+害	hai	11		
+哀	ai	44		
+埃	ai	44		
+挨	ai	44		
+矮	ai	53		
+□	ai	53		～仔：江边的一种小螃蟹
+蔼	ai	53		
+哎	ai	31		叹气声
+爱	ai	11		
+谒	ai	11		
+隘	ai	11		
+乖	kuai	44		
+拐	kuai	53		
+怪	kuai	11		
+快	kʰuai	11		
+筷	kʰuai	11		
+灰	huai	44	白读	形容人无本领运气不好等
+怀	huai	24		
+淮	huai	24		
+槐	huai	24		
+坏	huai	11		
+歪	uai	44		
+□	uai	53		脚扭伤后步行不便的样子
+包	pau	44		
+苞	pau	44		
+胞	pau	44		
+庖	pau	24		
+袍	pau	24		
+饱	pau	53		
+鲍	pau	31		
+□	pau	11		突出来
+抛	pʰau	44		
+□	pʰau	44		柚子
+跑	pʰau	53		
+泡	pʰau	11		
+炮	pʰau	11		
+抱	pʰau	11		怀～
+卯	bau	53		
+铆	bau	53		
+兜	tau	44	白读	
+篼	tau	44		
+□	tau	44		骹～：地上
+□	tau	44		～骹：一种旧时简易轿子
+投	tau	24	白读	～降
+斗	tau	53	白读	一～米
+陡	tau	53	白读	
+抖	tau	53	白读	
+罩	tau	11		
+窦	tau	11		
+昼	tau	11	白读	日～：中午
+豆	tau	11	白读	
+偷	tʰau	44	白读	小～
+头	tʰau	24	白读	
+㪗	tʰau	53		解开
+透	tʰau	11	白读	
+□	tʰau	11		毒死（虫类）
+流	lau	24	白读	
+留	lau	24	白读	
+楼	lau	24	白读	
+篓	lau	53		
+老	lau	31	白读	
+漏	lau	11	白读	
+糟	t͡sau	44	白读	酒～
+剿	t͡sau	24		～灭
+巢	t͡sau	24		黄～
+齐	t͡sau	24	白读	
+走	t͡sau	53	白读	
+蚤	t͡sau	53	白读	家～：跳蚤
+找	t͡sau	53		
+奏	t͡sau	11	白读	
+灶	t͡sau	11		
+钞	t͡sʰau	44		～票
+操	t͡sʰau	44	白读	做～
+草	t͡sʰau	53	白读	
+吵	t͡sʰau	53		
+炒	t͡sʰau	53		
+臭	t͡sʰau	11	白读	
+凑	t͡sʰau	11	白读	
+艄	sau	44		
+搜	sau	44	白读	
+扫	sau	11		
+嗽	sau	11	白读	
+交	kau	44		
+郊	kau	44		
+蛟	kau	44		
+勾	kau	44	白读	
+钩	kau	44	白读	
+沟	kau	44	白读	
+猴	kau	24	白读	
+玖	kau	53	白读	
+九	kau	53	白读	
+狗	kau	53	白读	
+较	kau	53		
+饺	kau	53		
+枸	kau	53		～杞
+厚	kau	31	白读	
+教	kau	11		
+到	kau	11	白读	
+够	kau	11	白读	
+校	kau	11		～对
+敲	kʰau	44		
+薅	kʰau	44	白读	～草：除草
+口	kʰau	53	白读	出～
+铐	kʰau	11		
+扣	kʰau	11	白读	
+吼	hau	53	白读	哭
+孝	hau	11		
+酵	hau	11		
+效	hau	11		
+校	hau	11		学～
+凹	au	44		
+瓯	au	44	白读	茶～：茶杯
+□	au	44		使……变弯
+喉	au	24	白读	
+□	au	53		折叠
+后	au	31	白读	～生：年青
+拗	au	11		
+沤	au	11	白读	东西久浸水中
+标	piau	44		
+膘	piau	44		
+镖	piau	44		
+表	piau	53		
+婊	piau	53		
+裱	piau	53		
+飘	pʰiau	44		
+嫖	pʰiau	24		
+瓢	pʰiau	24		
+剽	pʰiau	24		
+漂	pʰiau	24		～白，～亮
+票	pʰiau	11		
+苗	biau	24		
+瞄	biau	24		
+描	biau	24		
+锚	biau	24		
+猫	biau	24		
+秒	biau	53		
+渺	biau	53		
+藐	biau	53		
+□	biau	53		
+妙	biau	11		
+庙	biau	11		
+刁	tiau	44		
+貂	tiau	44		
+雕	tiau	44		
+凋	tiau	44		
+碉	tiau	44		
+朝	tiau	44		～暮
+牢	tiau	24	白读	～显～：很牢固；牛～：牛栏
+条	tiau	24		
+□	tiau	53		腔调不正
+调	tiau	31		音～，～整
+兆	tiau	11		
+召	tiau	11		
+吊	tiau	11		
+钓	tiau	11		
+挑	tʰiau	44		
+□	tʰiau	44		～池：故意
+迢	tʰiau	24		
+眺	tʰiau	53		～望
+柱	tʰiau	31		栋～：柱子
+跳	tʰiau	11		
+粜	tʰiau	11		
+辽	liau	24		
+疗	liau	24		
+僚	liau	24		
+燎	liau	24		
+嘹	liau	24		
+潦	liau	24		
+聊	liau	24		
+了	liau	53		
+料	liau	11		
+廖	liau	11		
+寥	liau	11		
+焦	t͡siau	44		
+礁	t͡siau	44		
+樵	t͡siau	44		～夫
+昭	t͡siau	44		
+招	t͡siau	44		
+浇	t͡siau	44		
+朝	t͡siau	24	白读	～东，～西
+鸟	t͡siau	53	白读	
+照	t͡siau	11		
+超	t͡sʰiau	44		
+抄	t͡sʰiau	44		
+□	t͡sʰiau	24		理睬
+朝	t͡sʰiau	24	白读	又读，～东，～西
+悄	t͡sʰiau	53		
+俏	t͡sʰiau	53		
+肖	siau	44		
+宵	siau	44		
+消	siau	44		
+硝	siau	44		
+萧	siau	44		
+箫	siau	44		
+□	siau	24		精液
+小	siau	53		
+少	siau	53		
+笑	siau	11		
+数	siau	11		算～：算帐
+绍	siau	11		
+□	ziau	24		皱
+爪	ziau	53		
+扰	ziau	53		
+绕	ziau	53		
+□	ziau	11		挠（痒）
+娇	kiau	44		
+骄	kiau	44		
+□	kiau	44		～头：浇在粉条等面食上的佐料，多用鸡丝、肉丝等做成
+乔	kiau	24		
+侨	kiau	24		
+桥	kiau	24		
+缴	kiau	53		
+饺	kiau	53		
+搅	kiau	53		跋～：赌博
+□	kiau	53		～显～：（小孩）很顽皮
+□	kiau	31		咒骂；拗起来
+叫	kiau	11		
+轿	kiau	11		
+□	kʰiau	44		～骹：抬腿
+跷	kʰiau	44		～ku44：驼背
+翘	kʰiau	11		死～～（一种讥笑或诙谐说法）；弯曲不直
+尧	ɡiau	24		
+饶	ɡiau	24		
+侥	hiau	44		～幸
+骁	hiau	44		～勇
+□	hiau	44		否认说过的话，还跟别人争
+嚣	hiau	44		～张
+晓	hiau	53		
+夭	iau	44		
+妖	iau	44		
+要	iau	44		～求
+么	iau	44		
+吆	iau	44		
+邀	iau	44		
+腰	iau	44		
+窈	iau	44		～窕
+枵	iau	44		饿
+摇	iau	24		
+瑶	iau	24		
+谣	iau	24		
+徭	iau	24		
+□	iau	53		～未来：还未来
+耀	iau	11		
+要	iau	11		重要
+班	pan	44		
+斑	pan	44		
+颁	pan	44		
+瘢	pan	44		
+般	pan	44		
+搬	pan	44		
+瓶	pan	24	白读	
+板	pan	53		
+版	pan	53		
+坂	pan	53		
+阪	pan	53		
+扮	pan	11		
+办	pan	11		
+攀	pʰan	44		
+盼	pʰan	11		
+蛮	ban	24		
+□	ban	53		摘
+万	ban	11		
+曼	ban	11		
+蔓	ban	11		
+慢	ban	11		
+漫	ban	11		
+幔	ban	11		
+丹	tan	44		
+单	tan	44		
+郸	tan	44		
+钉	tan	44	白读	钉子
+耽	tan	44		
+眈	tan	44		
+担	tan	44		～保
+陈	tan	24		姓
+谈	tan	24		
+□	tan	24		湿
+□	tan	24		响
+弹	tan	24		～棉花
+亭	tan	24	白读	路～：路边供行人休息的小亭子
+等	tan	53	白读	
+胆	tan	53		
+淡	tan	31		
+氮	tan	31		
+诞	tan	11		
+旦	tan	11		
+但	tan	11		
+蛋	tan	11		
+惮	tan	11		
+弹	tan	11		子～
+滩	tʰan	44		
+摊	tʰan	44		
+瘫	tʰan	44		
+贪	tʰan	44		
+蛏	tʰan	44	白读	～干
+痰	tʰan	24		
+覃	tʰan	24		
+潭	tʰan	24		
+谭	tʰan	24		
+檀	tʰan	24		
+坛	tʰan	24		
+昙	tʰan	24		
+坦	tʰan	53		
+袒	tʰan	53		～护
+毯	tʰan	53		
+□	tʰan	31		形容走路慢的样子
+叹	tʰan	11		
+炭	tʰan	11		
+趁	tʰan	11		
+探	tʰan	11		
+□	tʰan	11		赚
+□	lan	44		手～：手茧
+□	lan	44		下垂
+兰	lan	24		
+拦	lan	24		
+栏	lan	24		
+澜	lan	24		
+蓝	lan	24		
+褴	lan	24		
+篮	lan	24		
+婪	lan	24		
+南	lan	24		
+楠	lan	24		
+男	lan	24		
+岚	lan	24		
+□	lan	53		咱们
+览	lan	53		
+揽	lan	53		
+滥	lan	11		
+烂	lan	11		
+曾	t͡san	44		姓
+针	t͡san	44	白读	
+簪	t͡san	44		
+层	t͡san	24		
+□	t͡san	24		～猪：阉猪
+盏	t͡san	53		
+斩	t͡san	53		
+崭	t͡san	53		
+站	t͡san	31		
+赞	t͡san	11		
+暂	t͡san	11		
+餐	t͡sʰan	44		
+参	t͡sʰan	44		
+掺	t͡sʰan	44		
+□	t͡sʰan	44		呻吟
+蚕	t͡sʰan	24		
+残	t͡sʰan	24		
+蝉	t͡sʰan	24		
+缠	t͡sʰan	24		
+塍	t͡sʰan	24		田
+馋	t͡sʰan	24		
+□	t͡sʰan	24		形容干活起劲
+产	t͡sʰan	53		
+铲	t͡sʰan	53		～除
+惨	t͡sʰan	53		
+灿	t͡sʰan	11		
+忏	t͡sʰan	11		
+谶	t͡sʰan	11		预言
+删	san	44		
+珊	san	44		
+山	san	44		
+疝	san	44		
+汕	san	44		
+舢	san	44		～板
+杉	san	44		
+三	san	44		
+衫	san	44		
+□	san	44		沾在身上的污垢
+馋	san	24	白读	嘴馋
+□	san	53		瘦
+散	san	11		～步
+干	kan	44		～燥
+奸	kan	44		
+杆	kan	44		
+肝	kan	44		
+艰	kan	44		
+竽	kan	44		
+艰	kan	44		
+间	kan	44		中～
+涧	kan	44		
+甘	kan	44		
+柑	kan	44		
+泔	kan	44		
+疳	kan	44		
+含	kan	24	白读	
+简	kan	53		
+柬	kan	53		
+赶	kan	53		
+感	kan	53		
+敢	kan	53		
+干	kan	11		～部
+间	kan	11		～断
+监	kan	11		
+鉴	kan	11		
+刊	kʰan	44		
+牵	kʰan	44	白读	～牛
+戡	kʰan	44		
+堪	kʰan	44		
+龛	kʰan	44		佛～
+砍	kʰan	53		
+坎	kʰan	53		
+侃	kʰan	53		
+看	kʰan	11		
+颜	ɡan	24		
+岩	ɡan	24		
+癌	ɡan	24		
+□	ɡan	24		冷
+眼	ɡan	53		
+雁	ɡan	11		
+谚	ɡan	11		
+□	ɡan	11		～水：审察
+蚶	han	44		
+酣	han	44		
+鼾	han	44		
+憨	han	44		
+韩	han	24		
+闲	han	24		
+寒	han	24		
+函	han	24		
+涵	han	24		
+咸	han	24		
+衔	han	24		
+翰	han	24		
+瀚	han	24		
+含	han	24		
+邯	han	24		
+闲	han	24		
+娴	han	24		
+罕	han	53		
+喊	han	53		
+限	han	31		
+旱	han	31		
+撼	han	31		
+汉	han	11		
+汗	han	11		
+焊	han	11		
+陷	han	11		
+憾	han	11		
+翰	han	11		～林
+岸	han	11		
+安	an	44		
+氨	an	44		
+鞍	an	44		
+痷	an	44		
+□	an	24		紧
+饮	an	53	白读	米汤
+案	an	11		
+按	an	11		
+暗	an	11		
+宴	an	11		又读，～会
+边	pian	44		
+鞭	pian	44		
+编	pian	44		
+扁	pian	53		
+匾	pian	53		
+蝙	pian	53		
+贬	pian	53		
+辨	pian	31		
+辩	pian	31		
+辫	pian	31		
+遍	pian	11		
+变	pian	11		
+卞	pian	11		
+便	pian	11		方～
+偏	pʰian	44		
+篇	pʰian	44		
+翩	pʰian	44		
+骈	pʰian	24		
+骗	pʰian	11		
+片	pʰian	11		
+棉	bian	24		
+绵	bian	24		
+眠	bian	24		
+免	bian	53		
+勉	bian	53		
+娩	bian	53		
+冕	bian	53		
+面	bian	11		
+缅	bian	11		
+颠	tian	44		
+癫	tian	44		
+砧	tian	44	白读	案板
+踮	tian	44		用脚趾走路
+巅	tian	44		
+田	tian	24		
+滇	tian	24		
+填	tian	24		
+展	tian	53		
+典	tian	53		
+碘	tian	53		
+点	tian	53		
+垫	tian	31		
+电	tian	11		
+殿	tian	11		
+奠	tian	11		
+佃	tian	11		
+淀	tian	11		
+甸	tian	11		
+店	tian	11		
+□	tian	11		人藏起来
+天	tʰian	44		
+添	tʰian	44		
+甜	tʰian	24		
+舔	tʰian	24		
+恬	tʰian	24		
+展	tʰian	53	白读	
+□	tʰian	53		张开
+□	tʰian	11		增添
+拈	lian	44		
+粘	lian	44		
+捻	lian	44		
+□	lian	44		～手～骹：蹑手蹑脚
+蔫	lian	44		
+连	lian	24		
+莲	lian	24		
+琏	lian	24		
+涟	lian	24		
+鲢	lian	24		
+廉	lian	24		
+镰	lian	24		
+年	lian	24		
+联	lian	24		
+辇	lian	53		
+撵	lian	53		
+脸	lian	53		
+敛	lian	53		
+殓	lian	53		
+碾	lian	53		
+念	lian	11		
+炼	lian	11		
+练	lian	11		
+链	lian	11		
+尖	t͡sian	44		
+笺	t͡sian	44		
+煎	t͡sian	44		
+沾	t͡sian	44		
+前	t͡sian	24		
+钱	t͡sian	24		
+潜	t͡sian	24		
+剪	t͡sian	53		
+翦	t͡sian	53		
+溅	t͡sian	31		
+占	t͡sian	11		
+战	t͡sian	11		
+贱	t͡sian	11		
+荐	t͡sian	11		
+箭	t͡sian	11		
+渐	t͡sian	11		
+践	t͡sian	11		
+□	t͡sian	11		（孩子）玩耍
+千	t͡sʰian	44		
+迁	t͡sʰian	44		
+阡	t͡sʰian	44		
+纤	t͡sʰian	44		
+歼	t͡sʰian	44		～灭
+跹	t͡sʰian	44		
+扦	t͡sʰian	44		
+仟	t͡sʰian	44		
+签	t͡sʰian	44		
+□	t͡sʰian	44		确准
+□	t͡sʰian	44		钻（入水中）
+钎	t͡sʰian	24		铁～，钢～
+浅	t͡sʰian	53		
+□	t͡sʰian	11		（刀）刺
+先	sian	44		
+仙	sian	44		
+籼	sian	44		
+鲜	sian	44		～明，朝～
+婵	sian	24		
+禅	sian	24		
+单	sian	24		姓
+闪	sian	53		
+陕	sian	53		
+癣	sian	53		
+善	sian	31		
+蟮	sian	31		
+鳝	sian	31		
+膳	sian	31		
+缮	sian	31		
+线	sian	11		
+羡	sian	11		
+暹	sian	11		
+扇	sian	11		～动，电～
+然	zian	24		
+冉	zian	53		
+髯	zian	53		
+染	zian	53		
+燃	zian	53		
+兼	kian	44		
+捐	kian	44		
+娟	kian	44		
+肩	kian	44		
+坚	kian	44		
+菅	kian	44		草～人命
+咸	kian	24		～显～：很咸
+减	kian	53		
+碱	kian	53		
+检	kian	53		
+茧	kian	53		
+件	kian	31		
+腱	kian	31	白读	
+见	kian	11		
+剑	kian	11		
+建	kian	11		
+健	kian	11		
+腱	kian	11		
+牵	kʰian	44		
+骞	kʰian	44		
+谦	kʰian	44		
+乾	kʰian	24		～坤
+虔	kʰian	24		
+犬	kʰian	53		
+遣	kʰian	53		
+谴	kʰian	53		
+歉	kʰian	53		
+俭	kʰian	31		
+欠	kʰian	11		
+堑	kʰian	11		
+茜	kʰian	11		
+倩	kʰian	11		
+研	ɡian	44		
+言	ɡian	24		
+唁	ɡian	24		
+严	ɡian	24		
+阎	ɡian	24		
+俨	ɡian	53		～然
+□	ɡian	31		～头：瘾
+验	ɡian	11		
+轩	hian	44		
+掀	hian	44		
+玄	hian	24		
+弦	hian	24		
+舷	hian	24		
+炫	hian	24		
+贤	hian	24		
+嫌	hian	24		
+显	hian	53		
+险	hian	53		
+岘	hian	31		
+县	hian	11		
+悬	hian	11		
+现	hian	11		
+宪	hian	11		
+献	hian	11		
+砚	hian	11		
+渊	ian	44		
+烟	ian	44		
+咽	ian	44		
+胭	ian	44		
+焉	ian	44		
+嫣	ian	44		
+阉	ian	44		
+淹	ian	44		
+腌	ian	44		
+燕	ian	44		～京
+沿	ian	24		
+铅	ian	24		～笔
+船	ian	24		
+延	ian	24		
+筵	ian	24		
+蜒	ian	24		
+盐	ian	24		
+演	ian	53		
+衍	ian	53		
+掩	ian	53		
+□	ian	31		～过～：犹豫不安
+宴	ian	11		～会
+堰	ian	11		
+燕	ian	11		～子
+厌	ian	11		
+炎	ian	11		
+焰	ian	11		
+艳	ian	11		
+□	ian	11		父母称儿媳
+盘	puan	24		～点
+半	puan	11		
+盘	pʰuan	24		～古
+判	pʰuan	31		
+伴	pʰuan	31		
+拌	pʰuan	31		
+叛	pʰuan	11		背～
+瞒	buan	24		
+满	buan	53		
+晚	buan	53		
+挽	buan	53		
+端	tuan	44		
+传	tuan	24		宣～
+短	tuan	53		
+断	tuan	31		
+段	tuan	31		
+锻	tuan	31		
+缎	tuan	31		
+传	tuan	11		自～
+□	tuan	11		事先说好；～价：讨价还价
+团	tʰuan	24		
+篆	tʰuan	24		
+峦	luan	24		
+恋	luan	24		
+孪	luan	24		
+銮	luan	24		
+鸾	luan	24		
+滦	luan	24		
+暖	luan	53		
+软	luan	53		
+卵	luan	53		
+乱	luan	11		
+专	t͡suan	44		
+砖	t͡suan	44		
+钻	t͡suan	44		
+全	t͡suan	24		
+泉	t͡suan	24		
+转	t͡suan	53		
+撰	t͡suan	11		
+川	t͡sʰuan	44		
+穿	t͡sʰuan	44		
+铨	t͡sʰuan	44		
+痊	t͡sʰuan	44		
+荃	t͡sʰuan	44		
+喘	t͡sʰuan	53		
+串	t͡sʰuan	11		
+窜	t͡sʰuan	11		
+篡	t͡sʰuan	11		～位
+纂	t͡sʰuan	11		
+宣	suan	44		
+酸	suan	44		
+喧	suan	44		
+栓	suan	44		
+拴	suan	44		
+旋	suan	24		～转，凯～
+璇	suan	24		
+选	suan	53		
+算	suan	11		
+蒜	suan	11		
+冠	kuan	44		～军，衣冠
+观	kuan	44		
+关	kuan	44		
+官	kuan	44		
+棺	kuan	44		
+鹃	kuan	44		
+鳏	kuan	44		
+权	kuan	24		
+颧	kuan	24		～骨
+管	kuan	53		
+馆	kuan	53		
+卷	kuan	53		～动
+贯	kuan	11		
+惯	kuan	11		
+灌	kuan	11		
+罐	kuan	11		
+眷	kuan	11		
+卷	kuan	11		考～
+倦	kuan	11		
+观	kuan	11		贞～
+宽	kʰuan	44		
+圈	kʰuan	44		
+环	kʰuan	24	白读	～绕
+款	kʰuan	53		
+劝	kʰuan	11		
+原	ɡuan	24		
+源	ɡuan	24		
+阮	ɡuan	53		
+玩	ɡuan	53		
+顽	ɡuan	53		
+愿	ɡuan	11		
+欢	huan	44		
+番	huan	44		
+翻	huan	44		
+幡	huan	44		
+藩	huan	44		曾国～
+吩	huan	44	白读	～咐
+凡	huan	24		
+矾	huan	24		
+帆	huan	24		
+还	huan	24		
+环	huan	24		玉～（地名）
+寰	huan	24		
+烦	huan	24		
+桓	huan	24		
+繁	huan	24		
+烦	huan	24		
+樊	huan	24		
+宦	huan	24		
+梵	huan	24		
+反	huan	53		
+返	huan	53		
+犯	huan	31		
+范	huan	31		
+浣	huan	31		
+患	huan	31		
+泛	huan	31		
+幻	huan	31		
+饭	huan	11		
+贩	huan	11		
+唤	huan	11		
+焕	huan	11		
+换	huan	11		
+涣	huan	11		
+絭	huan	11		
+□	huan	11		形容有弹性
+弯	uan	44		
+湾	uan	44		
+冤	uan	44		
+鸳	uan	44		
+园	uan	24		
+圆	uan	24		
+员	uan	24		
+元	uan	24		
+完	uan	24		
+丸	uan	24		
+纨	uan	24		
+袁	uan	24		
+猿	uan	24		
+院	uan	24		
+宛	uan	53		
+惋	uan	53		
+碗	uan	53		
+婉	uan	53		
+豌	uan	53		
+腕	uan	53		
+琬	uan	53		
+剜	uan	53		
+苑	uan	53		
+畹	uan	53		
+远	uan	53		
+皖	uan	53		
+缓	uan	31		
+援	uan	31		
+怨	uan	11		
+邦	paŋ	44		
+崩	paŋ	44	白读	
+枋	paŋ	44		木板
+房	paŋ	24	白读	
+缝	paŋ	24	白读	
+蚌	paŋ	53		
+绑	paŋ	53		
+放	paŋ	11		
+乓	pʰaŋ	44		
+芳	pʰaŋ	44	白读	香
+蜂	pʰaŋ	44	白读	
+篷	pʰaŋ	24		船～
+庞	pʰaŋ	24		
+冯	pʰaŋ	24		
+□	pʰaŋ	24		双手用盘端东西
+彭	pʰaŋ	24		
+纺	pʰaŋ	53	白读	
+缝	pʰaŋ	11	白读	裂缝
+蠓	baŋ	53	白读	蚊子
+网	baŋ	31	白读	
+梦	baŋ	11	白读	
+冬	taŋ	44	白读	
+东	taŋ	44	白读	
+当	taŋ	44	白读	～心
+铛	taŋ	44		
+同	taŋ	24	白读	相～
+铜	taŋ	24	白读	
+筒	taŋ	24	白读	大骹～：小腿浮肿
+董	taŋ	53	白读	古～
+重	taŋ	31	白读	轻～
+动	taŋ	31	白读	活～
+冻	taŋ	11	白读	
+窗	tʰaŋ	44	白读	～：窗戶
+虫	tʰaŋ	24	白读	
+桐	tʰaŋ	24	白读	～油
+桶	tʰaŋ	53	白读	
+□	laŋ	44		胳～骹：腋下
+□	laŋ	44		疏～：稀疏
+脓	laŋ	24	白读	
+侬	laŋ	24		人
+郎	laŋ	24	白读	新～
+聋	laŋ	24	白读	
+砻	laŋ	24		
+笼	laŋ	53	白读	
+笼	laŋ	31	白读	放筷子的家具
+弄	laŋ	11	白读	戏～
+棕	t͡saŋ	44	白读	
+鬃	t͡saŋ	44	白读	马～
+脏	t͡saŋ	44		
+株	t͡saŋ	24	白读	一～树
+粽	t͡saŋ	11	白读	
+葱	t͡sʰaŋ	44	白读	
+苍	t͡sʰaŋ	44	白读	染～：一种深蓝颜色
+耸	t͡sʰaŋ	11	白读	头毛～～：头发蓬松四散
+松	saŋ	44	白读	放～
+双	saŋ	44	白读	
+桑	saŋ	44	白读	
+送	saŋ	11	白读	
+江	kaŋ	44		
+工	kaŋ	44	白读	～夫
+公	kaŋ	44	白读	雄性
+蚣	kaŋ	44	白读	蜈～
+讲	kaŋ	53		
+港	kaŋ	53		
+降	kaŋ	53		下～
+共	kaŋ	53		相～：帮助
+空	kʰaŋ	44	白读	
+□	kʰaŋ	11		抠
+□	kʰaŋ	11		～野：调皮，好玩耍
+夯	haŋ	44		
+烘	haŋ	44	白读	
+行	haŋ	24		银～
+降	haŋ	24		投～
+航	haŋ	24		
+杭	haŋ	24		
+项	haŋ	31		
+巷	haŋ	11		
+肮	aŋ	44		
+翁	aŋ	44	白读	～某：夫妻
+红	aŋ	24	白读	
+洪	aŋ	24	白读	～秀全
+瓮	aŋ	11	白读	
+谁	tiaŋ	24	白读	
+漳	t͡siaŋ	44	白读	～州（地名）
+涨	t͡siaŋ	53		
+□	t͡siaŋ	31		纯粹
+□	kʰiaŋ	11		形容极好
+扬	iaŋ	24	白读	
+□	kʰuaŋ	31		敲锣声
+风	huaŋ	44	白读	刮～
+慌	huaŋ	44	白读	～里～张
+谎	huaŋ	44	白读	
+针	t͡sən	44		
+箴	t͡sən	44		
+森	sən	44		
+参	sən	44		海～，人～
+斤	kən	44		
+巾	kən	44		
+根	kən	44		
+跟	kən	44		
+筋	kən	44		
+均	kən	44		
+钧	kən	44		
+近	kən	31		
+啃	kʰən	44		
+坤	kʰən	44		
+勤	kʰən	24		
+芹	kʰən	24		～菜
+恳	kʰən	53		
+银	ɡən	24		
+欣	hən	44		
+馨	hən	44		
+痕	hən	24		
+很	hən	53		
+狠	hən	53		
+恨	hən	11		
+恩	ən	44		
+殷	ən	44		
+□	ən	24		字～：辈份；层
+允	ən	53		
+隐	ən	53		
+稳	ən	53		
+□	ən	11		波及
+宾	pin	44		
+滨	pin	44		
+缤	pin	44		
+彬	pin	44		
+斌	pin	44		
+扁	pin	44	白读	～担
+贫	pin	24		
+频	pin	24		
+濒	pin	24		
+禀	pin	53		
+秉	pin	53		
+殡	pin	11		
+膑	pin	11		
+鬓	pin	11		
+槟	pin	11		
+频	pʰin	24		又读
+品	pʰin	53		
+□	pʰin	53		鱼被捕后挣扎跳跃的样子
+民	bin	24		
+眠	bin	24		
+岷	bin	24		
+闽	bin	53		
+敏	bin	53		
+闵	bin	53		
+悯	bin	53		
+面	bin	11		
+珍	tin	44		
+诊	tin	44		
+津	tin	44		
+尘	tin	24		
+藤	tin	24		
+沉	tin	24		
+陈	tin	24		～茶叶，～列
+镇	tin	11		
+阵	tin	11		～势
+圳	tin	11		深～
+朕	tin	11		
+□	tin	11		蒸
+□	tin	11		点头
+琛	tʰin	44		
+□	tʰin	24		～酒：斟酒
+□	tʰin	11		对称
+□	lin	44		～酒：小口地饮酒
+怜	lin	24		
+邻	lin	24		
+磷	lin	24		
+麟	lin	24		
+鳞	lin	24		
+林	lin	24		
+淋	lin	24		
+琳	lin	24		
+霖	lin	24		
+临	lin	24		
+凛	lin	53		
+廪	lin	53		
+恁	lin	53		你们
+吝	lin	11		
+佞	lin	11		
+□	lin	11		刚睡着
+真	t͡sin	44		
+斟	t͡sin	44		
+秦	t͡sin	24		
+震	t͡sin	53		
+振	t͡sin	53		
+赈	t͡sin	53		
+拯	t͡sin	53		包～
+枕	t͡sin	53		～头
+婶	t͡sin	53	白读	
+□	t͡sin	53		挤
+尽	t͡sin	31		
+进	t͡sin	11		
+晋	t͡sin	11		
+烬	t͡sin	11		
+浸	t͡sin	11		
+亲	t͡sʰin	44		
+深	t͡sʰin	44		
+寝	t͡sʰin	53		
+侵	t͡sʰin	53		
+秤	t͡sʰin	11		
+称	t͡sʰin	11	白读	
+□	t͡sʰin	11		冷，凉
+新	sin	44		
+薪	sin	44		
+心	sin	44		
+芯	sin	44		
+申	sin	44		
+伸	sin	44		
+身	sin	44		
+辛	sin	44		
+锌	sin	44		
+神	sin	24		
+臣	sin	24		
+辰	sin	24		
+晨	sin	24		
+寻	sin	24		
+绳	sin	24		
+丞	sin	24		～相
+□	sin	24		用手接落下的东西
+迅	sin	53		
+审	sin	53		
+沈	sin	53		～阳
+讯	sin	53		
+汛	sin	53		
+□	sin	31		～一下：思考一下
+信	sin	11		
+慎	sin	11		
+剩	sin	11		
+甚	sin	11		
+人	zin	24		
+仁	zin	24		
+忍	zin	53		
+韧	zin	53		
+认	zin	11		
+任	zin	11		
+金	kin	44		
+今	kin	44		
+紧	kin	53		
+锦	kin	53		
+妗	kin	31		
+禁	kin	11		
+谨	kin	11		
+仅	kin	11		
+轻	kʰin	44		
+氢	kʰin	44		
+琴	kʰin	24		
+禽	kʰin	24		
+擒	kʰin	24		
+黔	kʰin	24		
+吟	ɡin	24		～诗
+熊	hin	24	白读	
+眩	hin	24	白读	头晕
+因	in	44		
+茵	in	44		
+姻	in	44		
+阴	in	44		
+荫	in	44		
+音	in	44		
+□	in	44		绕线
+淹	in	44	白读	
+寅	in	24		
+淫	in	24		
+引	in	53		
+饮	in	53		
+印	in	11		
+孕	in	11		
+分	pun	44	白读	～开
+奔	pun	44		
+□	pun	24		～火：吹火
+本	pun	53		
+笨	pun	31		
+粪	pun	11	白读	
+潘	pʰun	44		泔水
+□	pʰun	44		～珠：玉米
+喷	pʰun	11		
+文	bun	24		
+汶	bun	24		
+纹	bun	24		
+雯	bun	24		
+门	bun	24		
+们	bun	24		
+扪	bun	24		
+闻	bun	24		
+吻	bun	53		
+刎	bun	53		
+问	bun	11		
+闷	bun	11		
+敦	tun	44		
+墩	tun	44		
+蹲	tun	44		
+盾	tun	53		
+囤	tun	53		
+顿	tun	31		
+钝	tun	31		
+盹	tun	31		
+遁	tun	31		
+吞	tʰun	44		
+屯	tʰun	24		
+豚	tʰun	24		猪～：正在长大的小猪
+唇	tʰun	24		
+填	tʰun	11	白读	～海
+□	lun	44		以刀绕物切削：～甘蔗
+仑	lun	24		
+沦	lun	24		
+伦	lun	24		
+轮	lun	24		
+论	lun	24		～语
+抡	lun	24		
+忍	lun	53	白读	
+论	lun	11		议～
+嫩	lun	11		
+闰	lun	11		～月
+尊	t͡sun	44		
+遵	t͡sun	44		
+樽	t͡sun	44		
+谆	t͡sun	44		
+船	t͡sun	24	白读	
+存	t͡sun	24		
+准	t͡sun	53		
+俊	t͡sun	11		
+春	t͡sʰun	44		
+村	t͡sʰun	44		
+皴	t͡sʰun	44		
+存	t͡sʰun	24	白读	保留备用
+蠢	t͡sʰun	53		
+寸	t͡sʰun	11		
+孙	sun	44		
+纯	sun	24		
+旬	sun	24		
+洵	sun	24		
+殉	sun	24		
+荀	sun	24		
+醇	sun	24		
+巡	sun	24		
+□	sun	24		形容性格温顺
+笋	sun	53		
+损	sun	53		
+榫	sun	53		～头
+舜	sun	11		
+瞬	sun	11		
+逊	sun	11		
+顺	sun	11		
+润	zun	11		
+军	kun	44		
+君	kun	44		
+群	kun	24		
+裙	kun	24		
+拳	kun	24		
+滚	kun	53		
+鲧	kun	53		
+棍	kun	11		
+郡	kun	11		
+昆	kʰun	44		
+琨	kʰun	44		
+鲲	kʰun	44		
+□	kʰun	24		草～：稻草垛
+捆	kʰun	53		
+菌	kʰun	53		
+困	kʰun	11		
+□	ɡun	53		我们
+昏	hun	44		
+婚	hun	44		
+分	hun	44		
+芬	hun	44		
+吩	hun	44		
+汾	hun	44		
+纷	hun	44		
+勋	hun	44		
+熏	hun	44		
+薰	hun	44		
+荤	hun	44		
+云	hun	24		
+魂	hun	24		
+坟	hun	24		
+焚	hun	24		
+浑	hun	24		
+珲	hun	24		
+粉	hun	53		
+奋	hun	53		
+混	hun	31		
+晕	hun	31		
+份	hun	11		
+忿	hun	11		
+氛	hun	11		
+训	hun	11		
+驯	hun	11		
+愤	hun	11		
+粪	hun	11		
+温	un	44		
+瘟	un	44		
+匀	un	24		
+耘	un	24		
+稳	un	53		
+□	un	11		～一下：蘸一下
+蕴	un	11		
+愠	un	11		
+运	un	11		
+酝	un	11		
+韵	un	11		
+兵	piŋ	44		
+冰	piŋ	44		
+平	piŋ	24		
+坪	piŋ	24		
+苹	piŋ	24		
+萍	piŋ	24		
+屏	piŋ	24		
+瓶	piŋ	24		
+朋	piŋ	24		
+凭	piŋ	24		
+丙	piŋ	53		
+炳	piŋ	53		
+饼	piŋ	53		
+秉	piŋ	53		又读
+禀	piŋ	53		又读
+並	piŋ	11		
+并	piŋ	11		合～
+柄	piŋ	11		把～
+病	piŋ	11		
+乒	pʰiŋ	44		
+评	pʰiŋ	24		
+彭	pʰiŋ	24		
+澎	pʰiŋ	24		
+膨	pʰiŋ	24		
+姘	pʰiŋ	11		
+拼	pʰiŋ	11		
+聘	pʰiŋ	11		
+明	biŋ	24		
+盟	biŋ	24		
+萌	biŋ	24		
+名	biŋ	24		
+铭	biŋ	24		
+孟	biŋ	53		
+猛	biŋ	53		
+蜢	biŋ	53		
+锰	biŋ	53		
+冥	biŋ	53		
+暝	biŋ	53		
+螟	biŋ	53		
+命	biŋ	11		～令
+丁	tiŋ	44		
+汀	tiŋ	44		
+灯	tiŋ	44		
+钉	tiŋ	44		铁～
+疔	tiŋ	44		
+盯	tiŋ	44		
+登	tiŋ	44		
+亭	tiŋ	24		
+婷	tiŋ	24		
+廷	tiŋ	24		
+庭	tiŋ	24		
+等	tiŋ	53		
+顶	tiŋ	53		
+鼎	tiŋ	53		
+锭	tiŋ	31		
+澄	tiŋ	31		～清
+定	tiŋ	11		
+钉	tiŋ	11		～钉
+订	tiŋ	11		制～
+厅	tʰiŋ	44		
+汀	tʰiŋ	44		
+听	tʰiŋ	44		
+呈	tʰiŋ	24		
+程	tʰiŋ	24		
+停	tʰiŋ	24		
+誊	tʰiŋ	24		
+滕	tʰiŋ	24		
+霆	tʰiŋ	24		
+挺	tʰiŋ	53		
+铤	tʰiŋ	53		
+艇	tʰiŋ	53		
+听	tʰiŋ	11		～侯
+□	liŋ	44		的～：铃声
+伶	liŋ	24		
+囹	liŋ	24		
+玲	liŋ	24		
+铃	liŋ	24		
+羚	liŋ	24		
+聆	liŋ	24		
+苓	liŋ	24		
+翎	liŋ	24		
+蛉	liŋ	24		
+龄	liŋ	24		
+零	liŋ	24		
+能	liŋ	24		
+龙	liŋ	24	白读	
+宁	liŋ	24		
+凌	liŋ	24		
+陵	liŋ	24		
+另	liŋ	24		～外
+冷	liŋ	53		
+岭	liŋ	53		
+领	liŋ	53		
+菱	liŋ	31		
+令	liŋ	11		
+曾	t͡siŋ	44		～经
+增	t͡siŋ	44		
+憎	t͡siŋ	44		
+僧	t͡siŋ	44		
+征	t͡siŋ	44		
+争	t͡siŋ	44		
+睁	t͡siŋ	44		
+挣	t͡siŋ	44		
+狰	t͡siŋ	44		
+筝	t͡siŋ	44		
+贞	t͡siŋ	44		
+侦	t͡siŋ	44		
+桢	t͡siŋ	44		
+祯	t͡siŋ	44		
+精	t͡siŋ	44		
+睛	t͡siŋ	44		
+晶	t͡siŋ	44		
+蒸	t͡siŋ	44		
+钟	t͡siŋ	44		
+□	t͡siŋ	44	白读	敲打
+甄	t͡siŋ	44		
+惩	t͡siŋ	44		
+情	t͡siŋ	24		
+晴	t͡siŋ	24		
+整	t͡siŋ	53		
+肿	t͡siŋ	53	白读	
+种	t͡siŋ	53	白读	～子
+井	t͡siŋ	53		
+静	t͡siŋ	31		
+靖	t͡siŋ	31		
+净	t͡siŋ	31		
+正	t͡siŋ	11		
+政	t͡siŋ	11		
+证	t͡siŋ	11		
+症	t͡siŋ	11		
+众	t͡siŋ	11	白读	
+种	t͡siŋ	11	白读	～菜
+青	t͡sʰiŋ	44		
+清	t͡sʰiŋ	44		
+蜻	t͡sʰiŋ	44		
+称	t͡sʰiŋ	44		～呼
+请	t͡sʰiŋ	53		
+□	t͡sʰiŋ	11		穿
+铳	t͡sʰiŋ	11		一种旧式火器
+生	siŋ	44		
+甥	siŋ	44		
+笙	siŋ	44		
+牲	siŋ	44		
+星	siŋ	44		
+腥	siŋ	44		
+声	siŋ	44		
+升	siŋ	44		
+成	siŋ	24		
+诚	siŋ	24		
+城	siŋ	24		
+承	siŋ	24		
+乘	siŋ	24		
+省	siŋ	53		反～，浙江～
+醒	siŋ	53		～悟
+盛	siŋ	11		
+胜	siŋ	11		
+性	siŋ	11		
+姓	siŋ	11		
+圣	siŋ	11		
+□	siŋ	11		用双脚踩实东西
+经	kiŋ	44		
+耕	kiŋ	44		
+弓	kiŋ	44	白读	
+宫	kiŋ	44	白读	
+荆	kiŋ	44		
+更	kiŋ	44		三～，～改
+庚	kiŋ	44		
+羹	kiŋ	44		
+京	kiŋ	44		
+惊	kiŋ	44		
+鲸	kiŋ	44		
+穷	kiŋ	24	白读	～鬼
+景	kiŋ	53		
+憬	kiŋ	53		
+境	kiŋ	53		
+耿	kiŋ	53		
+痉	kiŋ	11		
+警	kiŋ	11		
+竟	kiŋ	11		
+兢	kiŋ	11		
+竞	kiŋ	11		
+镜	kiŋ	11		
+劲	kiŋ	11		
+径	kiŋ	11		
+□	kiŋ	11		
+更	kiŋ	11		～加
+敬	kiŋ	11		
+儆	kiŋ	11		
+卿	kʰiŋ	44		
+钦	kʰiŋ	44		
+□	kʰiŋ	44		过滤
+筐	kʰiŋ	44	白读	
+框	kʰiŋ	44	白读	
+顷	kʰiŋ	53		
+倾	kʰiŋ	53		～向
+肯	kʰiŋ	53		
+□	kʰiŋ	31		因病忌讳吃东西
+虹	kʰiŋ	11		
+庆	kʰiŋ	11		
+罄	kʰiŋ	11		～竹难书
+迎	ɡiŋ	24		
+凝	ɡiŋ	24		
+硬	ɡiŋ	31		
+兴	hiŋ	44		～起
+兄	hiŋ	44		
+□	hiŋ	44		以槌击水的动作
+形	hiŋ	24		
+型	hiŋ	24		
+刑	hiŋ	24		
+邢	hiŋ	24		
+行	hiŋ	24		～为
+恒	hiŋ	24		
+衡	hiŋ	24		
+享	hiŋ	53		
+杏	hiŋ	31		
+幸	hiŋ	11		
+兴	hiŋ	11		高～
+行	hiŋ	11		品～
+应	iŋ	44		～该
+鹰	iŋ	44		
+莺	iŋ	44		
+英	iŋ	44		
+瑛	iŋ	44		
+婴	iŋ	44		
+缨	iŋ	44		
+樱	iŋ	44		
+鹦	iŋ	44		
+荣	iŋ	24		
+营	iŋ	24		
+萤	iŋ	24		
+荧	iŋ	24		
+萦	iŋ	24		
+茔	iŋ	24		
+盈	iŋ	24		
+赢	iŋ	24		
+瀛	iŋ	24		
+永	iŋ	53	白读	～古：永久
+影	iŋ	53		
+用	iŋ	11	白读	
+佣	iŋ	11	白读	
+应	iŋ	11		答～
+映	iŋ	11		
+颖	iŋ	11		
+泳	iŋ	11		
+咏	iŋ	11		
+□	iŋ	11		灌溉
+帮	pɔŋ	44		
+梆	pɔŋ	44		
+旁	pɔŋ	24		
+房	pɔŋ	24		
+傍	pɔŋ	24		
+膀	pɔŋ	24		
+彷	pɔŋ	24		
+榜	pɔŋ	53		
+磅	pɔŋ	53		
+□	pɔŋ	31		米煮滚后溢出
+□	pɔŋ	31		消息很快传开
+谤	pɔŋ	31		
+泵	pɔŋ	31		
+蓬	pʰɔŋ	24		
+捧	pʰɔŋ	53		
+碰	pʰɔŋ	11		
+□	pʰɔŋ	11		凸出来
+亡	bɔŋ	24		
+忙	bɔŋ	24		
+芒	bɔŋ	24		
+茫	bɔŋ	24		
+虻	bɔŋ	24		
+蒙	bɔŋ	24		
+朦	bɔŋ	24		
+莽	bɔŋ	53		
+蟒	bɔŋ	53		
+网	bɔŋ	53		
+懵	bɔŋ	53		～懂
+妄	bɔŋ	53		～来：乱来，蛮干
+梦	bɔŋ	11		
+望	bɔŋ	11		
+□	tɔŋ	44		
+冬	tɔŋ	44		
+当	tɔŋ	44		应～
+裆	tɔŋ	44		
+铛	tɔŋ	44		
+同	tɔŋ	24		
+筒	tɔŋ	24		
+桐	tɔŋ	24		
+铜	tɔŋ	24		
+唐	tɔŋ	24		
+塘	tɔŋ	24		
+堂	tɔŋ	24		
+膛	tɔŋ	24		
+童	tɔŋ	24		
+潼	tɔŋ	24		
+僮	tɔŋ	24		
+瞳	tɔŋ	24		
+彤	tɔŋ	24		
+党	tɔŋ	53		
+董	tɔŋ	53		
+懂	tɔŋ	53		
+动	tɔŋ	31		
+洞	tɔŋ	11		
+荡	tɔŋ	11		
+冻	tɔŋ	11		
+栋	tɔŋ	11		
+当	tɔŋ	11		～真
+挡	tɔŋ	11		
+通	tʰɔŋ	44		
+统	tʰɔŋ	53		
+桶	tʰɔŋ	53		
+捅	tʰɔŋ	53		
+倘	tʰɔŋ	53		
+痛	tʰɔŋ	11		
+农	lɔŋ	24		
+浓	lɔŋ	24		
+脓	lɔŋ	24		
+隆	lɔŋ	24		
+狼	lɔŋ	24		
+郎	lɔŋ	24		
+廊	lɔŋ	24		
+榔	lɔŋ	24		
+龙	lɔŋ	24		
+笼	lɔŋ	24		
+垄	lɔŋ	24		
+拢	lɔŋ	53		
+陇	lɔŋ	53		
+朗	lɔŋ	53		
+琅	lɔŋ	53		
+弄	lɔŋ	11		
+浪	lɔŋ	11		
+宗	t͡sɔŋ	44		
+综	t͡sɔŋ	44		
+踪	t͡sɔŋ	44		
+棕	t͡sɔŋ	44		
+庄	t͡sɔŋ	44		
+奘	t͡sɔŋ	44		
+装	t͡sɔŋ	44		
+藏	t͡sɔŋ	24		
+总	t͡sɔŋ	53		
+壮	t͡sɔŋ	11		
+状	t͡sɔŋ	11		
+葬	t͡sɔŋ	11		
+粽	t͡sɔŋ	11		
+仓	t͡sʰɔŋ	44		
+苍	t͡sʰɔŋ	44		
+沧	t͡sʰɔŋ	44		
+舱	t͡sʰɔŋ	44		
+疮	t͡sʰɔŋ	44		
+聪	t͡sʰɔŋ	44		
+匆	t͡sʰɔŋ	44		
+葱	t͡sʰɔŋ	44		
+丛	t͡sʰɔŋ	24		～书
+创	t͡sʰɔŋ	11		
+松	sɔŋ	44		
+双	sɔŋ	44		
+丧	sɔŋ	44		婚～
+桑	sɔŋ	44		
+霜	sɔŋ	44		
+孀	sɔŋ	44		
+爽	sɔŋ	53		
+宋	sɔŋ	11		
+送	sɔŋ	11		
+颂	sɔŋ	11		
+诵	sɔŋ	11		
+光	kɔŋ	44		
+工	kɔŋ	44		
+功	kɔŋ	44		
+攻	kɔŋ	44		
+缸	kɔŋ	44		
+公	kɔŋ	44		
+蚣	kɔŋ	44		
+狂	kɔŋ	24		
+诳	kɔŋ	24		
+逛	kɔŋ	24		
+广	kɔŋ	53		
+讲	kɔŋ	53	白读	～话
+栱	kɔŋ	53		米～：量米的器具
+贡	kɔŋ	11		
+杠	kɔŋ	11		
+拱	kɔŋ	11		
+空	kʰɔŋ	44		
+匡	kʰɔŋ	44		
+框	kʰɔŋ	44		
+康	kʰɔŋ	44		
+慷	kʰɔŋ	44		
+糠	kʰɔŋ	44		
+□	kʰɔŋ	24		～工夫：浪费、担搁时间
+□	kʰɔŋ	24		窑
+孔	kʰɔŋ	53		
+矿	kʰɔŋ	11		
+旷	kʰɔŋ	11		
+抗	kʰɔŋ	11		
+空	kʰɔŋ	11		亏～
+控	kʰɔŋ	11		
+昂	ɡɔŋ	24		
+戆	ɡɔŋ	11		笨，傻
+方	hɔŋ	44		
+肪	hɔŋ	44		
+芳	hɔŋ	44		
+风	hɔŋ	44		
+讽	hɔŋ	44		
+枫	hɔŋ	44		
+丰	hɔŋ	44		
+封	hɔŋ	44		
+峰	hɔŋ	44		
+蜂	hɔŋ	44		
+锋	hɔŋ	44		
+烽	hɔŋ	44		
+荒	hɔŋ	44		
+慌	hɔŋ	44		
+谎	hɔŋ	44		
+红	hɔŋ	24		
+鸿	hɔŋ	24		
+逢	hɔŋ	24		
+缝	hɔŋ	24		
+防	hɔŋ	24		
+弘	hɔŋ	24		
+宏	hɔŋ	24		
+虹	hɔŋ	24		
+洪	hɔŋ	24		
+皇	hɔŋ	24		
+蝗	hɔŋ	24		
+凰	hɔŋ	24		
+徨	hɔŋ	24		
+黄	hɔŋ	24		
+簧	hɔŋ	24		
+□	hɔŋ	24		毒蛇的毒液
+仿	hɔŋ	53		
+纺	hɔŋ	53		
+访	hɔŋ	53		
+恍	hɔŋ	53		
+晃	hɔŋ	53		
+幌	hɔŋ	53		
+轰	hɔŋ	31		
+况	hɔŋ	11		
+放	hɔŋ	11		
+奉	hɔŋ	11		
+俸	hɔŋ	11		
+凤	hɔŋ	11		
+缝	hɔŋ	11		裂～
+翁	ɔŋ	44		
+汪	ɔŋ	44		
+□	ɔŋ	44		玩耍时因不满而变脸
+□	ɔŋ	44		持槌状物击桩；以锄头敲打土块
+王	ɔŋ	24		
+□	ɔŋ	24		～侬：逗笑人；～客：只问价钱不购买的顾客
+往	ɔŋ	53		
+枉	ɔŋ	53		
+旺	ɔŋ	11		
+□	ɔŋ	11		腿陷入泥中
+中	tiɔŋ	44		
+忠	tiɔŋ	44		
+衷	tiɔŋ	44		～心
+张	tiɔŋ	44		
+长	tiɔŋ	24		～短
+重	tiɔŋ	24		～复
+场	tiɔŋ	24		
+肠	tiɔŋ	24		
+长	tiɔŋ	53		生～
+重	tiɔŋ	31		～要
+仲	tiɔŋ	31		
+中	tiɔŋ	11		～壮元
+胀	tiɔŋ	11		
+衷	tʰiɔŋ	44		苦～
+虫	tʰiɔŋ	24		
+冢	tʰiɔŋ	53		
+宠	tʰiɔŋ	53		
+丈	tʰiɔŋ	31		
+仗	tʰiɔŋ	31		
+杖	tʰiɔŋ	31		
+畅	tʰiɔŋ	31		舒～
+畅	tʰiɔŋ	11	白读	高兴
+良	liɔŋ	24		
+粮	liɔŋ	24		
+凉	liɔŋ	24		
+梁	liɔŋ	24		
+粱	liɔŋ	24		
+量	liɔŋ	24		测～
+两	liɔŋ	53		
+俩	liɔŋ	53		
+辆	liɔŋ	53		
+量	liɔŋ	11		重～
+谅	liɔŋ	11		
+亮	liɔŋ	11		
+章	t͡siɔŋ	44		
+漳	t͡siɔŋ	44		
+樟	t͡siɔŋ	44		
+彰	t͡siɔŋ	44		
+障	t͡siɔŋ	44		
+璋	t͡siɔŋ	44		
+终	t͡siɔŋ	44		
+将	t͡siɔŋ	44		～军
+锺	t͡siɔŋ	44		
+钟	t͡siɔŋ	44		
+盅	t͡siɔŋ	44		
+□	t͡siɔŋ	44		～搁：做
+从	t͡siɔŋ	24		服～，～容
+种	t͡siɔŋ	53		～类
+掌	t͡siɔŋ	53		
+奖	t͡siɔŋ	53		
+蒋	t͡siɔŋ	53		
+将	t͡siɔŋ	11		大～
+状	t͡siɔŋ	11	白读	～元
+充	t͡sʰiɔŋ	44		
+冲	t͡sʰiɔŋ	44		
+昌	t͡sʰiɔŋ	44		
+猖	t͡sʰiɔŋ	44		
+枪	t͡sʰiɔŋ	44		
+锵	t͡sʰiɔŋ	44		
+墙	t͡sʰiɔŋ	24		
+闯	t͡sʰiɔŋ	53		
+抢	t͡sʰiɔŋ	53		
+像	t͡sʰiɔŋ	31		
+象	t͡sʰiɔŋ	31		
+匠	t͡sʰiɔŋ	31		
+倡	t͡sʰiɔŋ	11		
+唱	t͡sʰiɔŋ	11		
+□	t͡sʰiɔŋ	11		乱闯
+娼	t͡sʰiɔŋ	11		
+相	siɔŋ	44		互～
+厢	siɔŋ	44		
+湘	siɔŋ	44		
+箱	siɔŋ	44		
+商	siɔŋ	44		
+伤	siɔŋ	44		
+襄	siɔŋ	44		
+镶	siɔŋ	44		
+祥	siɔŋ	24		
+详	siɔŋ	24		
+翔	siɔŋ	24		
+常	siɔŋ	24		
+裳	siɔŋ	24		
+尝	siɔŋ	24		
+偿	siɔŋ	24		
+赏	siɔŋ	53		
+想	siɔŋ	53		
+相	siɔŋ	11		宰～
+上	siɔŋ	11		
+尚	siɔŋ	11		
+绒	ziɔŋ	24		
+茸	ziɔŋ	24		
+瓤	ziɔŋ	24		
+嚷	ziɔŋ	53		
+壤	ziɔŋ	53		
+让	ziɔŋ	11		
+弓	kiɔŋ	44		
+躬	kiɔŋ	44		
+宫	kiɔŋ	44		
+供	kiɔŋ	44		～应，口～
+恭	kiɔŋ	44		
+疆	kiɔŋ	44		
+僵	kiɔŋ	44		
+缰	kiɔŋ	44		
+姜	kiɔŋ	44		鲜～
+穷	kiɔŋ	24		
+强	kiɔŋ	24		
+琼	kiɔŋ	24		
+巩	kiɔŋ	53		
+共	kiɔŋ	11		
+姜	kʰiɔŋ	44		姓
+羌	kʰiɔŋ	44		
+恐	kʰiɔŋ	53		
+仰	ɡiɔŋ	53		
+凶	hiɔŋ	44		
+汹	hiɔŋ	44		
+匈	hiɔŋ	44		
+胸	hiɔŋ	44		
+乡	hiɔŋ	44		
+香	hiɔŋ	44		
+雄	hiɔŋ	24		英～
+熊	hiɔŋ	24		
+响	hiɔŋ	53		
+向	hiɔŋ	11		
+饷	hiɔŋ	11		
+央	iɔŋ	44		
+鸯	iɔŋ	44		
+秧	iɔŋ	44		
+泱	iɔŋ	44		
+殃	iɔŋ	44		
+秧	iɔŋ	44		
+鞅	iɔŋ	44		
+拥	iɔŋ	44		
+臃	iɔŋ	44		
+痈	iɔŋ	44		
+羊	iɔŋ	24		
+洋	iɔŋ	24		
+佯	iɔŋ	24		
+烊	iɔŋ	24		
+容	iɔŋ	24		
+溶	iɔŋ	24		
+熔	iɔŋ	24		
+蓉	iɔŋ	24		
+榕	iɔŋ	24		
+阳	iɔŋ	24		
+扬	iɔŋ	24		
+杨	iɔŋ	24		
+疡	iɔŋ	24		
+融	iɔŋ	24		
+庸	iɔŋ	24		
+养	iɔŋ	53		
+痒	iɔŋ	53		
+氧	iɔŋ	53		
+永	iɔŋ	53		
+勇	iɔŋ	53		
+涌	iɔŋ	53		
+踊	iɔŋ	53		
+用	iɔŋ	11		
+佣	iɔŋ	11		
+样	iɔŋ	11		
+漾	iɔŋ	11		
+恙	iɔŋ	11		
+边	pĩ	44	白读	
+绷	pĩ	44	白读	～鼓：绷紧鼓面的皮
+平	pĩ	24	白读	
+坪	pĩ	24	白读	
+扁	pĩ	53	白读	
+辫	pĩ	31	白读	～仔：辫子
+柄	pĩ	11	白读	
+病	pĩ	11	白读	
+篇	pʰĩ	44	白读	
+彭	pʰĩ	24	白读	姓
+澎	pʰĩ	24	白读	
+□	bĩ	44		用五指抓物
+棉	bĩ	24	白读	
+绵	bĩ	24	白读	
+盲	bĩ	24	白读	青～：眼瞎
+冥	bĩ	24		一～：一夜
+弥	bĩ	53		
+尾	bĩ	53		
+面	bĩ	11	白读	燥～：挂面
+甜	tĩ	44	白读	
+缠	tĩ	24	白读	
+郑	tĩ	11		
+□	tĩ	11		用力（干事）
+天	tʰĩ	44	白读	
+添	tʰĩ	44	白读	
+□	tʰĩ	11		～衫：缝补衣服
+□	tʰĩ	11		抵
+奶	lĩ	44	白读	
+尼	lĩ	24		
+呢	lĩ	24		
+泥	lĩ	24		
+妮	lĩ	24		
+年	lĩ	24	白读	
+捏	lĩ	24	白读	用手～
+尔	lĩ	53		
+你	lĩ	53		
+耳	lĩ	53		
+染	lĩ	53	白读	
+呢	lĩ	31		语气词
+腻	lĩ	11		细～，光滑
+□	lĩ	11		踮着脚跟看
+精	t͡sĩ	44	白读	妖～
+争	t͡sĩ	44	白读	相～
+□	t͡sĩ	44		硬塞
+钱	t͡sĩ	24	白读	铜～：钱币
+晴	t͡sĩ	24	白读	
+井	t͡sĩ	53	白读	
+□	t͡sĩ	53		嫩，幼小
+箭	t͡sĩ	11	白读	
+诤	t͡sĩ	11		以言论相争
+将	t͡sĩ	11	白读	马～：麻将
+星	t͡sʰĩ	44	白读	
+青	t͡sʰĩ	44	白读	
+腥	t͡sʰĩ	44	白读	
+生	t͡sʰĩ	44	白读	～熟
+醒	t͡sʰĩ	53	白读	困一～：睡一觉
+生	sĩ	44	白读	～病
+姓	sĩ	11	白读	
+扇	sĩ	11	白读	纸～
+□	sĩ	11		～菜：腌菜
+更	kĩ	44	白读	三～
+经	kĩ	44	白读	～布
+钳	kĩ	24	白读	火～
+缘	kĩ	24	白读	边沿
+哽	kĩ	53	白读	
+见	kĩ	11	白读	～面
+坑	kʰĩ	44	白读	
+□	kʰĩ	24		攀
+硬	ɡĩ	31	白读	
+砚	hĩ	11	白读	墨～：砚台
+婴	ĩ	44	白读	
+□	ĩ	44	白读	塍～：蜻蜒
+圆	ĩ	24	白读	
+院	ĩ	11	白读	学～
+燕	ĩ	11	白读	～仔：燕子
+奴	lũ	24		
+努	lũ	24		
+怒	lũ	11		
+爿	pũĩ	24		柴～：片柴
+反	pũĩ	53	白读	翻
+枚	bũĩ	24		
+玫	bũĩ	24		
+媒	bũĩ	24		
+煤	bũĩ	24		
+梅	bũĩ	24		
+每	bũĩ	53		
+妹	bũĩ	11		
+前	t͡sũĩ	24	白读	面～：前面
+指	t͡sũĩ	53	白读	尾～：小指头
+千	t͡sʰũĩ	44	白读	
+先	sũĩ	44	白读	～去
+关	kũĩ	44	白读	～门
+间	kũĩ	44	白读	
+悬	kũĩ	24	白读	高
+拣	kũĩ	53	白读	
+茧	kũĩ	53	白读	
+县	kũĩ	11	白读	
+开	kʰũĩ	44	白读	～门
+横	hũĩ	24	白读	～直
+妈	bã	44		母亲
+马	bã	53		
+码	bã	53		
+妈	bã	53		祖母
+骂	bã	11		
+拿	lã	24		
+□	lã	11		留宿
+雅	ɡã	53		
+□	hã	24		答应语气词
+□	ã	24		追问语气词
+平	pĩã	24		～仄
+饼	pĩã	53	白读	
+丙	pĩã	53	白读	
+摒	pĩã	11		～水：倒水
+名	bĩã	24	白读	～字
+命	bĩã	11	白读	好～
+□	tĩã	44		因酒醉等原因走路摇晃的样子
+呈	tĩã	24	白读	
+庭	tĩã	24	白读	场～：场院
+鼎	tĩã	53	白读	锅
+蝊	tĩã	31		
+定	tĩã	11	白读	～亲：订婚
+听	tʰĩã	44	白读	
+厅	tʰĩã	44	白读	
+痛	tʰĩã	11	白读	
+岭	lĩã	53	白读	
+领	lĩã	53	白读	
+正	t͡sĩã	44	白读	～月
+精	t͡sĩã	44	白读	～肉：瘦肉
+情	t͡sĩã	24	白读	亲～：亲戚
+□	t͡sĩã	53		淡
+正	t͡sĩã	11	白读	～式
+□	t͡sʰĩã	24		（搞）坏了
+且	t͡sʰĩã	53		
+请	t͡sʰĩã	53	白读	
+□	t͡sʰĩã	31		打擦声
+声	sĩã	44	白读	
+城	sĩã	24	白读	
+□	sĩã	24		以食物诱捕动物
+啥	sĩã	53	白读	什么
+圣	sĩã	11	白读	灵验
+□	sĩã	11		旧时送礼用的盛具
+京	kĩã	44	白读	
+惊	kĩã	44	白读	
+件	kĩã	31	白读	
+镜	kĩã	11	白读	目～：眼镜
+迎	ɡĩã	24	白读	～灯
+仰	ɡĩã	24	白读	
+兄	hĩã	44	白读	
+□	hĩã	53		搂抱（东西）
+□	hĩã	31		篮～：篮系几
+□	hĩã	11		身体后仰，快跌倒的样子
+缨	ĩã	44	白读	红～
+□	ĩã	44		水～：圆形的水波
+营	ĩã	24	白读	
+赢	ĩã	24	白读	
+影	ĩã	53	白读	电～，有～，无～
+搬	pũã	44	白读	
+盘	pũã	24	白读	～碗，～点
+□	pũã	31		拂打
+半	pũã	11	白读	
+雇	pũã	11	白读	
+潘	pʰũã	44	白读	姓
+般	pʰũã	44	白读	
+□	pʰũã	24		溢
+伴	pʰũã	31	白读	
+叛	pʰũã	31	白读	
+判	pʰũã	31	白读	
+雇	pʰũã	11	白读	又读
+鳗	bũã	24	白读	
+瞒	bũã	24	白读	
+麻	bũã	24	白读	
+满	bũã	53	白读	
+□	bũã	11		向：～东，～西
+单	tũã	44	白读	
+弹	tũã	24	白读	～棉花
+坛	tũã	24	白读	
+惮	tũã	31	白读	懒
+段	tũã	31	白读	
+旦	tũã	11	白读	花～
+滩	tʰũã	44	白读	
+摊	tʰũã	44	白读	
+㔊	tʰũã	53		～草：锄草
+炭	tʰũã	11	白读	
+□	tʰũã	11		松，不紧
+栏	lũã	24	白读	～牛
+□	lũã	53		～面：揉面
+澜	lũã	31		唾液
+□	lũã	31		鸡～：小母鸡
+烂	lũã	11	白读	
+煎	t͡sũã	44	白读	～药
+泉	t͡sũã	24	白读	～水
+盏	t͡sũã	53	白读	
+溅	t͡sũã	31	白读	
+串	t͡sʰũã	11	白读	门～：门闩
+山	sũã	44	白读	
+汕	sũã	44	白读	～头
+散	sũã	53	白读	～开，～裂
+散	sũã	11	白读	分～
+线	sũã	11	白读	
+伞	sũã	11	白读	
+肝	kũã	44	白读	
+官	kũã	44	白读	
+棺	kũã	44	白读	
+倌	kũã	44	白读	
+干	kũã	44	白读	鱼～
+竿	kũã	44	白读	竹～
+寒	kũã	24	白读	～天：冷天
+赶	kũã	53	白读	
+寡	kũã	53		
+□	kũã	31		～水：提水
+汗	kũã	11	白读	
+看	kʰũã	11	白读	～牛：牧牛
+欢	hũã	24	白读	
+岸	hũã	11	白读	塍～：田梗
+焊	hũã	11	白读	
+□	hũã	11		扶住东西，免其倾斜
+鞍	ũã	44	白读	
+碗	ũã	53	白读	
+腕	ũã	53	白读	
+旱	ũã	31	白读	
+晏	ũã	11	白读	迟，晚
+换	ũã	11	白读	
+毛	bɔ̃	24		
+麻	bɔ̃	24		
+磨	bɔ̃	24		～刀
+摩	bɔ̃	24		
+魔	bɔ̃	24		
+冒	bɔ̃	11		
+磨	bɔ̃	11		推～
+帽	bɔ̃	11		
+老	lɔ̃	53		
+佬	lɔ̃	53		
+考	kʰɔ̃	53		
+可	kʰɔ̃	53		
+俄	ɡɔ̃	24		
+娥	ɡɔ̃	24		
+蛾	ɡɔ̃	24		
+鹅	ɡɔ̃	24		
+熬	ɡɔ̃	24		
+鏊	ɡɔ̃	24		
+鳌	ɡɔ̃	24		
+我	ɡɔ̃	53		
+饿	ɡɔ̃	11		
+傲	ɡɔ̃	11		
+好	hɔ̃	53		～坏
+火	hɔ̃	53		
+伙	hɔ̃	53		
+好	hɔ̃	11		～客
+货	hɔ̃	11		
+□	ɔ̃	44		哄小孩睡的声音
+□	ɔ̃	24		语气词，表示遗憾不满情绪
+冇	pʰə̃	11		内虚，不结实；形容花钱无计划
+担	tə̃	44	白读	～担，扁～
+胆	tə̃	53	白读	
+担	tə̃	11	白读	担～
+□	tə̃	11		差错
+林	lə̃	24	白读	树～
+篮	lə̃	24	白读	
+挪	lə̃	24		
+那	lə̃	53		
+哪	lə̃	53		
+娜	lə̃	53		
+□	lə̃	53		凹
+若	lə̃	11	白读	如果
+□	t͡sə̃	24		轻跳
+三	sə̃	44	白读	
+相	sə̃	44	白读	～同
+衫	sə̃	44	白读	衣裳
+监	kə̃	44	白读	～牢
+柑	kə̃	44	白读	
+□	kə̃	24		现在
+敢	kə̃	53	白读	
+仔	kə̃	53		椅～：椅子
+□	pãĩ	31		打锣声
+糜	bãĩ	44		饭
+买	bãĩ	53		
+卖	bãĩ	11		
+迈	bãĩ	11		
+□	tãĩ	44		敲小锣的声音
+店	tãĩ	11		
+□	tãĩ	11		坚硬
+奶	lãĩ	44		
+□	lãĩ	44		扭动身体去痒
+乃	lãĩ	53		
+耐	lãĩ	11		
+奈	lãĩ	11		
+荔	lãĩ	11		～枝
+赖	lãĩ	11		
+癞	lãĩ	11		
+□	hãĩ	53		那样
+闲	ãĩ	24	白读	
+□	ãĩ	53		这样
+矛	bə̃ũ	24		
+茅	bə̃ũ	24		
+蟊	bə̃ũ	24		
+□	bə̃ũ	53		不聪明能干；坏
+貌	bə̃ũ	11		
+脑	lə̃ũ	53		
+张	tĩũ	44	白读	
+场	tĩũ	24	白读	
+长	tĩũ	53	白读	县～
+丈	tĩũ	31	白读	姑～
+帐	tĩũ	31	白读	蠓～：蚊帐
+胀	tĩũ	11	白读	
+□	lĩũ	44		椅仔～：小椅子
+娘	lĩũ	24	白读	
+粮	lĩũ	24	白读	
+量	lĩũ	24	白读	～米
+梁	lĩũ	24	白读	
+两	lĩũ	53	白读	斤～
+让	lĩũ	11	白读	
+章	t͡sĩũ	44	白读	文～
+浆	t͡sĩũ	44	白读	豆～
+樟	t͡sĩũ	44	白读	
+蒋	t͡sĩũ	53	白读	
+桨	t͡sĩũ	53	白读	
+痒	t͡sĩũ	31	白读	
+上	t͡sĩũ	31	白读	～山
+□	t͡sĩũ	31		怎么，怎样
+酱	t͡sĩũ	11	白读	
+浆	t͡sĩũ	11	白读	
+枪	t͡sʰĩũ	44	白读	
+墙	t͡sʰĩũ	24	白读	
+厂	t͡sʰĩũ	53	白读	
+抢	t͡sʰĩũ	53	白读	
+象	t͡sʰĩũ	31	白读	
+像	t͡sʰĩũ	31	白读	亲～：相像
+上	t͡sʰĩũ	31	白读	～梁
+唱	t͡sʰĩũ	11	白读	
+箱	sĩũ	44	白读	
+□	sĩũ	24		形容做事缓慢，不干脆利索
+赏	sĩũ	53	白读	
+鲞	sĩũ	53		
+想	sĩũ	31	白读	
+相	sĩũ	11	白读	生～：生肖
+姜	kĩũ	44	白读	生～
+□	kĩũ	31		违拗，不听话
+腔	kʰĩũ	44	白读	～调
+香	hĩũ	44	白读	烧～
+乡	hĩũ	44	白读	
+向	hĩũ	11	白读	西～：西面
+羊	ĩũ	24	白读	
+洋	ĩũ	24	白读	
+杨	ĩũ	24	白读	
+烊	ĩũ	24	白读	冰～：化冰
+养	ĩũ	53	白读	
+□	ĩũ	53		～水：舀水
+样	ĩũ	11	白读	
+猫	zĩãũ	44	白读	
+摇	zĩãũ	24	白读	轻轻地动；干轻活
+鸟	zĩãũ	53		
+□	zĩãũ	11		粗糙，不光滑
+梅	m̩	24	白读	树～：杨梅
+姆	m̩	53		伯母
+䘼	m̩	53	白读	又读，手～
+吥	m̩	31		不
+枫	pŋ̍	44	白读	～树
+本	pŋ̍	53	白读	～钱
+□	bŋ̍	44		雨～：毛毛细雨
+门	bŋ̍	24	白读	
+毛	bŋ̍	24	白读	
+问	bŋ̍	11	白读	
+当	tŋ̍	44	白读	～兵
+堂	tŋ̍	24	白读	
+肠	tŋ̍	24	白读	
+长	tŋ̍	24	白读	～期
+转	tŋ̍	53	白读	返回
+涨	tŋ̍	53	白读	潮水～
+丈	tŋ̍	31	白读	一～
+断	tŋ̍	31	白读	
+当	tŋ̍	11	白读	～店：当铺
+汤	tʰŋ̍	44	白读	
+糖	tʰŋ̍	24	白读	
+脱	tʰŋ̍	11	白读	～衫，～裤
+烫	tʰŋ̍	11	白读	
+软	lŋ̍	53	白读	
+两	lŋ̍	31	白读	～分
+卵	lŋ̍	31	白读	鸡～：鸡蛋
+□	lŋ̍	11		钻
+装	t͡sŋ̍	44	白读	
+妆	t͡sŋ̍	44	白读	
+庄	t͡sŋ̍	44	白读	
+砖	t͡sŋ̍	44	白读	
+□	t͡sŋ̍	24		苍蝇～物
+□	t͡sŋ̍	24		齐～：齐全
+指	t͡sŋ̍	53	白读	～甲
+钻	t͡sŋ̍	11	白读	～仔：锥子
+仓	t͡sʰŋ̍	44	白读	
+疮	t͡sʰŋ̍	44	白读	
+舱	t͡sʰŋ̍	44	白读	
+穿	t͡sʰŋ̍	44	白读	～针
+床	t͡sʰŋ̍	24	白读	
+串	t͡sʰŋ̍	11	白读	
+□	t͡sʰŋ̍	11		阴凉药物刺激皮肤的感觉
+霜	sŋ̍	44	白读	
+酸	sŋ̍	44	白读	
+损	sŋ̍	53	白读	
+算	sŋ̍	11	白读	～数：算帐
+光	kŋ̍	44	白读	
+扛	kŋ̍	44		
+缸	kŋ̍	44	白读	
+杠	kŋ̍	24	白读	桥～
+广	kŋ̍	53	白读	
+卷	kŋ̍	53	白读	～席
+钢	kŋ̍	11	白读	
+卷	kŋ̍	11	白读	考～
+糠	kʰŋ̍	44	白读	
+劝	kʰŋ̍	11	白读	
+囥	kʰŋ̍	11		藏
+荒	hŋ̍	44	白读	
+方	hŋ̍	44	白读	
+昏	hŋ̍	44	白读	冥～：晚上
+园	hŋ̍	24	白读	
+哼	hŋ̍	53		表示蔑视或不满意
+远	hŋ̍	31	白读	
+秧	ŋ̍	44	白读	
+□	ŋ̍	44		哄婴儿大便声
+黄	ŋ̍	24	白读	
+□	ŋ̍	24		应答声
+䘼	ŋ̍	53	白读	手～：袖子
+□	ŋ̍	31		表示赞同声
